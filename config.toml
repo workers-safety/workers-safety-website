@@ -1,5 +1,5 @@
 baseurl = "http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/"
-title = "Legal Clinic"
+title = "Caca"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -52,24 +52,29 @@ paginate = 10
     weight = 1
     
 [[params.menu]]
+    name = "About Us"
+    url  = "/about-us/"
+    weight = 2
+    
+[[params.menu]]
     name = "Resources"
     url  = "/resources/"
-      weight = 2   
+      weight = 3   
 
 [[params.menu]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 3 
-
-[[params.menu]]
-    name = "About Us"
-    url  = "/about/"
     weight = 4
+    
+[[params.menu]]
+    name = "Membership"
+    url  = "/member/"
+    weight = 5 
     
 [[params.menu]]
     name = "Contact Us"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 
 
