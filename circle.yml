@@ -1,0 +1,34 @@
+machine:
+  timezone:
+    America/New_York
+  services:
+    - docker
+
+dependencies:
+  pre:
+    - sudo pip install awscli
+    - docker info
+    - docker build -t clamorisse/hugo:0.15 ./docker-hugo-site
+    - pwd
+    - docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo
+
+test:
+  post:
+    - docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --watch --bind=0.0.0.0; sleep 10
+    - docker ps -a
+    - curl --retry 5 --retry-delay 5 -v http://localhost:1313
+    - docker logs hugotest
+    - if [  "$(ls -A ./public)" ]; then echo "generated public dir"; else exit 5; fi
+    - cat $(pwd)/public/index.html
+    - docker stop hugotest
+    
+deployment:
+  production:
+    branch: master
+    commands: 
+      - aws s3 sync public/ s3://workers-safety.ca/
+  staging:
+    branch: stage-tf
+    commands:
+      - docker run -d -p 1313:1313 --name hugostage -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.14 hugo server --baseUrl=http://workers-safety-stage.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --bind=0.0.0.0
+      - aws s3 sync public/ s3://blog-stage.cotero.org/

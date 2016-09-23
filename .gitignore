@@ -1,0 +1,8 @@
+old*.*
+public/
+**/terraform.tfstate*
+**/.DS_Store
+**/Gemfile.lock
+**/*.swp
+**/.terraform
+**/*.txt
