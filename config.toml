@@ -13,6 +13,7 @@ paginate = 10
 [params]
     viewMorePostLink     = "/blog/"
     author = "Workers"
+    Title = "Workers Legal Clinic"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -34,6 +35,8 @@ paginate = 10
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>Health and Safety Legal Clinic</strong>
+        <br>Monday - Friday 9am - 5pm
+        <br>Closed on public holidays
         <br>180 Dunas St. West
         <br>Suite 2000, Box 4
         <br>Toronto, ON
@@ -52,24 +55,29 @@ paginate = 10
     weight = 1
     
 [[params.menu]]
+    name = "About Us"
+    url  = "/about-us/"
+    weight = 2
+    
+[[params.menu]]
     name = "Resources"
     url  = "/resources/"
-      weight = 2   
+      weight = 3   
 
 [[params.menu]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 3 
-
-[[params.menu]]
-    name = "About Us"
-    url  = "/about/"
     weight = 4
     
 [[params.menu]]
-    name = "Contact"
+    name = "Membership"
+    url  = "/member/"
+    weight = 5 
+    
+[[params.menu]]
+    name = "Contact Us"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 
 
