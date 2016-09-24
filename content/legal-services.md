@@ -70,3 +70,5 @@ The WSIB expects that workers will return to work with their employers. Often, w
 ### Occupational Disease Appeals
 
 Long term exposures at the workplace can result in occupational diseases. Sometimes, doing the same tasks over and over can lead to repetitive strain injuries. We represent workers with these claims.
+
+-----
