@@ -33,7 +33,7 @@ title = "From our blog"
 enable = true
 icon = "fa fa-file-code-o"
 link_text = "Check other homepages"
-link_url = "workers-safety.ca"
+link_url = "http://workers-safety.ca"
 subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
 title = "Do you want to see more?"
 [params.testimonials]
