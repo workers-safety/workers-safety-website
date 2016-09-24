@@ -1,5 +1,5 @@
 baseurl = "http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/"
-title = "Caca"
+title = "Legal Clinic"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -13,6 +13,7 @@ paginate = 10
 [params]
     viewMorePostLink     = "/blog/"
     author = "Workers"
+    Title = "Workers Legal Clinic"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -34,6 +35,8 @@ paginate = 10
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>Health and Safety Legal Clinic</strong>
+        <br>Monday - Friday 9am - 5pm
+        <br>Closed on public holidays
         <br>180 Dunas St. West
         <br>Suite 2000, Box 4
         <br>Toronto, ON
