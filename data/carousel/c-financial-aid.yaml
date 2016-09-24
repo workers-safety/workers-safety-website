@@ -1,9 +1,8 @@
+---
 weight: 2
-title: "Financial Aid"
-description: >
-  <ul class="list-style-none">
-     <li>Free Legal Services for low-income non-unionized workers</li>
-     <li>Legal Aid Ontario’s financial eligibility criteria</li>
-     <li>Eligibility is based on household size and income</li>
-   </ul>
-image: "img/carousel/workers-unity-ca.jpg"
+title: Financial Aid
+description: "<ul class=\"list-style-none\">\r\n   <li>Free Legal Services for low-income
+  non-unionized workers</li>\r\n   <li>Eligibility is based on household size and
+  income</li>\r\n   <li>Under the Legal Aid Ontario’s financial eligibility criteria</li>\r\n
+  </ul>\r\n"
+image: img/carousel/workers-unity-ca.jpg
