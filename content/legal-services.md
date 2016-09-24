@@ -9,18 +9,18 @@ type = "page"
 
 The WHSLC provides legal services to low-income non-unionized workers who need assistance with legal matters that relate to their employment rights or their health and safety rights at work. Our legal services include summary legal advice, brief legal services, referrals, and legal representation. 
 
-Scroll down for more information on our areas of practice which include Unlawful Dismissals and Workplace Safety and Insurance Board (WSIB) matters.
+Scroll down for more information on our **areas of practice** which include Unlawful Dismissals and Workplace Safety and Insurance Board (WSIB) matters.
 
 -----
 # Unlawful Dismissals
 
 The WHSLC provides advice and representation on a number of unlawful dismissal matters including: 
 
-> * Health and Safety Reprisals
-> * Employment Standards: Reprisals and Termination Pay/Severance Pay Claims
-> * Human Rights Applications: Employment and Disability
-> * Canada Labour Code: Unjust Dismissals and Reprisals
-> * Small Claims Court: Wrongful Dismissal and Constructive Dismissal Lawsuits
+* **Health and Safety Reprisals**
+* **Employment Standards: Reprisals and Termination Pay/Severance Pay Claims**
+* **Human Rights Applications: Employment and Disability**
+* **Canada Labour Code: Unjust Dismissals and Reprisals**
+* **Small Claims Court: Wrongful Dismissal and Constructive Dismissal Lawsuits**
 
 -----
 ### Health and Safety Reprisals
