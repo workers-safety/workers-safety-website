@@ -1,6 +1,6 @@
 +++
 date = "2016-09-24T14:53:00+00:00"
-draft = true
+draft = false
 title = "Legal Services"
 type = "page"
 
