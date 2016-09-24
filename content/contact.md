@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 id = "contact"
 title = "Contact Us"
 type = "page"
