@@ -6,6 +6,9 @@
             <h4>About us</h4>
 
             {{ .Site.Params.about_us | safeHTML }}
+            {{ .Site.Params.about_description | safeHTML }}
+            
+            <a href="/about-us" class="btn btn-small btn-template-main">Learn more</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
