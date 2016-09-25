@@ -11,7 +11,7 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-#    viewMorePostLink     = "/blog/"
+    viewMorePostLink     = "/blog/"
     author = "Workers"
     Title = "Workers Legal Clinic"
 
@@ -31,6 +31,7 @@ paginate = 10
     email = "berenice@cotero.org"
 
     about_us = "<p>Workers' Safety and Health Legal Clinic.</p>"
+    about_description = "<p>Advocating for workers' rights.</p>"
     copyright = "Copyright (c) 2015 - 2016, WSHLC; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/whslc4Clogo.jpg"
