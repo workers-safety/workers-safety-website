@@ -56,29 +56,34 @@ paginate = 10
     weight = 1
     
 [[params.menu]]
-    name = "About Us"
-    url  = "/about-us/"
-    weight = 2
-    
+    name = "Legal Services"
+    url  = "/legal-services/"
+      weight = 3   
+
 [[params.menu]]
     name = "Resources"
     url  = "/resources/"
       weight = 3   
 
 [[params.menu]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 4
-
-[[params.menu]]
-    name = "FAQ"
+    name = "Who we serve"
     url  = "/faq/"
     weight = 5
     
 [[params.menu]]
+    name = "Newsletters"
+    url  = "/blog/"
+    weight = 4
+
+[[params.menu]]
     name = "Membership"
     url  = "/member/"
-    weight = 6 
+    weight = 6
+
+[[params.menu]]
+    name = "About Us"
+    url  = "/about-us/"
+    weight = 2
     
 [[params.menu]]
     name = "Contact Us"
