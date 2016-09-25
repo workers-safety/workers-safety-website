@@ -2,7 +2,7 @@
     <div class="container">
 
         {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-6 col-sm-6">
             <h4>About us</h4>
 
             {{ .Site.Params.about_us | safeHTML }}
@@ -13,7 +13,7 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
-        <div class="col-md-4 col-sm-6">
+<!--        <div class="col-md-4 col-sm-6">
 
             <h4>Recent posts</h4>
 
@@ -21,7 +21,7 @@
                 {{ range first 3 (where .Site.Pages "Type" "blog") }}
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="{{ .Permalink }}">
+                       <a href="{{ .Permalink }}">
                           {{ if isset .Params "banner" }}
                             <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
                           {{ else }}
@@ -30,8 +30,8 @@
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
-                    </div>
+                       <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+                    </div> 
                 </div>
                 {{ end }}
             </div>
@@ -39,10 +39,11 @@
             <hr class="hidden-md hidden-lg">
 
         </div>
+-->
         <!-- /.col-md-4 -->
 
         {{ if isset .Site.Params "address" }}
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-6 col-sm-6">
 
             <h4>Contact</h4>
 

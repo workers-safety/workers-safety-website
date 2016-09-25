@@ -11,7 +11,7 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-    viewMorePostLink     = "/blog/"
+#    viewMorePostLink     = "/blog/"
     author = "Workers"
     Title = "Workers Legal Clinic"
 
@@ -30,13 +30,13 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "berenice@cotero.org"
 
-    about_us = "<p>Workers Safety and Health Legal Clinic.</p>"
+    about_us = "<p>Workers' Safety and Health Legal Clinic.</p>"
     copyright = "Copyright (c) 2015 - 2016, WSHLC; all rights reserved."
     date_format = "2006-01-02"
-    logo = "img/logo.png"
-    address = """<p><strong>Health and Safety Legal Clinic</strong>
+    logo = "img/whslc4Clogo.jpg"
+    address = """<p><strong>Workers' Health and Safety Legal Clinic</strong>
         <br>Monday - Friday 9am - 5pm
-        <br>Closed on public holidays
+        <br>
         <br>180 Dunas St. West
         <br>Suite 2000, Box 4
         <br>Toronto, ON
@@ -104,31 +104,31 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
-    enable = true
+#[params.testimonials]
+#    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+#    title = "Testimonials"
+#    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+#[params.see_more]
+#    enable = true
+#   icon = "fa fa-file-code-o"
+#    title = "Do you want to see more?"
+#    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+#    link_url = "#"
+#    link_text = "Check other homepages"
 
-[params.clients]
-    enable = true
-    # All clients are defined in their own files. You can find example items
+#[params.clients]
+#    enable = true
+   # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+#    title = "Our Clients"
+#    subtitle = ""
 
-[params.recent_posts]
-    enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+#[params.recent_posts]
+#    enable = true
+#    title = "From our blog"
+#    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
