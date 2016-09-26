@@ -47,6 +47,6 @@ Being a volunteer Board member is an opportunity to network, to meet others who 
  
 Board members must be WHSLC members and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board Committees.  
 
-If you are interested in our Board, please **Contact Us**.
+If you are interested in our Board, please [Contact Us](/contact/).
 
 -----
