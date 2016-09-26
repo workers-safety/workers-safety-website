@@ -14,7 +14,7 @@ dependencies:
 
 test:
   post:
-    - docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --watch --bind=0.0.0.0; sleep 10
+    - docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --watch --bind=0.0.0.0; sleep 10
     - docker ps -a
     - curl --retry 5 --retry-delay 5 -v http://localhost:1313
     - docker logs hugotest
@@ -26,7 +26,7 @@ deployment:
   production:
     branch: master
     commands:
-      - docker run -d -p 1313:1313 --name hugostage -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --bind=0.0.0.0
+      - docker run -d -p 1313:1313 --name hugoprod -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --bind=0.0.0.0
       - aws s3 sync public/ s3://workers-safety.ca/
   staging:
     branch: stage
