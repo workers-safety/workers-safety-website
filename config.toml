@@ -30,9 +30,9 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "berenice@cotero.org"
 
-    about_us = "<p>Workers'Health and Safety Legal Clinic.</p>"
+    about_us = "<p>Workers' Health and Safety Legal Clinic.</p>"
     about_description = "<p>Advocating for workers' rights.</p>"
-    copyright = "Copyright (c) 2015 - 2016, WSHLC; all rights reserved."
+    copyright = "Copyright (c) 2016, TWHSLC; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/whslc4Clogo.jpg"
     address = """<p><strong>Workers' Health and Safety Legal Clinic</strong>
