@@ -4,7 +4,7 @@ title = "About Us"
 type = "page"
 
 +++
-# **About Us**
+# **Who We Are**
 
 The Workers’ Health and Safety Legal Clinic (WHSLC) is a community legal aid clinic that focuses on workers’ rights with an emphasis on workplace health and safety issues and employment law issues.
 
@@ -12,7 +12,7 @@ Our lawyers provide free information, legal advice, referrals and representation
 
 We are funded by Legal Aid Ontario (LAO) and are a specialty legal clinic within LAO's system of community legal clinics and specialty legal clinics. 
 
-Scroll down for more information on our Clinic's History, Staff, and Board of Directors.
+Scroll down for more information on our Clinic's **History**, **Staff**, and **Board of Directors**.
 
 -----
 # Clinic History
