@@ -12,7 +12,7 @@ Our lawyers provide free information, legal advice, referrals and representation
 
 We are funded by Legal Aid Ontario (LAO) and are a specialty legal clinic within LAO's system of community legal clinics and specialty legal clinics. 
 
-Scroll down for more information on our Clinic's **History**, **Staff**, and **Board of Directors**.
+Scroll down for more information on our **Clinic History**, **Staff**, and **Board of Directors**.
 
 -----
 # Clinic History
@@ -47,6 +47,6 @@ Being a volunteer Board member is an opportunity to network, to meet others who 
  
 Board members must be WHSLC members and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board Committees.  
 
-If you are interested in our Board, please [Contact Us](/contact/).
+If you are interested in our Board of Directors, please [Contact Us](/contact/).
 
 -----
