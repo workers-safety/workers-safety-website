@@ -58,7 +58,7 @@ paginate = 10
 [[params.menu]]
     name = "Legal Services"
     url  = "/legal-services/"
-      weight = 3   
+      weight = 2   
 
 [[params.menu]]
     name = "Resources"
@@ -68,12 +68,12 @@ paginate = 10
 [[params.menu]]
     name = "Who we serve"
     url  = "/faq/"
-    weight = 5
+    weight = 4
     
 [[params.menu]]
     name = "Newsletters"
-    url  = "/blog/"
-    weight = 4
+    url  = "http://workers-safety.ca/"
+    weight = 5
 
 [[params.menu]]
     name = "Membership"
@@ -83,12 +83,12 @@ paginate = 10
 [[params.menu]]
     name = "About Us"
     url  = "/about-us/"
-    weight = 2
+    weight = 7
     
 [[params.menu]]
     name = "Contact Us"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 
 
