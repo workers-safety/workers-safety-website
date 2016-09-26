@@ -11,6 +11,10 @@ type = "page"
 
 Feel free to contact us by phone, email or in person ([map](https://www.google.ca/maps/place/180+Dundas+St+W,+Toronto,+ON+M7A+0A1/@43.6553678,-79.3886179,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34c95db6ef85:0x55cb989b006cdd75!8m2!3d43.6553678!4d-79.3864292)) for information, to receive our services, to become a [member](/member/), to join the Board of Directors, or to inquire about volunteer opportunities. 
 
+* Telephone: **416-971-8832** (Local) or **1-877-832-6090** (Toll free)
+
+* Email: **info@workers-safety.ca**
+
 Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [Twitter](https://twitter.com/TWHSLC).
 
 There is a fillable contact form available below if you wish contact us online.
