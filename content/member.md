@@ -15,7 +15,7 @@ To become a member, you must be a resident of Ontario who is 18 years of age or 
 You can apply to become a member by downloading our WHSLC Membership Application Form in PDF format that you can complete and send to our office.
 
 -----
-# Mission Statement
+### Mission Statement
 
 The Workers’ Health and Safety Legal Clinic is committed to the promotion of safe and healthy workplaces throughout Ontario with a focus on the non-unionized sector of the workforce. We seek to do this by informing workers of their basic legal rights at work in the areas of health and safety, workers’ compensation, human rights and employment standards as well as legal advice and representation to non-unionized workers attempting to improve conditions in their individual workplaces. In particular, we provide representation to workers who have been unlawfully punished or terminated for exercising their rights.
 
