@@ -13,7 +13,7 @@ type = "page"
 
 * #### Telephone: **416-971-8832** (Local) or **1-877-832-6090** (Toll free)
 
-* #### Email: **info@workers-safety.ca**
+* #### Email: **whslc@lao.on.ca**
  
 #### Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [Twitter](https://twitter.com/TWHSLC).
 
