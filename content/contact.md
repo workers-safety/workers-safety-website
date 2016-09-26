@@ -5,13 +5,13 @@ title = "Contact Us"
 type = "page"
 
 +++
-# **Contact Us**
+*The Workers’ Health and Safety Legal Clinic provides free legal services to non-unionized workers in the province of Ontario who are experiencing health and safety and/or employment related legal issues in the workplace.*
 
-The Workers’ Health and Safety Legal Clinic provides free legal services to non-unionized workers in the province of Ontario who are experiencing health and safety and/or employment related legal issues in the workplace. 
+-----
 
 Feel free to contact us by phone, email or in person ([map](https://www.google.ca/maps/place/180+Dundas+St+W,+Toronto,+ON+M7A+0A1/@43.6553678,-79.3886179,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34c95db6ef85:0x55cb989b006cdd75!8m2!3d43.6553678!4d-79.3864292)) for information, to receive our services, to become a [member](/member/), to join the Board of Directors, or to inquire about volunteer opportunities. 
 
-Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [twitter](https://twitter.com/TWHSLC).
+Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [Twitter](https://twitter.com/TWHSLC).
 
 There is a fillable contact form available below if you wish contact us online.
 
