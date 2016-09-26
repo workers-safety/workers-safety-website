@@ -2,10 +2,15 @@
     <div class="container">
 
         {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-6 col-sm-6">
             <h4>About us</h4>
 
             {{ .Site.Params.about_us | safeHTML }}
+            {{ .Site.Params.about_description | safeHTML }}
+            
+            <a href="https://www.facebook.com/TWHSLC/" class="btn btn-small btn-template-main">Facebook</a>
+            <a href="https://www.twitter.com/TWHSLC/" class="btn btn-small btn-template-main">twitter</a>
+            <a href="/about-us" class="btn btn-small btn-template-main">Learn more</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -13,7 +18,7 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
-        <div class="col-md-4 col-sm-6">
+<!--        <div class="col-md-4 col-sm-6">
 
             <h4>Recent posts</h4>
 
@@ -21,7 +26,7 @@
                 {{ range first 3 (where .Site.Pages "Type" "blog") }}
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="{{ .Permalink }}">
+                       <a href="{{ .Permalink }}">
                           {{ if isset .Params "banner" }}
                             <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
                           {{ else }}
@@ -30,8 +35,8 @@
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
-                    </div>
+                       <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+                    </div> 
                 </div>
                 {{ end }}
             </div>
@@ -39,14 +44,17 @@
             <hr class="hidden-md hidden-lg">
 
         </div>
+-->
         <!-- /.col-md-4 -->
 
         {{ if isset .Site.Params "address" }}
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-6 col-sm-6">
 
             <h4>Contact</h4>
 
             {{ .Site.Params.address | safeHTML }}
+            
+            <a href="https://www.google.ca/maps/place/180+Dundas+St+W,+Toronto,+ON+M7A+0A1/@43.6553678,-79.3886179,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34c95db6ef85:0x55cb989b006cdd75!8m2!3d43.6553678!4d-79.3864292" class="btn btn-small btn-template-main">Map</a>
 
             <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
 

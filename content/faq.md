@@ -1,41 +1,24 @@
 +++
-title = "FAQ"
+draft = false
+title = "Who We Serve"
+type = "page"
+
 +++
+# **Financial Eligibility**
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Our services are available, free of charge, to low-income non-unionized workers who need assistance with legal matters that fall within the Clinic’s area of practice. For more information on our areas of practice, visit the [Legal Services](/legal-services/) section on our website. We use Legal Aid Ontario’s financial eligibility criteria to determine if you are eligible for services from our Clinic. This eligibility is based on household size and income.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+-----
+### Province of Ontario
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Our Clinic’s service area extends across the province of Ontario. This means that in order to receive our legal services, you must have been working in Ontario at the time the health and safety or employment-related legal issue began. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+-----
+### Non-Unionized Workers
 
-## 2. WHAT ARE THE POSTAL RATES?
+Our services are intended for low-income workers who do not have union membership for protection. That being said, we also try to provide informational assistance to unionized workers and their unions and organizations.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+-----
+**IMPORTANT - Please note:** If you are unsure whether we can help you, please contact us for more information. You may be asked some questions to assess if you are eligible for assistance. If we are unable to help you, we will provide you with information for other organizations, legal aid clinics or services that may be able to assist you.
 
-## 3. DO YOU SEND OVERSEAS?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+-----
