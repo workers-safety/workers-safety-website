@@ -4,10 +4,7 @@ title = "Who We Serve"
 type = "page"
 
 +++
-# **Who We Serve**
-
----
-### Financial Eligibility
+# **Financial Eligibility**
 
 Our services are available, free of charge, to low-income non-unionized workers who need assistance with legal matters that fall within the Clinic’s area of practice. For more information on our areas of practice, visit the **Legal Services** section on our website. We use Legal Aid Ontario’s financial eligibility criteria to determine if you are eligible for services from our Clinic. This eligibility is based on household size and income.
 
