@@ -67,7 +67,7 @@ paginate = 10
 
 [[params.menu]]
     name = "Who we serve"
-    url  = "/faq/"
+    url  = "/who-we-serve/"
     weight = 4
     
 [[params.menu]]
