@@ -19,6 +19,6 @@ Our Clinic’s service area extends across the province of Ontario. This means t
 Our services are intended for low-income workers who do not have union membership for protection. That being said, we also try to provide informational assistance to unionized workers and their unions and organizations.
 
 -----
-**IMPORTANT - Please note:** If you are unsure whether we can help you, please contact us for more information. You may be asked some questions to assess if you are eligible for assistance. If we are unable to help you, we will provide you with information for other organizations, legal aid clinics or services that may be able to assist you.
+**IMPORTANT - Please note:** If you are unsure whether we can help you, please [contact us](/contact/) for more information. You may be asked some questions to assess if you are eligible for assistance. If we are unable to help you, we will provide you with information for other organizations, legal aid clinics or services that may be able to assist you.
 
 -----
