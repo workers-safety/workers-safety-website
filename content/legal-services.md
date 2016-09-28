@@ -9,7 +9,7 @@ type = "page"
 
 The WHSLC provides legal services to low-income non-unionized workers who need assistance with legal matters that relate to their employment rights or their health and safety rights at work. Our legal services include summary legal advice, brief legal services, referrals, and legal representation. 
 
-Scroll down for more information on our **areas of practice** which include **Unlawful Dismissals** and **Workplace Safety and Insurance Board (WSIB) matters**.
+Scroll down for more information on our *areas of practice* which include **Unlawful Dismissals** and **Workplace Safety and Insurance Board (WSIB) matters**.
 
 -----
 # Unlawful Dismissals
@@ -34,12 +34,12 @@ WHSLC lawyers are experienced in advocacy before the Ontario Labour Relations Bo
 
 It is against the law for an employer or agency to punish or terminate workers for enforcing or trying to enforce the rights found under the *Employment Standards Act* (ESA). These rights include the right to receive minimum wage, overtime pay, pay stubs, sick leave, parental leave, termination pay, vacation pay, and much more.
  
-WHSLC lawyers are available to appear at the Ontario Labour Relations Board to represent workers who have been disciplined fired for exercising or trying to exercise their rights under the ESA. We also meet with Employment Standards Officers to help workers get their jobs back, lost wages and other remedies.
+WHSLC lawyers are available to appear at the Ontario Labour Relations Board to represent workers who have been disciplined/fired for exercising or trying to exercise their rights under the ESA. We also meet with Employment Standards Officers to help workers get their jobs back, lost wages and other remedies.
 
 -----
 ### Employment Standards: Termination Pay and Severance Pay Claims 
 
-The *Employment Standards Act* (ESA) requires that employers provide dismissed workers with proper notice of termination or termination pay *in lieu* (instead) of notice. We represent fired and laid off workers at the Ontario Labour Relations Board who have not been properly compensation by their employers.
+The *Employment Standards Act* (ESA) requires that employers provide dismissed workers with proper notice of termination or termination pay *in lieu* (instead) of notice. We represent fired and laid off workers at the Ontario Labour Relations Board who have not been properly compensated by their employers.
 
 -----
 ### Human Rights Applications: Employment and Disability
@@ -49,12 +49,12 @@ We represent workers who are dismissed from work because of a disability or beca
 -----
 ### Canada Labour Code: Unjust Dismissals
 
-We represent workers who were employed in federally regulated workplaces (such as banks, telecommunications, inter-provincial transportation) and dismissed in a manner that does not comply with the Canada Labour Code (CLC). These CLC contains unjust dismissal provisions that apply to non-managerial workers employed for 12 months (1 year) or more who are dismissed without just cause. We also represent workers in federally regulated workplaces that have been punished or fired for raising an occupational health and safety issue or concern.
+We represent workers who were employed in federally regulated workplaces (such as banks, telecommunications, inter-provincial transportation) and dismissed in a manner that does not comply with the *Canada Labour Code* (CLC). The CLC contains unjust dismissal provisions that apply to non-managerial workers employed for 12 months (1 year) or more who are dismissed without just cause. We also represent workers in federally regulated workplaces that have been punished or fired for raising an occupational health and safety issue or concern.
 
 -----
 ### Small Claims Court: Wrongful Dismissal and Constructive Dismissal Lawsuits
 
-We file lawsuits against employers and represent workers who are wrongfully dismissed or laid off without proper notice or pay *in lieu* (instead of) of notice. Additionally, if there is a fundamental change to working conditions that leave a worker with no option but to quit, we can represent workers in a lawsuit against the employer based on constructive dismissal.
+We file lawsuits against employers and represent workers who are wrongfully dismissed or laid off without proper notice or pay *in lieu* (instead) of notice. Additionally, if there is a fundamental change to working conditions that leave a worker with no option but to quit, we can represent workers in a lawsuit against the employer based on constructive dismissal.
 
 -----
 # Workplace Safety and Insurance Board (WSIB)
