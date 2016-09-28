@@ -17,7 +17,7 @@ You can apply to become a member by downloading our WHSLC [Membership Applicatio
 -----
 ### Mission Statement
 
-The Workers’ Health and Safety Legal Clinic is committed to the promotion of safe and healthy workplaces throughout Ontario with a focus on the non-unionized sector of the workforce. We seek to do this by informing workers of their basic legal rights at work in the areas of health and safety, workers’ compensation, human rights and employment standards as well as legal advice and representation to non-unionized workers attempting to improve conditions in their individual workplaces. In particular, we provide representation to workers who have been unlawfully punished or terminated for exercising their rights.
+The Workers’ Health and Safety Legal Clinic (WHSLC) is committed to the promotion of safe and healthy workplaces throughout Ontario with a focus on the non-unionized sector of the workforce. We seek to do this by informing workers of their basic legal rights at work in the areas of health and safety, workers’ compensation, human rights and employment standards as well as legal advice and representation to non-unionized workers attempting to improve conditions in their individual workplaces. In particular, we provide representation to workers who have been unlawfully punished or terminated for exercising their rights.
 
 On a broader scale, we work independently and with other like-minded groups, agencies and organizations to advocate for the enactment of improved standards affecting workplace health and safety and employment rights.
 
