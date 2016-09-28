@@ -21,7 +21,7 @@ test:
     - if [  "$(ls -A ./public)" ]; then echo "generated public dir"; else exit 5; fi
     - cat $(pwd)/public/index.html
     - docker stop hugotest
-    - rm -rf ./public/
+    - mv ./public/ ./old-public
     
 deployment:
   production:
