@@ -1,4 +1,4 @@
-baseurl = "http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/"
+#baseurl = "http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/"
 title = "Legal Clinic"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -30,13 +30,13 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "berenice@cotero.org"
 
-    about_us = "<p>Workers' Health and Safety Legal Clinic.</p>"
-    about_description = "<p>Advocating for workers' rights.</p>"
-    copyright = "Copyright (c) 2016, TWHSLC; all rights reserved."
+    about_us = "<p>Workers' Health and Safety Legal Clinic</p>"
+    about_description = "<p>Advocating for workers' rights</p>"
+    copyright = "Copyright (c) 2016, WHSLC; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/whslc4Clogo.jpg"
     address = """<p><strong>Workers' Health and Safety Legal Clinic</strong>
-        <br>Monday - Friday 9am - 5pm
+        <br>Monday - Friday   9am - 5pm
         <br>
         <br>180 Dundas St. West
         <br>Suite 2000, Box 4

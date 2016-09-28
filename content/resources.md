@@ -17,7 +17,7 @@ Our Community Legal Workers travel all over the City of Toronto and the Greater 
 
 These workshops provide the public with legal information regarding employment standards, occupational health and safety, human rights and the legal aid system. We facilitate workshops in person and provide printed materials and resources to the participants. 
 
-If you are interested in booking a workshop, please **Contact Us**.
+If you are interested in booking a workshop, please [Contact Us](/contact/).
 
 -----
 
@@ -38,6 +38,6 @@ If you are interested in booking a workshop, please **Contact Us**.
 -----
 
 **Please Note:** Further resources are in development. 
-To access our past Newsletters and Annual Reports, please visit our **Newsletters** section on our website.
+To access our past Newsletters and Annual Reports, please visit our [Newsletters](http://workers-safety.ca/) section on our website.
 
 -----
