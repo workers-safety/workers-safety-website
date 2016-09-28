@@ -45,7 +45,7 @@ The WHSLC is governed by a volunteer Board of Directors elected by our membershi
 
 Being a volunteer Board member is an opportunity to network, to meet others who share your commitment, and to enrich your own skills, knowledge and experience. While no particular legal experience is required, our Board strives to have members with a variety of experience and knowledge. 
  
-Board members must be WHSLC members and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board Committees.  
+Board members must be WHSLC [members](/member/) and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board Committees.  
 
 If you are interested in our Board of Directors, please [Contact Us](/contact/).
 
