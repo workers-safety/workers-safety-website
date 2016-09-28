@@ -5,7 +5,7 @@ title = "Resources"
 type = "page"
 
 +++
-*In this section, you will find information on public legal education workshops, resources and links on a variety of issues that relate to workers' employment as well as health and safety rights. Please Scroll down for more information.*
+*In this section, you will find information on public legal education workshops, resources and links on a variety of issues that relate to workers' employment and/or health and safety rights. Scroll down for more information.*
 
 -----
 
