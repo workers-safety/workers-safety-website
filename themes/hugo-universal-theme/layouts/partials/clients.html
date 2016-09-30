@@ -6,10 +6,11 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center">
-                    <h2>{{ .Site.Params.clients.title }}</h2>
+                    <a href="{{ .Site.Params.clients.url }}"><h2>{{ .Site.Params.clients.title }}</h2></a>
+                    
                 </div>
 
-                <p class="lead">
+                <p class="lead text-center">
                   {{ .Site.Params.clients.subtitle }}
                 </p>
 
