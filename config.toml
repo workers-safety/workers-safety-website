@@ -61,35 +61,35 @@ paginate = 10
     url  = "/legal-services/"
       weight = 2   
 
-[[params.menu]]
-    name = "Resources"
-    url  = "/resources/"
-      weight = 3   
+#[[params.menu]]
+#    name = "Resources"
+#    url  = "/resources/"
+#      weight = 3   
 
 [[params.menu]]
     name = "Who we serve"
     url  = "/who-we-serve/"
-    weight = 4
+    weight = 3
     
 [[params.menu]]
     name = "Newsletters"
     url  = "http://workers-safety.ca/"
-    weight = 5
+    weight = 4
 
 [[params.menu]]
     name = "Membership"
     url  = "/member/"
-    weight = 6
+    weight = 5
 
 [[params.menu]]
     name = "About Us"
     url  = "/about-us/"
-    weight = 7
+    weight = 6
     
 [[params.menu]]
     name = "Contact Us"
     url  = "/contact/"
-    weight = 8
+    weight = 7
 
 
 
@@ -119,21 +119,23 @@ paginate = 10
 #    title = "Testimonials"
 #    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-#[params.see_more]
-#    enable = true
-#   icon = "fa fa-file-code-o"
-#    title = "Do you want to see more?"
-#    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-#    link_url = "#"
-#    link_text = "Check other homepages"
+[params.see_more]
+    enable = false
+   icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "http://workers-safety.ca"
+    link_text = "Check other homepages"
 
-#[params.clients]
-#    enable = true
-   # All clients are defined in their own files. You can find example items
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-#    title = "Our Clients"
-#    subtitle = ""
+    title = "Resources"
+    subtitle = "We are here to help"
+    url = "/resources/"
+    link_text = "Find more information"
 
 #[params.recent_posts]
 #    enable = true
