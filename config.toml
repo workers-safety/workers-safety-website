@@ -56,10 +56,10 @@ paginate = 10
     url  = "/"
     weight = 1
     
-[[params.menu]]
-    name = "Legal Services"
-    url  = "/legal-services/"
-      weight = 2   
+#[[params.menu]]
+#    name = "Legal Services"
+#    url  = "/legal-services/"
+#    weight = 2   
 
 #[[params.menu]]
 #    name = "Resources"
@@ -69,27 +69,27 @@ paginate = 10
 [[params.menu]]
     name = "Who we serve"
     url  = "/who-we-serve/"
-    weight = 3
+    weight = 2
     
 [[params.menu]]
     name = "Newsletters"
     url  = "http://workers-safety.ca/"
-    weight = 4
+    weight = 3
 
 [[params.menu]]
     name = "Membership"
     url  = "/member/"
-    weight = 5
+    weight = 4
 
 [[params.menu]]
     name = "About Us"
     url  = "/about-us/"
-    weight = 6
+    weight = 5
     
 [[params.menu]]
     name = "Contact Us"
     url  = "/contact/"
-    weight = 7
+    weight = 6
 
 
 
@@ -101,27 +101,25 @@ paginate = 10
 
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
-
+    # All carousel items are defined in their own files. 
+    # /data/carousel 
+    # /static/img/carousel
+    
 [params.features]
     enable = true
-    # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
-    # For more informtion take a look at the README.
+    # All features are defined in their own files.
+    # /data/features
 
-#[params.testimonials]
-#    enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-#    title = "Testimonials"
-#    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files.
+    # /data/testimonials
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
     enable = false
-   icon = "fa fa-file-code-o"
+    icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
     link_url = "http://workers-safety.ca"
@@ -129,9 +127,8 @@ paginate = 10
 
 [params.clients]
     enable = true
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
+    # All clients are defined in their own files. 
+    # /data/clients
     title = "Resources"
     subtitle = "We are here to help"
     url = "/resources/"
