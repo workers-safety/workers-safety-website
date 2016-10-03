@@ -8,7 +8,8 @@ variable "profile-name"       { default = "default" }
 variable "application-name"   { }
 variable "bucket-prod"          { }
 variable "bucket-stage"         { }
-
+variable "file-bucket-prod"     { }
+variable "file-bucket-stage"    { }
 
 provider "aws" {
   region  = "${var.aws-region}"
@@ -45,7 +46,9 @@ resource "aws_iam_user_policy" "blog-s3-deployment-policy" {
       ],
       "Resource": [
          "arn:aws:s3:::${var.bucket-prod}",
-         "arn:aws:s3:::${var.bucket-stage}"
+         "arn:aws:s3:::${var.bucket-stage}",
+         "arn:aws:s3:::${var.file-bucket-prod}",
+         "arn:aws:s3:::${var.file-bucket-stage}"
       ]
     },
     {
@@ -56,11 +59,12 @@ resource "aws_iam_user_policy" "blog-s3-deployment-policy" {
       "Effect": "Allow",
       "Resource": [
          "arn:aws:s3:::${var.bucket-prod}/*",
-         "arn:aws:s3:::${var.bucket-stage}/*"
+         "arn:aws:s3:::${var.bucket-stage}/*",
+         "arn:aws:s3:::${var.file-bucket-prod}",
+         "arn:aws:s3:::${var.file-bucket-stage}"
       ]
     }
   ]
 }
 EOF
 }
-
