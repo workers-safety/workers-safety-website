@@ -16,5 +16,4 @@ object-name          = "terraform.tfstate"
 
 application-name    = "workers_site" 
 bucket-name         = "stage.workers-safety.ca"
-file-bucket         = "workers-files"
 env                 = "stage" 
