@@ -15,5 +15,6 @@ object-name          = "terraform.tfstate"
 // app specific variables for production - be careful
 
 application-name    = "workers_site" 
-bucket-name         = "workers-safety-stage.ca"
+bucket-name         = "stage.workers-safety.ca"
+file-bucket         = "workers-files"
 env                 = "stage" 
