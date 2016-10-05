@@ -10,6 +10,4 @@ object-name          = "terraform.tfstate"
 application-name     = "workers_site" 
 env                  = "global"
 
-bucket-prod          = "workers-safety.ca"
-bucket-stage         = "stage.workers-safety.ca"
-file-bucket          = "workers-newsletters"
+domain               = "workers-safety.ca"

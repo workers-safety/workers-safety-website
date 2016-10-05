@@ -6,9 +6,8 @@
 variable "aws-region"         { default = "us-east-1" }
 variable "profile-name"       { default = "default" }
 variable "application-name"   { }
-variable "bucket-prod"          { }
-variable "bucket-stage"         { }
-variable "file-bucket"          { }
+variable "domain"             { }
+variable "env"
 
 provider "aws" {
   region  = "${var.aws-region}"
@@ -23,7 +22,7 @@ module "iam-user" {
   user_names = "${var.application-name}-user,newsletter-user"
 }
 
-# POLICY FOR DEPLOYING WEBSITE (CIRCLECI)
+# POLICY FOR USER DEPLOYING WEBSITE (CIRCLECI)
 
 resource "aws_iam_user_policy" "website-s3-deployment-policy" {
     name = "${var.application-name}-policydeploy"
@@ -47,8 +46,8 @@ resource "aws_iam_user_policy" "website-s3-deployment-policy" {
         "s3:ListBucket"
       ],
       "Resource": [
-         "arn:aws:s3:::${var.bucket-prod}",
-         "arn:aws:s3:::${var.bucket-stage}"
+         "arn:aws:s3:::${var.domain}",
+         "arn:aws:s3:::stage.${var.domain}"
       ]
     },
     {
@@ -59,8 +58,8 @@ resource "aws_iam_user_policy" "website-s3-deployment-policy" {
       ],
       "Effect": "Allow",
       "Resource": [
-         "arn:aws:s3:::${var.bucket-prod}/*",
-         "arn:aws:s3:::${var.bucket-stage}/*"
+         "arn:aws:s3:::${var.domain}/*",
+         "arn:aws:s3:::stage.${var.domain}/*"
       ]
     }
   ]
@@ -68,7 +67,7 @@ resource "aws_iam_user_policy" "website-s3-deployment-policy" {
 EOF
 }
 
-# POLICY FOR DEPLOYING NEWSLETTERS 
+# POLICY FOR USER DEPLOYING NEWSLETTERS 
 
 resource "aws_iam_user_policy" "newsletter-s3-deployment-policy" {
     name = "${var.application-name}-policydeploy"
@@ -91,8 +90,7 @@ resource "aws_iam_user_policy" "newsletter-s3-deployment-policy" {
         "s3:ListBucket"
       ],
       "Resource": [
-         "arn:aws:s3:::${var.bucket-prod}",
-         "arn:aws:s3:::${var.bucket-stage}"
+         "arn:aws:s3:::newsletter.{var.domain}"
       ]
     },
     {
@@ -102,8 +100,7 @@ resource "aws_iam_user_policy" "newsletter-s3-deployment-policy" {
       ],
       "Effect": "Allow",
       "Resource": [
-         "arn:aws:s3:::${var.bucket-prod}/*",
-         "arn:aws:s3:::${var.bucket-stage}/*"
+         "arn:aws:s3:::newsletter.${var.domain}/*"
       ]
     }
   ]
@@ -111,30 +108,60 @@ resource "aws_iam_user_policy" "newsletter-s3-deployment-policy" {
 EOF
 }
 
-
-# CREATE BUCKET FOR NEWSLETTERS 
-
-resource "aws_s3_bucket" "newsletters-bucket" {
-    bucket = "${var.file-bucket}"
-    //acl = "public-read"
-    force_destroy = "true"
-    policy = <<EOF
-{
-  "Version":"2012-10-17",
-  "Statement":[
-    {
-      "Sid": "AddPerm",
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "S3:GetObject",
-      "Resource": "arn:aws:s3:::${var.file-bucket}/*"
-    }
-  ]
+resource "aws_route53_zone" "zone" {
+  name = "${var.domain}"
 }
-EOF
+
+module "prod_website" {
+  source = "./modules/"
+
+  route_zone_id = "${aws_route53_zone.zone.zone_id}"
+  fqdn          = "${var.domain}"
+  subdomain     = "${var.domain}"
+  env           = "${var.env}"
 }
+
+module "stage_website" {
+  source = "./modules/"
+
+  route_zone_id = "${aws_route53_zone.zone.zone_id}"
+  fqdn          = "stage.${var.domain}"
+  subdomain     = "stage"
+  env           = "${var.env}"
+}
+
+module "newsletter_website" {
+  source = "./modules/"
+  
+  route_zone_id = "${aws_route53_zone.zone.zone_id}"
+  fqdn          = "newsletter.${var.domain}"
+  subdomain     = "newsletter"
+  env           = "${var.env}"
+}
+
+
+
+# UPLOAD INDEX.HTML FILE TO NEWSLETTER BUCKET 
+
+resource "aws_s3_bucket_object" "object_newsletter" {
+    bucket = "${module.newsletter_website.fqdn}"
+    key    = "index.html"
+    source = "./website_files/index.html"
+}
+
 
 output "users"         { value = "${module.iam-user.users}" }
 output "access_ids"    { value = "${module.iam-user.access_ids}" }
 output "secret_keys"   { value = "${module.iam-user.secret_keys}" }
 
+output "prod_domain"      { value = "${module.prod_website.domain}" }
+output "prod_endpoint"    { value = "${module.prod_website.endpoint}" }
+output "prod_fqdn"        { value = "${module.prod_website.fqdn}" }
+output "prod_zone_id"     { value = "${module.prod_website.hosted_zone_id}" }
+
+output "stage_domain"   { value = "${module.stage_website.domain}" }
+output "stage_endpoint" { value = "${module.stage_website.endpoint}" }
+output "stage_fqdn"     { value = "${module.stage_website.fqdn}" }
+output "stage_zone_id"  { value = "${module.stage_website.hosted_zone_id}" }
+
+output "zone_id" { value = "${aws_route53_zone.zone.zone_id}" }
