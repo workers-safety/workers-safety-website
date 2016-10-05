@@ -9,7 +9,7 @@ echo " "
 path=$PWD
 
 # Extract bootstrap bucket from tfstate output
-cd tfstate-bucket # Bootstrap folder to create bucket for remote tfstate
+cd ../tfstate-bucket # Bootstrap folder to create bucket for remote tfstate
 bucket=$(terraform output | awk '{print$3}')
 cd $path 
 

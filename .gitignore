@@ -6,3 +6,4 @@ public/
 **/*.swp
 **/.terraform
 **/*.txt
+infrastructure/terraform/global/graph.png

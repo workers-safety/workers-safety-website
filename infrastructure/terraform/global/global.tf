@@ -19,14 +19,14 @@ provider "aws" {
 module "iam-user" {
   source = "../modules/users/"
 
-  user_names = "${var.application-name}-user,newsletter-user"
+  user_names = "${var.application-name}-user"
 }
 
 # POLICY FOR USER DEPLOYING WEBSITE (CIRCLECI)
 
 resource "aws_iam_user_policy" "website-s3-deployment-policy" {
     name = "${var.application-name}-policydeploy"
-    user = "${element(split(",", module.iam-user.users), 0)}"
+    user = "${module.iam-user.users}"
     policy = <<EOF
 {
   "Version": "2012-10-17",
@@ -47,8 +47,9 @@ resource "aws_iam_user_policy" "website-s3-deployment-policy" {
       ],
       "Resource": [
          "arn:aws:s3:::${var.domain}",
-         "arn:aws:s3:::stage.${var.domain}"
-      ]
+         "arn:aws:s3:::stage.${var.domain}",
+         "arn:aws:s3:::newsletter.{var.domain}"
+       ]
     },
     {
       "Action": [
@@ -59,49 +60,9 @@ resource "aws_iam_user_policy" "website-s3-deployment-policy" {
       "Effect": "Allow",
       "Resource": [
          "arn:aws:s3:::${var.domain}/*",
-         "arn:aws:s3:::stage.${var.domain}/*"
-      ]
-    }
-  ]
-}
-EOF
-}
-
-# POLICY FOR USER DEPLOYING NEWSLETTERS 
-
-resource "aws_iam_user_policy" "newsletter-s3-deployment-policy" {
-    name = "${var.application-name}-policydeploy"
-    user = "${element(split(",", module.iam-user.users), 1)}"
-    policy = <<EOF
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetBucketLocation",
-        "s3:ListAllMyBuckets"
-      ],
-      "Resource": "arn:aws:s3:::*"
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:ListBucket"
-      ],
-      "Resource": [
-         "arn:aws:s3:::newsletter.{var.domain}"
-      ]
-    },
-    {
-      "Action": [
-         "s3:PutObject",
-         "s3:GetObject"
-      ],
-      "Effect": "Allow",
-      "Resource": [
-         "arn:aws:s3:::newsletter.${var.domain}/*"
-      ]
+         "arn:aws:s3:::stage.${var.domain}/*",
+         "arn:aws:s3:::newsletter.{var.domain}/*"
+       ]
     }
   ]
 }
