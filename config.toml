@@ -73,7 +73,7 @@ paginate = 10
     
 [[params.menu]]
     name = "Newsletters"
-    url  = "http://workers-safety.ca/"
+    url  = "https://s3.amazonaws.com/newsletter.workers-safety.ca/index.html#!/newsletters%2F"
     weight = 3
 
 [[params.menu]]
