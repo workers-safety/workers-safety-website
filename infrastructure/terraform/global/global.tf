@@ -17,7 +17,7 @@ provider "aws" {
 # CREATE USER TO DEPLOY WEBSITE AND NEWSLETTERS 
 
 module "iam-user" {
-  source = "github.com/clamorisse/modular-terraform-automation//modules/iam/users"
+  source = "../modules/users/"
 
   user_names = "${var.application-name}-user,newsletter-user"
 }
@@ -113,7 +113,7 @@ resource "aws_route53_zone" "zone" {
 }
 
 module "prod_website" {
-  source = "./modules/"
+  source = "../modules/website/"
 
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "${var.domain}"
@@ -122,7 +122,7 @@ module "prod_website" {
 }
 
 module "stage_website" {
-  source = "./modules/"
+  source = "../modules/website/"
 
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "stage.${var.domain}"
@@ -131,24 +131,13 @@ module "stage_website" {
 }
 
 module "newsletter_website" {
-  source = "./modules/"
+  source = "../modules/website/"
   
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "newsletter.${var.domain}"
   subdomain     = "newsletter"
   env           = "${var.env}"
 }
-
-
-
-# UPLOAD INDEX.HTML FILE TO NEWSLETTER BUCKET 
-
-resource "aws_s3_bucket_object" "object_newsletter" {
-    bucket = "${module.newsletter_website.fqdn}"
-    key    = "index.html"
-    source = "./website_files/index.html"
-}
-
 
 output "users"         { value = "${module.iam-user.users}" }
 output "access_ids"    { value = "${module.iam-user.access_ids}" }
