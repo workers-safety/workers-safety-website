@@ -65,10 +65,10 @@ docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/h
 
 To publish changes manually run this commands:
 ```
-docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/
-docker run -d -p 1313:1313 --name hugoprod -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/ --appendPort=false --bind=0.0.0.0
+docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://baseUrl/
+docker run -d -p 1313:1313 --name hugoprod -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://baseUrl/ --appendPort=false --bind=0.0.0.0
 aws s3 rm s3://workers-safety.ca/ --recursive
-aws s3 sync public/ s3://workers-safety.ca/
-aws s3 sync newsletter-list/publico/ s3://newsletter.workers-safety.ca
+aws s3 sync public/ s3://bucket-name/
+aws s3 sync newsletter-list/publico/ s3://newsletter-bucket-name
 ```
 
