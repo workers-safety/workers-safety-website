@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/workers-safety/workers-safety-website.svg?style=svg)](https://circleci.com/gh/workers-safety/workers-safety-website)
+[![CircleCI](https://circleci.com/gh/workers-safety/workers-safety-website.svg?style=shield&svg)](https://circleci.com/gh/workers-safety/workers-safety-website)
 
 # Website Automation
 ## For Workers' Health and Safety Legal Clinic
