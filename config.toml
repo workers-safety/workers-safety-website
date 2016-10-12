@@ -55,41 +55,41 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
-    
-#[[params.menu]]
-#    name = "Legal Services"
-#    url  = "/legal-services/"
-#    weight = 2   
-
-#[[params.menu]]
-#    name = "Resources"
-#    url  = "/resources/"
-#      weight = 3   
-
-[[params.menu]]
-    name = "Who we serve"
-    url  = "/who-we-serve/"
-    weight = 2
-    
-[[params.menu]]
-    name = "Newsletters"
-    url  = "https://s3.amazonaws.com/newsletter.workers-safety.ca/index.html#!/newsletters%2F"
-    weight = 3
-
-[[params.menu]]
-    name = "Membership"
-    url  = "/member/"
-    weight = 4
 
 [[params.menu]]
     name = "About Us"
     url  = "/about-us/"
+    weight = 2
+
+[[params.menu]]
+    name = "Who we serve"
+    url  = "/who-we-serve/"
+    weight = 3
+    
+[[params.menu]]
+    name = "Resources"
+    url  = "/resources/"
+    weight = 4   
+     
+[[params.menu]]
+    name = "Communications"
+    url  = "/communications/"
     weight = 5
     
+#[[params.menu]]
+#    name = "Newsletters"
+#    url  = "https://s3.amazonaws.com/newsletter.workers-safety.ca/index.html#!/newsletters%2F"
+#    weight = 4
+
+[[params.menu]]
+    name = "Membership"
+    url  = "/member/"
+    weight = 6
+   
 [[params.menu]]
     name = "Contact Us"
     url  = "/contact/"
-    weight = 6
+    weight = 7
 
 
 
@@ -104,7 +104,7 @@ paginate = 10
     # All carousel items are defined in their own files. 
     # /data/carousel 
     # /static/img/carousel
-    
+   
 [params.features]
     enable = true
     # All features are defined in their own files.
