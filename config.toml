@@ -134,7 +134,7 @@ paginate = 10
     url = "/resources/"
     link_text = "Find more information"
 
-params.recent_posts]
+[params.recent_posts]
     enable = true
     title = "Communications"
-    subtitle = "Here you will find our latest news letters."
+    subtitle = "Here you will find our latest newsletters, public activities and more."
