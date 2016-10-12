@@ -3,7 +3,7 @@ date = "2016-10-12T20:06:56Z"
 draft = false
 title = "Radon Hazards"
 tags = ["hazards"]
-catefories = ["newsletter"]
+categories = ["newsletter"]
 banner = "img/banners/radon.png"
 
 +++
