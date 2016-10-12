@@ -1,6 +1,7 @@
 ---
 weight: 1
-name: Confidentiality
-icon: fa fa-user-secret
+name: Archives
+icon: fa fa-archive
+url: /features/archives/
 description: Your privacy is very important to us. The WHSLC follows the Law Society
   of Upper Canada's rules regarding client confidentiality.

@@ -58,22 +58,22 @@ paginate = 10
 
 [[params.menu]]
     name = "About Us"
-    url  = "/about-us/"
+    url  = "/menu/about-us/"
     weight = 2
 
 [[params.menu]]
     name = "Who we serve"
-    url  = "/who-we-serve/"
+    url  = "/menu/who-we-serve/"
     weight = 3
     
 [[params.menu]]
     name = "Resources"
-    url  = "/resources/"
+    url  = "/menu/resources/"
     weight = 4   
      
 [[params.menu]]
     name = "Communications"
-    url  = "/communications/"
+    url  = "/blog/"
     weight = 5
     
 #[[params.menu]]
@@ -83,12 +83,12 @@ paginate = 10
 
 [[params.menu]]
     name = "Membership"
-    url  = "/member/"
+    url  = "/menu/member/"
     weight = 6
    
 [[params.menu]]
     name = "Contact Us"
-    url  = "/contact/"
+    url  = "/menu/contact/"
     weight = 7
 
 
