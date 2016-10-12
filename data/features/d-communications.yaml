@@ -1,6 +1,7 @@
 ---
 weight: 3
-name: Languages
+name: Communications
 icon: fa fa-comments-o
+url: /blog/
 description: If English is not your first language, we should be able to arrange for
   an interpreter.

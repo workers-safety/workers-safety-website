@@ -6,6 +6,8 @@ categories = ["lorem"]
 banner = "img/banners/banner-5.jpg"
 +++
 
+[newsletter](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+08/2016+08.+Vol.24++No.2+.pdf)
+
 ## Move static content to `static`
 Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
 With Jekyll, something that looked like
