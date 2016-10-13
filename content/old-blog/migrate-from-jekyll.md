@@ -1,11 +1,12 @@
 +++
-title = "Migrate from Jekyll"
-date = "2015-10-10T13:07:31+02:00"
-tags = ["ipsum"]
-categories = ["lorem"]
 banner = "img/banners/banner-5.jpg"
-+++
+categories = ["lorem"]
+date = "2015-10-10T13:07:00+00:00"
+draft = true
+tags = ["ipsum"]
+title = "Migrate from Jekyll"
 
++++
 [newsletter](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+08/2016+08.+Vol.24++No.2+.pdf)
 
 ## Move static content to `static`
