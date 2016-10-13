@@ -1,5 +1,5 @@
 +++
-date = "2016-10-13T11:15:00+00:00"
+date = "2016-02-13T11:15:00+00:00"
 draft = false
 title = "Newsletter from 02/2016"
 categories = ["newsletter"]
