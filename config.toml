@@ -11,7 +11,7 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-    viewMorePostLink     = "/blog/"
+    viewMorePostLink     = "/communications/"
     author = "Workers"
     Title = "Workers Legal Clinic"
 
@@ -49,7 +49,7 @@ paginate = 10
       """
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/communications/:year/:month/:day/:filename/"
 
 [[params.menu]]
     name = "Home"
@@ -73,7 +73,7 @@ paginate = 10
      
 [[params.menu]]
     name = "Communications"
-    url  = "/blog/"
+    url  = "/communications/"
     weight = 5
     
 #[[params.menu]]
