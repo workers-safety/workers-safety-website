@@ -55,10 +55,10 @@ paginate = 10
     name = "Home"
     url  = "/"
     weight = 1
-
+    
 [[params.menu]]
-    name = "About Us"
-    url  = "/menu/about-us/"
+    name = "Legal Services"
+    url  = "/features/legal-services/"
     weight = 2
 
 [[params.menu]]
@@ -76,20 +76,20 @@ paginate = 10
     url  = "/communications/"
     weight = 5
     
-#[[params.menu]]
-#    name = "Newsletters"
-#    url  = "https://s3.amazonaws.com/newsletter.workers-safety.ca/index.html#!/newsletters%2F"
-#    weight = 4
-
 [[params.menu]]
     name = "Membership"
     url  = "/menu/member/"
     weight = 6
+    
+[[params.menu]]
+    name = "About Us"
+    url  = "/menu/about-us/"
+    weight = 7
    
 [[params.menu]]
     name = "Contact Us"
     url  = "/menu/contact/"
-    weight = 7
+    weight = 8
 
 
 

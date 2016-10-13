@@ -25,6 +25,6 @@ type = "page"
 -----
 
 **Please Note:** Further resources are in development. 
-To access our past Newsletters and Annual Reports, please visit our [Newsletters](https://s3.amazonaws.com/newsletter.workers-safety.ca/index.html#!/newsletters%2F) section on our website.
+For more relevant information, please visit our [Communications](/communications/) section or for older Newsletters and Annual Reports access our  [Archives](/features/archives/) section on our website.
 
 -----
