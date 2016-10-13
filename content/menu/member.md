@@ -8,7 +8,7 @@ type = "page"
 
 The WHSLC is supported by a diverse membership. Our primary goal is to provide free legal services to non-unionized workers experiencing employment issues and/or health and safety legal issues in Ontario. To help us ensure that our services are relevant, we need the participation of people experiencing workplace injustices in Ontario, as well as those who are serving vulnerable workers who experience unfair workplace practices. 
 
-Please consider becoming a member and sharing your voice in the fight for improved health and safety as well as employment standards in Ontario’s workplaces. WHSLC membership is free and includes such benefits as receiving our newsletter and mailings, voting privileges at our Annual General Meeting, and the right to stand for election to our volunteer Board of Directors. For more information on our Board of Directors, visit the [About Us](/about-us/) section on our website. 
+Please consider becoming a member and sharing your voice in the fight for improved health and safety as well as employment standards in Ontario’s workplaces. WHSLC membership is free and includes such benefits as receiving our newsletter and mailings, voting privileges at our Annual General Meeting, and the right to stand for election to our volunteer Board of Directors. For more information on our Board of Directors, visit the [About Us](/menu/about-us/) section on our website. 
 
 To become a member, you must be a resident of Ontario who is 18 years of age or older, and you must agree with our **Mission Statement** outlined below. Membership takes effect once our Board of Directors approves the application. The Clinic reserves the right to deny membership.
 
