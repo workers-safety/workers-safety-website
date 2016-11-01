@@ -71,6 +71,18 @@ EOF
 
 resource "aws_route53_zone" "zone" {
   name = "${var.domain}"
+  force_destroy = false // records should be cleaned first, if destroying zone
+}
+
+module "www_prod_website" {
+  source = "../modules/website-redirect/"
+
+  route_zone_id = "${aws_route53_zone.zone.zone_id}"
+  fqdn          = "www.${var.domain}"
+  domain        = "${var.domain}"
+  anon_actions  = "S3:GetObject" // what is allowed for anon users on public s3 web-site
+  
+  env           = "${var.env}"
 }
 
 module "prod_website" {
@@ -79,6 +91,7 @@ module "prod_website" {
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "${var.domain}"
   subdomain     = "${var.domain}"
+  anon_actions  = "S3:GetObject" // what is allowed for anon users on public s3 web-site
   env           = "${var.env}"
 }
 
@@ -88,6 +101,7 @@ module "stage_website" {
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "stage.${var.domain}"
   subdomain     = "stage"
+  anon_actions  = "S3:GetObject" // what is allowed for anon users on public s3 web-site
   env           = "${var.env}"
 }
 
@@ -97,6 +111,7 @@ module "newsletter_website" {
   route_zone_id = "${aws_route53_zone.zone.zone_id}"
   fqdn          = "newsletter.${var.domain}"
   subdomain     = "newsletter"
+  anon_actions  = "S3:GetObject\",\"S3:ListBucket"
   env           = "${var.env}"
 }
 

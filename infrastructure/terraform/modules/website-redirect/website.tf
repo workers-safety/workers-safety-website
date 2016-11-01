@@ -4,7 +4,7 @@
 #     AND THE RECORD ITS RECORD IN ROUTE53
 # ----------------------------------------------
 
-variable "subdomain"      { }
+variable "domain"         { }
 variable "fqdn"           { }
 variable "route_zone_id"  { }
 variable "env"            { }
@@ -23,25 +23,17 @@ data "template_file" "s3_policy" {
 
 resource "aws_s3_bucket" "website" {
     bucket = "${var.fqdn}"
-    //acl = "public-read"
+    force_destroy = "true"
 
-    cors_rule {
-        allowed_headers = ["Authorization"]
-        allowed_methods = ["GET"]
-        allowed_origins = ["*"]
-        max_age_seconds = 3000
-    }
-
-    force_destroy = "false"
     website {
-        index_document  = "index.html"
-        error_document  = "404.html"
+        redirect_all_requests_to = "http://${var.domain}"
     }
 
     tags {
         Name            = "${var.fqdn}"
         Env             = "${var.env}"
     }
+
     policy = "${data.template_file.s3_policy.rendered}"
 }
 
@@ -49,10 +41,10 @@ resource "aws_s3_bucket" "website" {
 
 resource "aws_route53_record" "website" {
   zone_id = "${var.route_zone_id}"
-  name    = "${var.subdomain}"
+  name    = "${var.fqdn}"
   type    = "A"
 
-  alias {
+  alias{
     name                   = "${aws_s3_bucket.website.website_domain}"
     zone_id                = "${aws_s3_bucket.website.hosted_zone_id}"
     evaluate_target_health = false
