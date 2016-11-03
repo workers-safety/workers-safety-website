@@ -1,7 +1,7 @@
 +++
 date = "2016-09-24T16:16:00+00:00"
 draft = false
-title = "Resources"
+title = "Links"
 type = "page"
 
 +++
