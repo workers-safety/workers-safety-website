@@ -1,10 +1,10 @@
 +++
-date = "2016-08-01T20:06:56Z"
-draft = false
-title = "Radon Hazards"
-tags = ["hazards"]
-categories = ["newsletter"]
 banner = "img/banners/radon.png"
+categories = ["newsletter"]
+date = "2016-08-01T20:06:56+00:00"
+draft = false
+tags = ["hazards"]
+title = "August 2016 Clinic Newsletter – Radon Hazards"
 
 +++
 ## Newsletter from August 2016
