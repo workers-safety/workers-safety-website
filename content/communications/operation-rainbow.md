@@ -1,10 +1,11 @@
 +++
-date = "2016-04-01T21:15:54Z"
-draft = false
-title = "operation rainbow"
-tags = ["hazards"]
-categories = ["Public Education"]
 banner = "img/banners/operation-rainbow.png"
+categories = ["Public Education"]
+date = "2016-04-01T21:15:54+00:00"
+draft = false
+tags = ["hazards"]
+title = "operation rainbow"
+
 +++
 ## The Project
 “Operation Rainbow” is a project proposed by **Dr. Michael Grossman ­ a volunteer for Workers’
