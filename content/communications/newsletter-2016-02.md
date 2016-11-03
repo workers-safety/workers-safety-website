@@ -1,10 +1,11 @@
 +++
+banner = "img/banners/whslc4Clogo.jpg"
+categories = ["newsletter"]
 date = "2016-02-13T11:15:00+00:00"
 draft = false
-title = "Newsletter from 02/2016"
-categories = ["newsletter"]
 tags = ["law reform"]
-banner = "img/banners/whslc4Clogo.jpg"
+title = "Newsletter from 02/2016"
+
 +++
 ## The effect of the Kazenelson criminal law decision on legal advice to workers.
 
