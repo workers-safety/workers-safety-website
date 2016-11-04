@@ -13,7 +13,7 @@ title = "Kazenelson Case"
 
 _Kazenelson_ is the first major conviction under the Westray-changed Criminal Code. On 11 January 2016, he was sentenced to 3½ years in prison; that sentence is being appealed. It was a contested criminal trial, as distinct from a trial under the [_Occupational Health and Safety Act_](https://www.ontario.ca/laws/statute/90o01).
 
-The _Kazenelson_ case has created a precedent that changes the way workers can be prosecuted. Not so much that the law has changed (which it has, somewhat, but not too much), nor that _Kazenelson_ has perversely interpreted that law (it has not), but simply because it initiates criminalization of workplace procedure as a practical precedent.
+The [_Kazenelson_](http://www.canlii.org/en/on/onsc/doc/2015/2015onsc3639/2015onsc3639.pdf) case has created a precedent that changes the way workers can be prosecuted. Not so much that the law has changed (which it has, somewhat, but not too much), nor that _Kazenelson_ has perversely interpreted that law (it has not), but simply because it initiates criminalization of workplace procedure as a practical precedent.
 
 * * *
 
