@@ -1,21 +1,31 @@
 +++
-date = "2016-04-01T21:15:54Z"
-draft = false
-title = "operation rainbow"
-tags = ["hazards"]
-categories = ["Public Education"]
 banner = "img/banners/operation-rainbow.png"
+categories = ["Public Education"]
+date = "2016-04-01T21:15:54+00:00"
+draft = false
+tags = ["hazards"]
+title = "Operation Rainbow"
+
 +++
-## The Project
-“Operation Rainbow” is a project proposed by **Dr. Michael Grossman ­ a volunteer for Workers’
-Health and Safety Legal Aid Clinic**. It deals with the Rainbow experiment: a laboratory
-experiment performed in secondary schools that identifies characteristic colours produced by
-crystalline compounds when ignited.
+## U of T Engineering Students’ proposals to safely replace the dangerous high school Rainbow Experiment
 
-## The Proposal
-However, the experiment uses methanol as an accelerant. Due to its high combustibility and low
-evaporation temperature the methanol creates a serious fire hazard. Various accounts of injuries
-caused by flash fires have led the American Chemical Society to recommend a discontinuation of
-the experiment. Thus the aim is to create a design that makes the experiment safe.
+(August 2016 – Clinic Newsletter)  
 
-[Read more](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+04/2016+04.++highschool+chem+rainbow+exp+UofT+ESP+Team+102.pdf).
+Our Clinic continued its partnership with first year engineering students at the University of Toronto participating in U of T Engineering Strategies & Practice Course, and the Multidisciplinary Capstone Design Course.
+
+Proposed by Clinic volunteer, Dr. Michael Grossman, “Operation Rainbow” is a project that seeks to resolve the safety problems surrounding the Rainbow Experiment: a laboratory experiment performed in secondary schools that identify characteristic colours produced by crystalline compounds when ignited.
+
+* * *
+
+**The students’ findings were as follows:**
+
+*   [2016 04\. Final Presentation Team 67.pptx](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+04/2016+04.++Final+Presentation++Team+67.pptx)
+*   [2016 04\. highschool chem rainbow exp UofT ESP Team 67.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+04/2016+04.++highschool+chem+rainbow+exp+UofT+ESP+Team+67.pdf)
+*   [2016 04\. Final Presentation Team 102.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+04/2016+04.++Final+Presentation+Team+102.pdf)
+*   [2016 04\. highschool chem rainbow exp UofT ESP Team 102.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+04/2016+04.++highschool+chem+rainbow+exp+UofT+ESP+Team+102.pdf)
+
+* * *
+
+Read more on this issue in the **[August 2016 – Clinic Newsletter](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+08/2016+08.+Vol.24++No.2+.pdf)**.
+
+* * *

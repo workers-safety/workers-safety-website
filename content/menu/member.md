@@ -12,7 +12,7 @@ Please consider becoming a member and sharing your voice in the fight for improv
 
 To become a member, you must be a resident of Ontario who is 18 years of age or older, and you must agree with our **Mission Statement** outlined below. Membership takes effect once our Board of Directors approves the application. The Clinic reserves the right to deny membership.
 
-You can apply to become a member by downloading our WHSLC [Membership Application Form](/publications/member-app-form.pdf) in PDF format that you can complete and send to our office.
+You can apply to become a member by downloading our WHSLC [Membership Application Form](https://goo.gl/forms/VtmDGDKXLnLXCV1S2) in PDF format that you can complete and send to our office.
 
 -----
 ### Mission Statement

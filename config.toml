@@ -67,8 +67,8 @@ paginate = 10
     weight = 3
     
 [[params.menu]]
-    name = "Resources"
-    url  = "/menu/resources/"
+    name = "Links"
+    url  = "/menu/links/"
     weight = 4   
      
 [[params.menu]]
