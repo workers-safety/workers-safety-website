@@ -82,7 +82,7 @@ p.lead {
 }
 section,
 div.section {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .no-mb {
   margin-bottom: 0 !important;
@@ -1752,7 +1752,7 @@ fieldset[disabled] .btn-template-primary.active {
 .bar {
   position: relative;
   background: #38a7bb;
-  padding: 0px 0;
+  padding: 10px 0;
 }
 .bar.background-pentagon {
   background: url('../img/texture-bw.png') center center repeat;
