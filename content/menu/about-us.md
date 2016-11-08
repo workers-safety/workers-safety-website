@@ -30,7 +30,7 @@ Being a volunteer Board member is an opportunity to network, to meet others who 
 
 Board members must be WHSLC [members](/menu/member/) and must sign our Confidentiality Statement. Board members are elected for two-year terms and also participate on Board Committees.
 
-If you are interested in our Board of Directors, please c[ontact us](/menu/contact/).
+If you are interested in our Board of Directors, please [contact us](/menu/contact/).
 
 * * *
 
@@ -38,4 +38,4 @@ If you are interested in our Board of Directors, please c[ontact us](/menu/conta
 
 The Workers' Health and Safety Legal Clinic was founded in 1988 and since then has focused on helping low wage non-unionized workers in Ontario. [Read more](/menu/clinic-history/) about our Clinic's history advocating for workers' health and safety.
 
-------
+* * *
