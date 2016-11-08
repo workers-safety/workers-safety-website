@@ -70,7 +70,7 @@ Workers covered by _Workplace Safety and Insurance Act_ have the right to claim 
 
 * * *
 
-### Work Transition Services Appeals
+### Work Transition Services
 
 The WSIB expects that workers will return to work with their employers. Often, workers are expected to return too soon or are expected to perform work they are physically unable to do. We provide representation and will attend return to work meetings with the worker. In cases where the worker cannot return to work with the employer, we will assist with appeals involving retraining or if there is an argument to be made against any return to work.
 
