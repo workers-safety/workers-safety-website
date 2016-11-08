@@ -7,9 +7,8 @@ tags = ["hazards"]
 title = "Operation Rainbow"
 
 +++
-## U of T Engineering Students’ proposals to safely replace the dangerous high school Rainbow Experiment
+## U of T Engineering Students’ proposals to safely replace the dangerous high school Rainbow Experimenti.
 
-(August 2016 – Clinic Newsletter)  
 
 Our Clinic continued its partnership with first year engineering students at the University of Toronto participating in U of T Engineering Strategies & Practice Course, and the Multidisciplinary Capstone Design Course.
 

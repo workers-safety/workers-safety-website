@@ -7,9 +7,8 @@ tags = ["law reform"]
 title = "Kazenelson Case"
 
 +++
-## Criminal Code -- Prison Sentence: The effect of the Kazenelson criminal law decision on legal advice to workers
+## Criminal Code -- Prison Sentence: The effect of the Kazenelson criminal law decision on legal advice to workers.
 
-(February 2016 – Clinic Newsletter)
 
 _Kazenelson_ is the first major conviction under the Westray-changed Criminal Code. On 11 January 2016, he was sentenced to 3½ years in prison; that sentence is being appealed. It was a contested criminal trial, as distinct from a trial under the [_Occupational Health and Safety Act_](https://www.ontario.ca/laws/statute/90o01).
 

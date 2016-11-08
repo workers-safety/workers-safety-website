@@ -7,9 +7,8 @@ tags = ["hazards"]
 title = "Radon Hazards"
 
 +++
-## U of T Engineering Students’ proposal for Ontario Building Code changes for Radon Gas  
+## U of T Engineering Students’ proposal for Ontario Building Code changes for Radon Gas.
 
-(August 2016 – Clinic Newsletter)  
 
 According to the World Health Organization, radon gas has become the second leading cause of lung cancer. In Ontario, high levels of radon can be found within Toronto’s GTA. Since there are no legal requirements in Ontario for radon testing, the current _Ontario Building Code_ is inadequate to handle radon as a rising problem.
 
