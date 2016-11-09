@@ -7,7 +7,9 @@ tags = ["hazards"]
 title = "Radon Hazards"
 
 +++
-<span style="line-height: 1.58; letter-spacing: 0.01em;">According to the World Health Organization, radon gas has become the second leading cause of lung cancer. In Ontario, high levels of radon can be found within Toronto’s GTA. Since there are no legal requirements in Ontario for radon testing, the current</span> _Ontario Building Code_ <span style="line-height: 1.58; letter-spacing: 0.01em;">is inadequate to handle radon as a rising problem.</span>  
+## <span style="line-height: 2rem; letter-spacing: 0.01em;">U of T Engineering Students’ proposal for Ontario Building Code changes for Radon Gas.</span>
+
+<span style="line-height: 1.58; letter-spacing: 0.01em;">According to the World Health Organization, radon gas has become the second leading cause of lung cancer. In Ontario, high levels of radon can be found within Toronto’s GTA. Since there are no legal requirements in Ontario for radon testing, the current</span> <span style="line-height: 1.58; letter-spacing: 0.01em;"></span> _Ontario Building Code_ <span style="line-height: 1.58; letter-spacing: 0.01em;"></span> <span style="line-height: 1.58; letter-spacing: 0.01em;">is inadequate to handle radon as a rising problem.</span>  
 
 The Canadian Environmental Law Association issued a report in November 2014 called Radon in [_Homes, Schools, and Workplaces: CELA Finds Legal Protections Lacking_](http://www.cela.ca/newsevents/radon-homes-schools-and-workplaces-cela-finds-legal-protections-lacking). The concerns raised by this report inspired our Clinic to suggest this topic as a project for fourth year engineering students at the University of Toronto.
 
