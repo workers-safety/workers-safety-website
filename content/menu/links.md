@@ -7,7 +7,7 @@ type = "page"
 +++
 _In this section, you will find information on a variety of issues that relate to workers' employment and/or health and safety rights. Scroll down for more information._
 
-_------_ 
+_------_
 
 **For more information about Ontario Community Legal Clinics:**
 
@@ -23,6 +23,6 @@ _------_
 
 * * *
 
-**Please Note:** For more relevant information, please visit our [Communications](/communications/) section or for older Newsletters and Annual Reports access our [Archives](/features/archives/) section on our website.
+**Please Note:** For more relevant information, please visit our [communications](/communications/) section or for older newsletters and Annual Reports access our [archives](/features/archives/) section on our website.
 
 * * *

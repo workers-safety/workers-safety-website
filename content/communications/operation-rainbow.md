@@ -7,11 +7,9 @@ tags = ["hazards"]
 title = "Operation Rainbow"
 
 +++
-## U of T Engineering Students’ proposals to safely replace the dangerous high school Rainbow Experiment
+## <span style="line-height: 2rem; letter-spacing: 0.01em;">U of T Engineering Students’ proposals to safely replace the dangerous high school Rainbow Experiment.</span>
 
-(August 2016 – Clinic Newsletter)  
-
-Our Clinic continued its partnership with first year engineering students at the University of Toronto participating in U of T Engineering Strategies & Practice Course, and the Multidisciplinary Capstone Design Course.
+<span style="line-height: 1.58; letter-spacing: 0.01em;">Our Clinic continued its partnership with first year engineering students at the University of Toronto participating in U of T Engineering Strategies & Practice Course, and the Multidisciplinary Capstone Design Course.</span>
 
 Proposed by Clinic volunteer, Dr. Michael Grossman, “Operation Rainbow” is a project that seeks to resolve the safety problems surrounding the Rainbow Experiment: a laboratory experiment performed in secondary schools that identify characteristic colours produced by crystalline compounds when ignited.
 

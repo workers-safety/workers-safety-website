@@ -65,31 +65,36 @@ paginate = 10
     name = "Who we serve"
     url  = "/menu/who-we-serve/"
     weight = 3
+
+[[params.menu]]
+    name = "Law reform"
+    url  = "/features/law-reform/"
+    weight = 4 
     
 [[params.menu]]
     name = "Links"
     url  = "/menu/links/"
-    weight = 4   
+    weight = 5   
      
 [[params.menu]]
     name = "Communications"
     url  = "/communications/"
-    weight = 5
+    weight = 6
     
 [[params.menu]]
     name = "Membership"
     url  = "/menu/member/"
-    weight = 6
+    weight = 7
     
 [[params.menu]]
     name = "About Us"
     url  = "/menu/about-us/"
-    weight = 7
+    weight = 8
    
 [[params.menu]]
     name = "Contact Us"
     url  = "/menu/contact/"
-    weight = 8
+    weight = 9
 
 
 
