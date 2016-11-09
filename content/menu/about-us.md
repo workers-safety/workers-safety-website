@@ -38,4 +38,4 @@ If you are interested in our Board of Directors, please [contact us](/menu/conta
 
 The Workers' Health and Safety Legal Clinic was founded in 1988 to support low wage non-unionized workers in Ontario. [Read more](/menu/clinic-history/) about our Clinic history advocating for workers' health and safety.
 
-------
+* * *
