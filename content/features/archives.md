@@ -11,4 +11,4 @@ The following [archives](http://newsletter.workers-safety.ca.s3-website-us-east-
 
 Please note: Some of the archived Clinic newsletters contain within them links to documents that may no longer be available. To inquire further, [contact us](http://yzdsari8nyjl9q.preview.forestry.io/menu/contact/).
 
-------
+* * *
