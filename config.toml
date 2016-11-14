@@ -136,7 +136,7 @@ paginate = 10
     # /data/clients
     title = "Resources"
     subtitle = "We are here to help"
-    url = "/menu/resources/"
+    url = "/menu/links/"
     link_text = "Find more information"
 
 [params.recent_posts]
