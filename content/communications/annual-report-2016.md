@@ -1,5 +1,5 @@
 +++
-banner = "/static/img/banners/whslc4Clogo.jpg"
+banner = "whslc4Clogo.jpg"
 categories = ["annual report"]
 date = "2016-11-21T12:30:37-05:00"
 draft = false
