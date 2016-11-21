@@ -6,7 +6,7 @@ machine:
 
 dependencies:
   pre:
-    - sudo pip install awscli
+    - pip install awscli
     - docker info
     - docker build -t clamorisse/hugo:0.15 ./docker-hugo-site
     - pwd
@@ -41,7 +41,7 @@ deployment:
       - aws s3 sync public/ s3://stage.workers-safety.ca/
       - aws s3 sync newsletter-list/src/ s3://newsletter.workers-safety.ca
   tryout:
-    branch: newsletter
+    branch: stage-broken
     commands:
       - docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://stage.workers-safety.ca/ 
       - docker run -d -p 1313:1313 --name hugostage -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://stage.workers-safety.ca/ --appendPort=false --bind=0.0.0.0
