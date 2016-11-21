@@ -1,5 +1,5 @@
 +++
-banner = "/forestryio/images/whslc4Clogo.jpg"
+banner = "/forestryio/images/WHSLC%20Logo.jpg"
 categories = []
 date = "2016-11-21T12:30:37-05:00"
 draft = false
