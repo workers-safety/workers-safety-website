@@ -9,7 +9,7 @@ title = "Kazenelson Case"
 +++
 ## <span style="line-height: 2rem; letter-spacing: 0.01em;">Criminal Code – Prison Sentence: The effect of the Kazenelson criminal law decision on legal advice to workers.</span>
 
-In concluding a case commentary in the previous issue of this newsletter, I asked: "Has _Kazenelson_ changed the rules of engagement for going to work? Should workers worry about this?"  
+In concluding a case commentary in the previous issue of this newsletter, I asked: "Has _Kazenelson_ changed the rules of engagement for going to work? Should workers worry about this?"
 
 In this polemic, I try to explain why my answers are: yes & yes.
 
@@ -18,5 +18,7 @@ The _[Kazenelson](http://www.canlii.org/en/on/onsc/doc/2015/2015onsc3639/2015ons
 * * *
 
 Read more on this analysis in the [**February 2016 – Clinic Newsletter**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+02/2016+02.+Vol.24.+No.1+.pdf).
+
+Further commentary on this analysis is available in the **[August 2016 – Clinic Newsletter](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/2016+08/2016+08.+Vol.24++No.2+.pdf)**.
 
 * * *
