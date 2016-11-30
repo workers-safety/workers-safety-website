@@ -1,6 +1,6 @@
 +++
 banner = "img/banners/operation-rainbow.png"
-categories = ["Public Education"]
+categories = ["newsletter"]
 date = "2016-04-01T21:15:54+00:00"
 draft = false
 tags = ["hazards"]
