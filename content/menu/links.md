@@ -11,7 +11,7 @@ In this section, you will find information on a variety of issues that relate to
 
 ### LEGAL ASSISTANCE RESOURCES
 
-[**Legal Aid Ontario (LAO)**](http://www.legalaid.on.ca/) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
+[**Legal Aid Ontario (LAO)**](http://www.legalaid.on.ca) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
 
 *   Tel (416) 979-1446 / Toll free 1-800-668-8258
 
@@ -93,7 +93,7 @@ In this section, you will find information on a variety of issues that relate to
 
 **[Ontario Federation of Labour (OFL)](http://www.ofl.ca/)** – is Canada’s largest provincial labour federation that serves as an umbrella group for working people and their unions, and represents over one million Ontario workers.
 
-*   [Prevention Link](https://www.preventionlink.ca) – is a disability prevention program that focuses on the link between the primary and secondary prevention of occupational injury, illness and disease in Ontario workplaces.
+*   [Prevention Link](http://www.preventionlink.ca/) – is a disability prevention program that focuses on the link between the primary and secondary prevention of occupational injury, illness and disease in Ontario workplaces.
 
 [**Government of Ontario**](https://www.ontario.ca/page/jobs-and-employment) – provides information for job seekers and businesses, and includes a variety of programs and resources to help you plan your career, get training, know your rights, find a job or hire workers for your business.
 
@@ -147,7 +147,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Parliament of Canada**](http://www.parl.gc.ca/Default.aspx?Language=E) – provides information on Members of Parliament, the Senate, the House of Commons, bills and other legislative business.
 
-*   [LEGISinfo](http://www.parl.gc.ca/LEGISInfo/Home.aspx? Language=E&Mode=1&ParliamentSession=42-1) – is a research tool for finding information on legislation and individual bills before Parliament.
+*   [LEGISinfo](http://www.parl.gc.ca/LEGISInfo/Home.aspx? Language=E&Mode=1&ParliamentSession=42-1) is a research tool for finding information on legislation and individual bills before Parliament.
 
 * * *
 
@@ -159,7 +159,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**American Chemical Society (ACS)**](https://www.acs.org/content/acs/en.html) – serves more than 157,000 members globally, and provides educational and career development programs, products, and services. As the largest scientific society in the world, ACS is a leading and authoritative source of scientific information.
 
-*   [](https://www.acs.org/content/acs/en/education/whatischemistry/periodictable.html)<a>Click here</a> to access the ACS Periodic Table.
+*   [Click here](https://www.acs.org/content/acs/en/education/whatischemistry/periodictable.html) to access the ACS Periodic Table.
 
 [**National Nuclear Data Centre (NNDC)**](http://www.nndc.bnl.gov/) – collects, evaluates, and disseminates nuclear physics data for basic nuclear research and for applied nuclear technologies. The NNDC is a worldwide resource for nuclear data.
 
@@ -167,7 +167,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**REACH = Registration, Evaluation, Authorisation and Restriction of Chemical substances**](http://ec.europa.eu/environment/chemicals/reach/reach_intro.htm) – is a European Community Regulation that aims to improve the protection of human health and the environment through better and earlier identification of the properties of chemical substances.
 
-[**European Chemicals Agency (ECHA)**](http://echa.europa.eu/home_en.asp) – is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.
+[**European Chemicals Agency (ECHA)**](https://echa.europa.eu/) – is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.
 
 **Avantor Performance Materials** – seeks to enable the next generation of health and technology solutions and empower customers to innovate with confidence.
 
