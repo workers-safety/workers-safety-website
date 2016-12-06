@@ -147,7 +147,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Parliament of Canada**](http://www.parl.gc.ca/Default.aspx?Language=E) – provides information on Members of Parliament, the Senate, the House of Commons, bills and other legislative business.
 
-*   [LEGISinfo](http://www.parl.gc.ca/LEGISInfo/Home.aspx? Language=E&Mode=1&ParliamentSession=42-1) – a research tool for finding information on legislation and individual bills before Parliament.
+*   [LEGISinfo](http://www.parl.gc.ca/LEGISInfo/Home.aspx? Language=E&Mode=1&ParliamentSession=42-1) – is a research tool for finding information on legislation and individual bills before Parliament.
 
 * * *
 
