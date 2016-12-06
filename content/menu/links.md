@@ -11,30 +11,30 @@ In this section, you will find information on a variety of issues that relate to
 
 ### LEGAL ASSISTANCE RESOURCES
 
-[**Legal Aid Ontario (LAO)**](www.legalaid.on.ca) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
+[**Legal Aid Ontari****o (LAO)**](http://www.legalaid.on.ca) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
 
 *   Tel (416) 979-1446 / Toll free 1-800-668-8258
 
-*   [Click here](www.legalaid.on.ca/clinics) to access all community and specialty legal clinics in Ontario.
+*   [Click here](http://www.legalaid.on.ca/clinics) to access all community and specialty legal clinics in Ontario.
 
 *   [Click here](http://legalaid.on.ca/en/contact/contact.asp?type=cl) to find your community legal clinic closest to where you live.
 
-[**Industrial Accident Victims’ Group of Ontario (IAVGO)**](www.iavgo.org) – provides free services to injured workers in Ontario including legal advice, legal representation, public legal education, advocacy training and community development. IAVGO is a specialty legal clinic funded by LAO that assists with WSIB matters.
+[**Industrial Accident Victims’ Group of Ontario (IAVGO)**](http://www.iavgo.org) – provides free services to injured workers in Ontario including legal advice, legal representation, public legal education, advocacy training and community development. IAVGO is a specialty legal clinic funded by LAO that assists with WSIB matters.
 
 *   Tel (416) 924-6744 / Toll free 1-877-230-6311
 
-[**Injured Workers’ Consultants (IWC)**](www.injuredworkersonline.org) – provides information, advice and representation to injured workers, and seeks better treatment for injured workers by the workers' compensation system, their employers and the government. IWC is a specialty legal clinic funded by LAO that assists with WSIB matters.
+[**Injured Workers’ Consultants (IWC)**](http://www.injuredworkersonline.org) – provides information, advice and representation to injured workers, and seeks better treatment for injured workers by the workers' compensation system, their employers and the government. IWC is a specialty legal clinic funded by LAO that assists with WSIB matters.
 
 *   Tel (416) 461-2411
 
-[**Office of the Worker Adviser (OWA)**](www.owa.gov.on.ca) – assists non-unionized workers, who do not meet Legal Aid Ontario’s financial eligibility criteria but can not afford legal representation. OWA is a free agency of the Ministry of Labour, and assists with WSIB appeals and Health and Safety reprisals.
+[**Office of the Worker Adviser (OWA)**](http://www.owa.gov.on.ca) – assists non-unionized workers, who do not meet Legal Aid Ontario’s financial eligibility criteria but can not afford legal representation. OWA is a free agency of the Ministry of Labour, and assists with WSIB appeals and Health and Safety reprisals.
 
 *   Health and safety reprisal issues: Tel (416) 212-5335 / Toll free 1-855-659-7744
 *   Workplace insurance issues: Toll free 1-800-435-8980
 
 [**Community Legal Education Ontario (CLEO)**](http://www.cleo.on.ca/en) – produces clear and practical legal information to help people understand and exercise their legal rights in such legal areas as family, criminal, consumer, domestic abuse, employment, disability, housing, immigration, social assistance and pensions.
 
-*   _[Getting Legal Help: Community Legal Clinics in Ontario](www.cleo.on.ca/en/publications/ontario)_ – is a free booklet that lists all the legal clinics in Ontario, and is available online and in print.
+*   [_Getting Legal Help: Community Legal Clinics in Ontario_](http://www.cleo.on.ca/en/publications/ontario) – is a free booklet that lists all the legal clinics in Ontario, and is available online and in print.
 
 * * *
 
@@ -44,7 +44,7 @@ In this section, you will find information on a variety of issues that relate to
 
 *   Tel (416) 947-5255 / Toll free 1-855-947-5255
 
-[**Pro Bono Ontario**](www.probonoontario.org) – offers free volunteer-based legal help to persons across the province of Ontario who can not afford a lawyer. Pro Bono Ontario provides a free consultation of up to 40 minutes to help you determine your rights and options when dealing with a legal issue. They also support start-ups, artists, social service organizations and social entrepreneurs with the legal issues.
+[**Pro Bono Ontario**](http://www.probonoontario.org) – offers free volunteer-based legal help to persons across the province of Ontario who can not afford a lawyer. Pro Bono Ontario provides a free consultation of up to 40 minutes to help you determine your rights and options when dealing with a legal issue. They also support start-ups, artists, social service organizations and social entrepreneurs with the legal issues.
 
 [**Artists’ Legal Advice Services (ALAS)**](http://www.alasontario.ca/) – provides free volunteer-based summary legal advice to artists living in Ontario, and typically assists with issues relating to contracts, defamation, copyright, trademarks and royalties or other payments.
 
@@ -97,9 +97,9 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Government of Ontario**](https://www.ontario.ca/page/jobs-and-employment) – provides information for job seekers and businesses, and includes a variety of programs and resources to help you plan your career, get training, know your rights, find a job or hire workers for your business.
 
--------
+* * *
 
-### FEDERAL WORKERS' RESOURCES  
+### FEDERAL WORKERS' RESOURCES
 
 **[Employment and Social Development Canada: Health and Safety](http://www.esdc.gc.ca/en/jobs/workplace/health_safety/index.page?)** – provides information on workplace hazards, rights and responsibilities, health and wellness, injury prevention, compensation and the federal Workplace Hazardous Materials Information System.
 
