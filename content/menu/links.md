@@ -17,7 +17,7 @@ _------_
 
 *   **Injured Workers’ Consultants (IWC)** is a specialty legal clinic within Legal Aid Ontario that assists with WSIB matters: [www.injuredworkersonline.org](http://www.injuredworkersonline.org)
 
-*   **Office of the Worker Adviser** - is a free agency of the Ministry of Labour that can assist non-unionised workers who do not meet our financial eligibility criteria: [www.owa.gov.on.ca](http://www.owa.gov.on.ca)
+*   **Office of the Worker Adviser** - is a free agency of the Ministry of Labour that can assist non-unionized workers who do not meet Legal Aid Ontario's financial eligibility criteria: [www.owa.gov.on.ca](http://www.owa.gov.on.ca)
 
 *   **Getting Legal Help: Community Legal Clinics in Ontario** is a free booklet from Community Legal Education Ontario (CLEO) that lists all the legal clinics in Ontario, and is available online and in print: [www.cleo.on.ca/en/publications/ontario](http://www.cleo.on.ca/en/publications/ontario)
 
