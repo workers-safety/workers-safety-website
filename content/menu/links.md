@@ -11,7 +11,7 @@ In this section, you will find information on a variety of issues that relate to
 
 ### LEGAL ASSISTANCE RESOURCES
 
-[**Legal Aid Ontari****o (LAO)**](http://www.legalaid.on.ca) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
+[**Legal Aid Ontario (LAO)**](http://www.legalaid.on.ca/) – provides free legal services to low-income people in Ontario. LAO seeks to ensure that healthy communities include legal services and access to justice.
 
 *   Tel (416) 979-1446 / Toll free 1-800-668-8258
 
