@@ -3,7 +3,7 @@ banner = "img/banners/whslc4Clogo.jpg"
 categories = ["newsletter"]
 date = "2016-02-13T11:15:00+00:00"
 draft = false
-tags = ["law reform"]
+tags = []
 title = "Kazenelson Case"
 
 +++
