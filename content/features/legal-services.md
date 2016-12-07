@@ -14,7 +14,7 @@ Your privacy is very important to us. The WHSLC follows the Law Society of Upper
 #### Our areas of practice include:
 
 - [Unlawful Dismissals](/features/services/unlawful-dismissals/)
-  * [Health and Safety Reprisals](/features/services/dimissals/hsreprisals/)
+  * [Health and Safety Reprisals](/features/services/dismissals/hsreprisals/)
   * [Employment Standards: Reprisals and Termination Pay/Severance Pay Claims](/features/services/dismissals/employment-standards/)
   * [Human Rights applications](/features/services/dismissals/human-rights/)
   * [Canada Labour Code: Unjust Dismissals and Reprisals](/features/services/dismissals/canada-labor-code/)
