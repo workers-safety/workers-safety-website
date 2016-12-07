@@ -29,8 +29,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Office of the Worker Adviser (OWA)**](http://www.owa.gov.on.ca) – assists non-unionized workers, who do not meet Legal Aid Ontario’s financial eligibility criteria but can not afford legal representation. OWA is a free agency of the Ministry of Labour, and assists with WSIB appeals and Health and Safety reprisals.
 
-*   Health & safety reprisal issues: Tel (416) 212-5335 / Toll free 1-855-659-7744
-*   Workplace insurance issues: Toll free 1-800-435-8980
+*   <span style="line-height: 2rem; letter-spacing: 0.01em;">Workplace insurance issues: Toll free 1-800-435-8980</span>  
 
 [**Community Legal Education Ontario (CLEO)**](http://www.cleo.on.ca/en) – produces clear and practical legal information to help people understand and exercise their legal rights in such legal areas as family, criminal, consumer, domestic abuse, employment, disability, housing, immigration, social assistance and pensions.
 
