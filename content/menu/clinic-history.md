@@ -5,7 +5,7 @@ title = "Clinic History"
 type = "page"
 
 +++
-
+# Clinic History
 
 The Toronto Workers’ Health and Safety Legal Clinic began operations in December 1988. The Clinic was founded by a group of health and safety advocates who originally were part of the Toronto Occupational Health Resource Centre (TOHRC). TOHRC was set up in the 1970s to assist non-unionized workers in dealing with occupational health and safety hazards. 
 
@@ -22,5 +22,3 @@ During recent years, the Clinic has worked in partnership with the University of
 The nature of work has changed drastically in the past decade. With precarious work on the rise in Ontario, additional resources have made it possible for the Clinic to advise and represent more low-wage workers. To reflect the growing need to represent clients and advocate for issues that influence workers’ rights throughout the province of Ontario, the Clinic changed its name to the Workers’ Health and Safety Legal Clinic (WHSLC). 
 
 The WHSLC activities are equally balanced between casework, law reform and community development/public education. Most recently the Clinic has increased its capacity to advise and represent people in other employment-related matters such as wrongful dismissal matters.
-
-##### [Go back](/menu/about-us/)
