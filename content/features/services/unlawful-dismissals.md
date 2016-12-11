@@ -12,4 +12,6 @@ The Workers' Health and Safety Legal Clinic provides advice and representation o
 *   [Canada Labour Code: Unjust Dismissals and Reprisals](/features/services/dismissals/canada-labor-code/)
 *   [Small Claims Court: Wrongful Dismissal and Constructive Dismissal Lawsuits](/features/services/dismissals/small-claims/)
 
+-------
+
 ##### [Go back](/features/legal-services/)
