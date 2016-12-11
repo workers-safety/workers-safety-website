@@ -1,12 +1,10 @@
 +++
-
 draft = false
-title = "Unlawful Dismissals"
+title = "Workplace Safety and Insurance Board"
 type = "page"
 
 +++
-
-Workers covered by _Workplace Safety and Insurance Act_ have the right to claim benefits from the Workplace Safety and Insurance Board (WSIB). Benefits can include loss of earnings benefits (also known as workers’ compensation) or healthcare coverage. The WSIB also assists with return to work and retraining. We provide advice for all WSIB issues but representation only in specific types of claim issues like Work Transition Services appeals as well as Occupational Disease appeals.
+Workers covered by _Workplace Safety and Insurance Act_ have the right to claim benefits from the Workplace Safety and Insurance Board (WSIB). Benefits can include loss of earnings benefits (also known as workers’ compensation) or healthcare coverage. The WSIB also assists with return to work and retraining. We provide advice for all WSIB issues but representation only in specific types of claim issues like **Work Transition Services** appeals as well as **Occupational Disease** appeals.
 
 * * *
 
@@ -20,5 +18,6 @@ The WSIB expects that workers will return to work with their employers. Often, w
 
 Long term exposures at the workplace can result in occupational diseases. Sometimes, doing the same tasks over and over can lead to repetitive strain injuries. We represent workers with these claims.
 
+-------
 
 ##### [Go back](/features/legal-services/)
