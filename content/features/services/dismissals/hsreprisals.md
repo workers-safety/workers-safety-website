@@ -4,10 +4,10 @@ title = "Health and Safety Reprisals"
 type = "page"
 
 +++
-The core of the Workers' Health and Safety Legal Clinic's mandate is to represent workers who are disciplined or fired for raising health and safety concerns at work. Some common health and safety concerns are unsafe working conditions, workplace harassment, workplace violence, poor ventilation or exposure to chemical hazards. These are just a few of the health and safety concerns that can arise in any workplace.
+The core of our Clinic's mandate is to represent workers who are disciplined or fired for raising health and safety concerns at work. Some common health and safety concerns are unsafe working conditions, workplace harassment, workplace violence, poor ventilation or exposure to chemical hazards. These are just a few of the health and safety concerns that can arise in any workplace.
 
-Clinic lawyers are experienced in advocacy before the Ontario Labour Relations Board and in seeking remedies such as lost wages, general damages, and reinstatement to work.
+WHSLC lawyers are experienced in advocacy before the Ontario Labour Relations Board and in seeking remedies such as lost wages, general damages, and reinstatement to work.
 
--------
+* * *
 
 ##### [Go back](/features/services/unlawful-dismissals/)
