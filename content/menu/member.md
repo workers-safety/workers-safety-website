@@ -4,7 +4,7 @@ title = "Membership"
 type = "page"
 
 +++
-# **Become a Member!**
+## **Become a Member!**
 
 The WHSLC is supported by a diverse membership. Our primary goal is to provide free legal services to non-unionized workers experiencing employment issues and/or health and safety legal issues in Ontario. To help us ensure that our services are relevant, we need the participation of people experiencing workplace injustices in Ontario, as well as those who are serving vulnerable workers who experience unfair workplace practices.
 
@@ -13,6 +13,8 @@ Please consider becoming a member and sharing your voice in the fight for improv
 To become a member, you must be a resident of Ontario who is 18 years of age or older, and you must agree with our **Mission Statement** outlined below. Membership takes effect once our Board of Directors approves the application. The Clinic reserves the right to deny membership.
 
 You can apply online to become a Clinic member by filling out and submitting the following [Membership Application Form](https://goo.gl/forms/VtmDGDKXLnLXCV1S2).
+
+-------
 
 ### Mission Statement
 
