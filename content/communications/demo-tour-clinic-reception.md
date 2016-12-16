@@ -3,7 +3,7 @@ banner = "img/banners/Demo-Pizza-smaller.jpg"
 categories = ["Events"]
 date = "2016-12-13T14:46:00-05:00"
 draft = false
-tags = ["Injured Workers", "Workers Compensation", "WSIB"]
+tags = ["Injured Workers", "WSIB", "Workers' Compensation"]
 title = "Demo Tour: Clinic Reception"
 
 +++
