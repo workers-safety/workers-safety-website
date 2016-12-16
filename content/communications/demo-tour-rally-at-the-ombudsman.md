@@ -3,7 +3,7 @@ banner = "img/banners/Demo-Ombudsman-smaller.jpg"
 categories = ["Events"]
 date = "2016-12-13T14:40:00-05:00"
 draft = false
-tags = ["Injured Workers", "Workers Compensation"]
+tags = ["Injured Workers", "Workers' Compensation", "WSIB"]
 title = "Demo Tour: Rally at the Ombudsman"
 
 +++
