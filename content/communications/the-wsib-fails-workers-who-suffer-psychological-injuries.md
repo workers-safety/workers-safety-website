@@ -9,7 +9,7 @@ title = "The WSIB Fails Workers Who Suffer Psychological Injuries"
 +++
 ## Letter to WSIB’s President & CEO.
 
-The Workers' Health and Safety Legal Clinic delivered a letter to Mr. Thomas Teahen, President and CEO of the Workplace Safety and Insurance Board (WSIB). The letter provides an example of the treatment injured workers face when they suffer from psychological trauma, not physical injuries, at work.
+The Workers' Health and Safety Legal Clinic delivered a letter to Mr. Thomas Teahen, President and CEO of the Workplace Safety and Insurance Board (WSIB). The letter provides an example of the treatment injured workers face when they suffer from post traumatic stress disorder related to their workplace injury.
 
 * * *
 
