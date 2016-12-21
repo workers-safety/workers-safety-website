@@ -2,8 +2,8 @@
 banner = "img/banners/InjWorkDemo.jpg"
 categories = ["Events"]
 date = "2016-11-29T13:13:56-05:00"
-draft = false
-tags = ["Injured Workers", "Workers Compensation", "WSIB"]
+draft = true
+tags = ["Injured Workers", "WSIB", "Workers' Compensation"]
 title = "Injured Worker Demonstration"
 
 +++
