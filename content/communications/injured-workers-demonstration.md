@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/Demo-WSIB-smaller-2.jpg"
+banner = "img/banners/Demo-WSIB-smaller-4.jpg"
 categories = ["Events"]
 date = "2016-12-13T09:56:00-05:00"
 draft = false
