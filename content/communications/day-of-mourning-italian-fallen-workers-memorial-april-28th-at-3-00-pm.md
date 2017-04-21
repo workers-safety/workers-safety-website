@@ -1,13 +1,11 @@
 +++
-banner = "/img/banners/MemorialDay-337x213.jpg"
+banner = "img/banners/MemorialDay-337x213-1.jpg"
 categories = ["Events"]
-date = "2017-04-19T17:27:14+00:00"
+date = "2017-04-19T17:27:14Z"
 tags = ["Injured Workers"]
 title = "Day of Mourning - Italian Fallen Workers Memorial - April 28th at 3:00 pm"
 
 +++
-
-
 Last year, on April 28, the Committee for the Italian Fallen Workers Memorial Project was proud to formally unveil the Italian Fallen Workers Memorial Wall honouring almost one thousand workers of Italian origin who have been killed in workplace tragedies across Ontario.
 
 
