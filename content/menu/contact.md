@@ -18,7 +18,11 @@ type = "page"
 
 #### Feel free to contact us by phone or email for information, to receive our services, to become a [member](/menu/member/), to join the Board of Directors, or to inquire about volunteer opportunities.
 
+
+
+
 * #### Telephone: 416-971-8832 (Local) or 1-877-832-6090 (Toll free)
+
 * #### Fax: 416-971-8834
 
 * #### Email: whslc@lao.on.ca
