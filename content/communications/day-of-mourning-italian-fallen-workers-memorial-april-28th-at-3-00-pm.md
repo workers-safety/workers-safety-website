@@ -6,6 +6,8 @@ tags = ["Injured Workers"]
 title = "Day of Mourning - Italian Fallen Workers Memorial - April 28th at 3:00 pm"
 
 +++
+
+
 Last year, on April 28, the Committee for the Italian Fallen Workers Memorial Project was proud to formally unveil the Italian Fallen Workers Memorial Wall honouring almost one thousand workers of Italian origin who have been killed in workplace tragedies across Ontario.
 
 
@@ -17,6 +19,8 @@ The memorial ceremony will be held on April 28, 2017, at 3:00 pm at the Villa Ch
 
 The ceremony is set to coincide with the International Day of Mourning for Fallen Workers – a day which formally recognizes all fallen workers killed, injured or made ill due to their work. This day is one, which as Canadians we can be proud of, because it was the idea of the Canadian Labour Congress in 1984, and is now honoured in countries all across the globe.
 
+------
+
 
 Read more on this event by clicking on the below invitation and press release:
 
@@ -25,3 +29,5 @@ Read more on this event by clicking on the below invitation and press release:
 
 
 [Press Release-ItalianFallenWorkersMemorial-English.pdf](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/Events/Day+of+Mourning/ItalianFallenWorkersMemorial.April28.2017.PressRelease.English.pdf)
+
+------
