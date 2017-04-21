@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/NewsletterLogo-1.jpg"
+banner = "img/banners/NewsletterLogo-2.jpg"
 categories = ["newsletter"]
 date = "2017-04-21T14:08:16+00:00"
 tags = []
