@@ -2,7 +2,6 @@
 banner = ""
 categories = []
 date = "2017-05-08T11:08:16+00:00"
-draft = true
 tags = []
 title = "Trabajadores Indocumentados"
 type = "menu"
@@ -21,6 +20,7 @@ Workers’ Health and Safety Legal Clinic  y el Centro para Gente de Habla Hispa
 Nuestros objetivos principales son:
 
 * **Proporcionar información** sobre los derechos de salud y seguridad de los trabajadores a través de la comunidad.
+
 * **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
 
 Hemos preparado materiales de divulgación con información sobre salud y seguridad, compensación al trabajador y derechos humanos que se distribuirán en clínicas de salud comunitarias y centros de salud, así como en otras organizaciones comunitarias que prestan servicios a la comunidad de habla hispana.
