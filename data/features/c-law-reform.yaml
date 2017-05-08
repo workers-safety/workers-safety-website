@@ -1,8 +1,7 @@
 ---
 weight: 5
-name: Law reform
-icon: fa fa-university
-url: /features/law-reform/
-description: We participate in law reform that effect changes to laws and policies
-  governing employment, health and safety, workers compensation and related workplace
-  laws.
+name: Trabajadores Indocumentados
+icon: fa fa-medkit
+url: "/features/undocumented-workers/"
+description: Brindamos talleres gratuitos y damos representación legal a trabajadores
+  indocumentados de habla hispana para ayudar a prevenir accidentes de trabajo.
