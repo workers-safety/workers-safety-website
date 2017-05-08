@@ -9,7 +9,7 @@ type = "menu"
 +++
 
 
-![](img/banners/UndocWork-Website%20Logo-2-1.jpg)
+<img src="img/banners/UndocWork-Website%20Logo-2-1.jpg" alt="" class=" forestry--left forestry--left" style="float: left;">
 
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
@@ -35,7 +35,7 @@ Si deseas más información y quieres discutir tus problemas de trabajo, puedes 
 
 ### (647) 462-3164
 
-### _diazj@lao.on.ca_
+### diazj@lao.on.ca
 
 <hr>
 
