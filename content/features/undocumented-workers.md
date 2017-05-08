@@ -3,7 +3,7 @@ banner = ""
 categories = []
 date = "2017-05-08T11:08:16+00:00"
 tags = []
-title = "Trabajadores Indocumentados"
+title = "Trabajadores Indocumentados / Undocumented Workers"
 type = "page"
 
 +++
@@ -12,6 +12,8 @@ type = "page"
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
 <hr>
+
+### **Preventing Injuries amongst Undocumented Workers**
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
 
