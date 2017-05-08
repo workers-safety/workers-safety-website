@@ -11,6 +11,12 @@ type = "page"
 
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
+<hr>
+
+[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
+
+<hr>
+
 Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
 
 ![](img/banners/UndocWork-Website%20Logo-2-1.jpg)
@@ -40,9 +46,5 @@ Si deseas más información y quieres discutir tus problemas de trabajo, puedes 
 <hr>
 
 Tu llamado es confidencial y tu no tienes que dar tu nombre si no lo deseas.
-
--------
-
-[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of the content above.
 
 <hr>
