@@ -1,9 +1,9 @@
 +++
 banner = ""
-categories = ["x", "y"]
+categories = ["events"]
 date = "2017-05-08T15:09:43+00:00"
 draft = true
-tags = ["x", "y"]
+tags = ["injured workers", "undocumented workers"]
 title = "¡Buena Paga! --- Voces Latinas 1610am – Saturdays at 3:00pm"
 
 +++
@@ -17,3 +17,4 @@ Tune in at Voces Latinas - 1610am every Saturday from 3:00 pm to 4:00 pm to disc
 
 Schedule of the shows topics will be rmade available in the coming weeks.
 
+Tags, categories - injured workers,
