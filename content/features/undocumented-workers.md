@@ -4,7 +4,6 @@ categories = []
 date = "2017-05-08T11:08:16+00:00"
 tags = []
 title = "Trabajadores Indocumentados"
-type = "page"
 
 +++
 
