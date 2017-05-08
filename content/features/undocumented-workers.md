@@ -9,8 +9,6 @@ type = "page"
 +++
 
 
-<img src="img/banners/UndocWork-Website%20Logo-2-1.jpg" alt="" class=" forestry--left forestry--left" style="float: left;">
-
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
 Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
