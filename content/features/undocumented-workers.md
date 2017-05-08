@@ -33,7 +33,7 @@ Nuestros objetivos principales son:
 
 Hemos preparado materiales de divulgación con información sobre salud y seguridad, compensación al trabajador y derechos humanos que se distribuirán en clínicas de salud comunitarias y centros de salud, así como en otras organizaciones comunitarias que prestan servicios a la comunidad de habla hispana.
 
-A partir del sábado 27 de mayo a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610am**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas  en los proxímos días.
+A partir del sábado 27 de mayo a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610am**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
 
 <hr>
 
