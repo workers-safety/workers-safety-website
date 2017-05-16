@@ -36,7 +36,7 @@ Cultural showcase to celebrate the resilience of injured workers, featuring musi
 
 A panel discussion featuring workers who are organizing in different sectors but on similar issues. We aim to open a conversation on how we can connect our organizing efforts and bring together a powerful, worker-led front for safe work and full compensation.
 
-Featured speakers include: Janice Martell – Founder of the McIntyre Powder Project; Sue James – Retired worker from the Peterborough GE factory; Heather Neiser – Healthcare worker and anti-workplace violence activist with OCHU; Len Elliott – OPSEU executive member and Health & Safety advocate
+Featured speakers include: Janice Martell – Founder of the McIntyre Powder Project; Sue James – Retired worker from the Peterborough GE factory; Heather Neiser – Healthcare worker and anti-workplace violence activist with OCHU; Len Elliott – OPSEU executive member and Health & Safety advocate.
 
 [Click here](https://www.facebook.com/events/1960098277553292/) to visit the event page.
 
