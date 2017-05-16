@@ -16,6 +16,10 @@ Sintoniza en **Voces Latinas – 1610am** cada sábado de 3:00 pm a 4:00 pm para
 
 El calendario de temas de cada show estará disponible en las próximas semanas.
 
+-------
+
+[Haga clic aquí](http://workers-safety.ca/features/undocumented-workers/) para obtener más información sobre nuestro proyecto de prevención de accidentes entre trabajadores indocumentados
+
 <hr>
 
 ### ¡Buena Paga! --- Voces Latinas 1610am - Saturdays at 3:00pm
