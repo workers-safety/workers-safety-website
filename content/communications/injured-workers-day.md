@@ -10,7 +10,7 @@ title = "Injured Workers’ Day - June 1st, 2017 at 11:30am, Queen’s Park"
 
 ### Workers' Compensation is a Right! Injured Workers' Day Rally and March.
 
-Despite the epidemic of precarious, unsafe, and toxic work, the Workers' Safety and Insurance Board (WSIB) is more concerned with its own bottom line than with protecting the well-being of injured workers in Ontario.
+Despite the epidemic of precarious, unsafe, and toxic work, the Workplace Safety and Insurance Board (WSIB) is more concerned with its own bottom line than with protecting the well-being of injured workers in Ontario.
 
 We need to come together and demand our right to workers' compensation.
 
