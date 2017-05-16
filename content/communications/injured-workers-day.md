@@ -4,18 +4,18 @@ categories = ["events"]
 date = "2017-05-16T12:30:44+00:00"
 draft = true
 tags = ["injured workers", "workers compensation", "wsib"]
-title = "Injured Workers’ Day 2017: June 1st at 11:30am, Queen’s Park"
+title = "Injured Workers’ Day - June 1st, 2017 at 11:30am, Queen’s Park"
 
 +++
 
 
-Despite the epidemic of precarious, unsafe, and toxic work, the WSIB is more concerned with its own bottom line than with protecting the well-being of injured workers.
+Despite the epidemic of precarious, unsafe, and toxic work, the Workers' Safety and Insurance Board (WSIB) is more concerned with its own bottom line than with protecting the well-being of injured workers in Ontario.
 
-### WORKERS’ COMP IS A RIGHT! INJURED WORKERS’ DAY RALLY & MARCH.
-
-We need to come together and demand our right to compensation.
+<span style="font-size: 1rem; line-height: 1.5em; word-spacing: 0.5px;">We need to come together and demand our right to compensation.&nbsp;</span>
 
 <span style="line-height: 1.5em; font-size: 1rem;">Join us on the streets!</span>
+
+### WORKERS’ COMP IS A RIGHT! INJURED WORKERS’ DAY RALLY & MARCH.
 
 June 1st , 2017 --- <span style="line-height: 1.5em; font-size: 1rem;">11:30am - at Queen’s Park.</span>
 
@@ -31,7 +31,7 @@ May 31st, 2017 --- Dinner at 7:00pm --- Vigil at 8:00pm.
 
 Cultural showcase to celebrate the resilience of injured workers, featuring music, poetry, storytelling, and satire. Led by the Women of Inspiration Injured Worker Group.
 
-### Fighting Back Against Unsafe and Toxic Work
+### Fighting Back Against Unsafe and Toxic Work.
 
 June 1st, 2017 --- 2:00pm, OCAD Auditorium (100 McCaul St., room 190)
 
@@ -39,6 +39,7 @@ A panel discussion featuring workers who are organizing in different sectors but
 
 Featured speakers include: Janice Martell – Founder of the McIntyre Powder Project; Sue James – Retired worker from the Peterborough GE factory; Heather Neiser – Healthcare worker and anti-workplace violence activist with OCHU; Len Elliott – OPSEU executive member and Health & Safety advocate
 
-Click here to visit the event page.
+[Click here](https://www.facebook.com/events/1960098277553292/) to visit the event page.
 
-https://www.facebook.com/events/1960098277553292/
+-------
+
