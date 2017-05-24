@@ -19,9 +19,9 @@ type = "page"
 
 <hr>
 
-Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
-
 ![](img/banners/UndocWork-Website%20Logo-2-1.jpg)
+
+Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
 
 Workers’ Health and Safety Legal Clinic  y el Centro para Gente de Habla Hispana están llevando a cabo una iniciativa conjunta de dos años que tiene como objetivo prevenir accidentes laborales entre los trabajadores hispano hablantes indocumentados y sin estatus en Ontario.
 
@@ -33,7 +33,7 @@ Nuestros objetivos principales son:
 
 Hemos preparado materiales de divulgación con información sobre salud y seguridad, compensación al trabajador y derechos humanos que se distribuirán en clínicas de salud comunitarias y centros de salud, así como en otras organizaciones comunitarias que prestan servicios a la comunidad de habla hispana.
 
-A partir del sábado 27 de mayo a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610am**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
+A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
 
 <hr>
 
@@ -50,3 +50,4 @@ Si deseas más información y quieres discutir tus problemas de trabajo, puedes 
 Tu llamado es confidencial y tu no tienes que dar tu nombre si no lo deseas.
 
 <hr>
+
