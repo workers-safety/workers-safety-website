@@ -31,13 +31,11 @@ Nuestros objetivos principales son:
 
 * **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
 
-Hemos preparado materiales de divulgación con información sobre salud y seguridad, compensación al trabajador y derechos humanos que se distribuirán en clínicas de salud comunitarias y centros de salud, así como en otras organizaciones comunitarias que prestan servicios a la comunidad de habla hispana.
-
 A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
 
 <hr>
 
-Si deseas más información y quieres discutir tus problemas de trabajo, puedes  comunicarte con :
+Si deseas más información y quieres discutir tus problemas de trabajo, puedes  comunicarte con:
 
 ### Julio Díaz – Abogado
 
