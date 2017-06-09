@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/UndocWork-RadioLogo-Sp-June3.jpg"
+banner = "img/banners/UndocWork-RadioLogo-Sp-Jun10.jpg"
 categories = ["events"]
 date = "2017-06-08T11:20:09Z"
 tags = ["injured workers", "undocumented workers", "workers compensation"]
@@ -20,7 +20,9 @@ El programa de radio también contará con invitados, dramatización de casos us
 
 Sintoniza **Voces Latinas – CHHA 1610AM** cada sábado de 3:00 pm a 4:00 pm para discutir diferentes problemas en el lugar de trabajo.
 
--------
+Para mayor información, [www.buenapaga.ca](https://buenapaga.ca/)
+
+<hr>
 
 **Los Temas de Nuestros Próximos Programas:**
 
