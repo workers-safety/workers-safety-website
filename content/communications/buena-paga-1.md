@@ -1,14 +1,11 @@
 +++
-banner = "img/banners/UndocWork-RadioLogo-Sp-June10.jpg"
-
+banner = "img/banners/UndocWork-RadioLogo-Sp-Jun10.jpg"
 categories = ["events"]
 date = "2017-06-08T11:20:09Z"
 tags = ["injured workers", "undocumented workers", "workers compensation"]
 title = "¡Buena Paga! --- Voces Latinas 1610AM - Sábado 10 de junio de 2017 a las 3:00 pm"
 
 +++
-
-
 **El tema de esta semana:**
 
 ## **Accidentes en el lugar de trabajo - Cómo reportarlos a WSIB.**
