@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/img/banners/UndocWork-RadioLogo-Sp-June3.jpg"
 categories = ["events"]
 date = "2017-06-08T11:20:09+00:00"
 tags = ["injured workers", "undocumented workers", "workers compensation"]
