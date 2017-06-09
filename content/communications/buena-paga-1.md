@@ -1,7 +1,7 @@
 +++
 banner = "/img/banners/UndocWork-RadioLogo-Sp-June3.jpg"
 categories = ["events"]
-date = "2017-06-08T11:20:09+00:00"
+date = "2017-06-08T11:20:09Z"
 tags = ["injured workers", "undocumented workers", "workers compensation"]
 title = "¡Buena Paga! --- Voces Latinas 1610AM - Sábado 10 de junio de 2017 a las 3:00 pm"
 
@@ -20,13 +20,25 @@ El programa de radio también contará con invitados, dramatización de casos us
 
 Sintoniza **Voces Latinas – CHHA 1610AM** cada sábado de 3:00 pm a 4:00 pm para discutir diferentes problemas en el lugar de trabajo.
 
-Un calendario de los próximos temas del programa de radio estará disponible en las próximas semanas.
-
 -------
+
+**Los Temas de Nuestros Próximos Programas:**
+
+**Junio 17:** ¿Empleado o contratista Independiente? Lo que los trabajadores y trabajadoras deben saber.
+
+**Junio 24:** Cuestiones de Inmigración: ¿Cómo puedo trabajar legalmente en Canadá? ¿Cuáles son mis opciones si no tengo status legal?
+
+**Julio 1:** Derechos Humanos: ¿Cuáles son las razones contempladas en el Código de Derechos Humanos de Ontario (“Ontario Human Rights Code”)? ¿Cómo puedo presentar una reclamación por discriminación en el lugar de trabajo?
+
+**Julio 8:** LatinX y la discriminación basada en la identidad de género, la expresión de género y la orientación sexual (LGBTQ).
+
+**Julio 15:** Discriminación basada en el sexo: acoso en el lugar de trabajo. El embarazo. Igualdad de remuneración por trabajo igual. Licencia de maternidad.
+
+<hr>
 
 [Haga clic aquí ](http://workers-safety.ca/features/undocumented-workers/)para obtener más información sobre nuestro proyecto de prevención de accidentes entre trabajadores indocumentados.
 
--------
+<hr>
 
 ### Well Paid! --- Voces Latinas 1610AM
 
@@ -36,4 +48,4 @@ This week’s topic is "Accidents in the Workplace – How to report them to the
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Buena+Paga-RadioShow-Eng-June10.pdf) to access the English version of this communications post.
 
--------
+<hr>
