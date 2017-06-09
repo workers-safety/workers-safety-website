@@ -6,11 +6,11 @@ tags = ["injured workers", "undocumented workers", "workers compensation"]
 title = "¡Buena Paga! --- Voces Latinas 1610AM - Sábado 10 de junio de 2017 a las 3:00 pm"
 
 +++
+
+
 **El tema de esta semana:**
 
 ## **Accidentes en el lugar de trabajo - Cómo reportarlos a WSIB.**
-
-<span style="line-height: 1.5em; font-size: 1rem;"><br></span>
 
 El sábado 10 de junio a las 3:00 pm, Julio Díaz discutirá cómo reportar un accidente en el lugar de trabajo a la Compensación ("WSIB"). Durante el show, los oyentes y las oyentes aprenderán a reportar una enfermedad o lesión en el trabajo, qué deben decir cuando reciben atención médica por una lesión y qué pasos se deben tomar para presentar una reclamación de compensación de trabajadores con el WSIB.
 
