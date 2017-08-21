@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/AGMlogo-2.jpg"
+banner = "img/banners/AGMlogo-3.jpg"
 categories = ["events"]
 date = "2017-08-18T09:38:50-04:00"
 tags = []
