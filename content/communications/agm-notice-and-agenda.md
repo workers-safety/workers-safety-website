@@ -1,9 +1,9 @@
 +++
 banner = ""
-categories = ["x", "y"]
-date = "2017-08-21T13:38:50+00:00"
+categories = ["events"]
+date = "2017-08-18T09:38:50-04:00"
 draft = true
-tags = ["x", "y"]
+tags = []
 title = "AGM Notice and Agenda"
 
 +++
