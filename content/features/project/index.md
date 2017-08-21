@@ -11,12 +11,10 @@ title = "Project"
 
 Undocumented workers in Ontario are more likely to take physically demanding jobs for less than minimum wage, and are more often exposed to hazards that cause accidents and injuries.
 
-The Centre for Spanish Speaking Peoples and the Workers’ Health and Safety Legal Clinic continue our joint two year initiative to prevent health and safety injuries among Spanish-speaking undocumented and non-status workers. Julio Díaz is the lawyer leading this project’s development.
-
-Since early spring, we have participated in numerous demonstrations, cultural events and community fairs, and we have outreached through workshops and presentations.
+<span style="font-size: 1rem;">Since early spring, we have participated in numerous demonstrations, cultural events and community fairs, and we have outreached through workshops and presentations.</span>
 
 We are pleased to announce two interactive initiatives that have been created to further connect with the Spanish-speaking community:
 
-Buena Paga
+Buena Paga http://workers-safety.ca/features/project/buena-paga/
 
-El Cafecito
+El Cafecito http://workers-safety.ca/features/project/el-cafecito/
