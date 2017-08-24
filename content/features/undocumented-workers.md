@@ -1,7 +1,7 @@
 +++
 banner = ""
 categories = []
-date = "2017-05-08T11:08:16+00:00"
+date = "2017-05-08T11:08:16Z"
 tags = []
 title = "Trabajadores Indocumentados / Undocumented Workers"
 type = "page"
@@ -16,6 +16,8 @@ type = "page"
 ### **Preventing Injuries amongst Undocumented Workers**
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
+
+Access our new project initiatives
 
 <hr>
 
@@ -48,4 +50,3 @@ Si deseas más información y quieres discutir tus problemas de trabajo, puedes 
 Tu llamado es confidencial y tu no tienes que dar tu nombre si no lo deseas.
 
 <hr>
-
