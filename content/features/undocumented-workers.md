@@ -17,11 +17,9 @@ type = "page"
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
 
-Access our new [project initiatives](http://workers-safety.ca/pages/project/project-initiatives/).
+Access our new [project initiatives](https://workers-safety.ca/features/project/).
 
 <hr>
-
-![](img/banners/UndocWork-Website%20Logo-2-1.jpg)
 
 Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
 
