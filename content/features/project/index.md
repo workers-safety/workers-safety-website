@@ -1,8 +1,8 @@
 +++
 banner = ""
-categories = ["x", "y"]
+categories = []
 date = "2017-08-21T15:02:06+00:00"
-tags = ["x", "y"]
+tags = []
 title = "Project Initiatives"
 type = "page"
 
