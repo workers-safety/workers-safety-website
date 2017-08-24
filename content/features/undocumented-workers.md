@@ -17,7 +17,7 @@ type = "page"
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
 
-Access our new [project initiatives](http://workers-safety.ca/features/project-index-md/).
+Access our new [project initiatives](http://workers-safety.ca/features/project/project-initiatives/).
 
 <hr>
 
