@@ -2,6 +2,7 @@
 banner = "img/banners/AGMlogo-5.jpg"
 categories = ["events"]
 date = "2017-08-18T09:38:50-04:00"
+draft = true
 tags = []
 title = "AGM - September 19, 2017 at 6:00pm"
 

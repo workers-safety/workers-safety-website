@@ -1,0 +1,16 @@
+---
+upload_path: "/static/img/banners/"
+frontmatter_file_url_template: img/banners/
+body_file_url_template: img/banners/
+new_page_extension: md
+auto_deploy: false
+admin_path: "/admin"
+webhook_url: 
+sections:
+  features:
+    default_front_matter_template: features
+  menu:
+    default_front_matter_template: menu
+  communications:
+    default_front_matter_template: communications
+version: '0.17'
