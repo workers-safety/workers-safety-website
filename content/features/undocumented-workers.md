@@ -1,14 +1,12 @@
 +++
 banner = ""
 categories = []
-date = "2017-05-08T11:08:16+00:00"
+date = "2017-05-08T11:08:16Z"
 tags = []
 title = "Trabajadores Indocumentados / Undocumented Workers"
 type = "page"
 
 +++
-
-
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
 <hr>
@@ -18,8 +16,6 @@ type = "page"
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
 
 <hr>
-
-![](img/banners/UndocWork-Website%20Logo-2-1.jpg)
 
 Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
 
@@ -32,6 +28,8 @@ Nuestros objetivos principales son:
 * **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
 
 A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
+
+#### [www.buenapaga.ca](http://www.buenapaga.ca)
 
 <hr>
 
@@ -48,4 +46,3 @@ Si deseas más información y quieres discutir tus problemas de trabajo, puedes 
 Tu llamado es confidencial y tu no tienes que dar tu nombre si no lo deseas.
 
 <hr>
-

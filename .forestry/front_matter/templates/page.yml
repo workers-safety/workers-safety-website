@@ -1,0 +1,56 @@
+---
+pages:
+- features/law-reform.md
+- features/undocumented-workers.md
+- features/project/index.md
+- features/project/el-cafecito.md
+- features/project/buena-paga-2.md
+- features/services/workplace-safety.md
+- features/services/unlawful-dismissals.md
+- features/services/dismissals/small-claims.md
+- features/public-education.md
+- features/legal-services.md
+- features/services/dismissals/hsreprisals.md
+- features/services/dismissals/employment-standards.md
+- features/services/dismissals/canada-labor-code.md
+- features/archives.md
+- features/services/dismissals/human-rights.md
+- menu/aboutus/staff.md
+- menu/contact.md
+- menu/who-we-serve.md
+- menu/member.md
+- menu/aboutus/board-of-directors.md
+- menu/about-us.md
+- menu/aboutus/clinic-history.md
+- menu/links.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Title
+  hidden: false
+  type: text
+- name: date
+  default: ''
+  label: Date
+  hidden: false
+  type: datetime
+- name: banner
+  default: ''
+  label: Banner
+  hidden: false
+  type: file
+- name: categories
+  default:
+  - x
+  - y
+  label: Categories
+  hidden: false
+  type: tag_list
+- name: tags
+  default:
+  - x
+  - y
+  label: Tags
+  hidden: false
+  type: tag_list
