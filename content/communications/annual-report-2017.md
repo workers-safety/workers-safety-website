@@ -2,7 +2,6 @@
 banner = "/img/banners/whslc4Clogo.jpg"
 categories = []
 date = "2017-10-30T08:04:01-04:00"
-draft = true
 tags = ["hazards", "injured-workers", "undocumented-workers"]
 title = "Annual Report 2017"
 
