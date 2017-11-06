@@ -7,8 +7,6 @@ title = "Trabajadores Indocumentados / Undocumented Workers"
 type = "page"
 
 +++
-
-
 ## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
 
 <hr>
@@ -16,8 +14,6 @@ type = "page"
 ### **Preventing Injuries amongst Undocumented Workers**
 
 [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
-
-Access our new [project initiatives](https://workers-safety.ca/features/project/).
 
 <hr>
 
@@ -32,6 +28,8 @@ Nuestros objetivos principales son:
 * **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
 
 A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
+
+#### [www.buenapaga.ca](http://www.buenapaga.ca)
 
 <hr>
 
