@@ -1,10 +1,10 @@
 ---
 pages:
+- features/law-reform.md
 - features/undocumented-workers.md
 - features/project/index.md
 - features/project/el-cafecito.md
 - features/project/buena-paga-2.md
-- features/law-reform.md
 - features/services/workplace-safety.md
 - features/services/unlawful-dismissals.md
 - features/services/dismissals/small-claims.md
