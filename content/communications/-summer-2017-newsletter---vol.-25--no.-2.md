@@ -1,7 +1,7 @@
 +++
 banner = "img/banners/NewsletterLogo-Summer2017.jpg"
 categories = ["Newsletter"]
-date = "2017-11-06T13:13:16+00:00"
+date = "2017-08-21T00:00:00-04:00"
 tags = ["hazards", "injured-workers"]
 title = " Summer 2017 Newsletter – Vol. 25, No. 2"
 
