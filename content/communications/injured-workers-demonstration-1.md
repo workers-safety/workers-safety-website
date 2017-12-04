@@ -8,7 +8,7 @@ title = "Injured Workers' Demonstration - December 11, 2017 at 11:30am"
 +++
 ## **All We Want for Christmas is Fair Workers’ Comp!**
 
-### **Injured Workers' Holiday Outreach Blitz**
+### **Injured Workers' Holiday Outreach Blitz.**
 
 ---
 
