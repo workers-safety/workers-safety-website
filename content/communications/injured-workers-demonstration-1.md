@@ -16,11 +16,7 @@ title = "Injured Workers' Demonstration - December 11, 2017 at 11:30am"
 
 Meet at 11:30am at Yonge & Dundas Square \[[Map](https://www.google.ca/maps/place/Yonge-Dundas+Square/@43.6560359,-79.3802357,15z/data=!4m5!3m4!1s0x0:0xfba1e6ac7018788a!8m2!3d43.6560359!4d-79.3802357)\]
 
-Contact [workerscompisaright@gmail.com](mailto:workerscompisaright@gmail.com) for more information.
-
----
-
-**Facebook event:** [https://www.facebook.com/events/526224984404754/](https://www.facebook.com/events/526224984404754/ "https://www.facebook.com/events/526224984404754/")
+Contact [workerscompisaright@gmail.com](mailto:workerscompisaright@gmail.com) for more information or visit the [Facebook event](https://www.facebook.com/events/526224984404754/) page.
 
 ---
 
