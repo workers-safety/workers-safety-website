@@ -1,9 +1,9 @@
 +++
 banner = ""
-categories = ["x", "y"]
+categories = ["Events"]
 date = "2017-12-04T09:57:00+00:00"
 draft = true
-tags = ["x", "y"]
+tags = ["WSIB", "Workers' Compensation", "Injured Workers"]
 title = "Injured Workers Demonstration - December 11, 2017 at 11:30am"
 
 +++
