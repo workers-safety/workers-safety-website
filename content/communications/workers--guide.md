@@ -15,7 +15,7 @@ As a worker in Ontario, you have basic health and safety rights. It is against t
 
 **Click below to learn more:**
 
-### [WORKERS’ GUIDE TO OCCUPATIONAL HEALTH AND SAFETY](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf "Workers' Guide to Occupational Health and Safety")
+### [WORKERS’ GUIDE TO OCCUPATIONAL HEALTH AND SAFETY](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf "Workers' Guide to Occupational Health and Safety").
 
 ---
 
