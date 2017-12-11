@@ -2,8 +2,9 @@
 banner = "img/banners/Untitled.jpg"
 categories = ["publications"]
 date = "2017-12-11T10:50:24+00:00"
+draft = true
 tags = ["health and safety", "wsib", "workers' compensation"]
-title = "Workers' Guide"
+title = "Workers Guide"
 
 +++
 # Protect your health and safety!
