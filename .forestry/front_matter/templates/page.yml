@@ -1,5 +1,6 @@
 ---
 pages:
+- features/public-education.md
 - features/undocumented-workers.md
 - features/law-reform.md
 - features/project/index.md
@@ -8,7 +9,6 @@ pages:
 - features/services/workplace-safety.md
 - features/services/unlawful-dismissals.md
 - features/services/dismissals/small-claims.md
-- features/public-education.md
 - features/legal-services.md
 - features/services/dismissals/hsreprisals.md
 - features/services/dismissals/employment-standards.md
