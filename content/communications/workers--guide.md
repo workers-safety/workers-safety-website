@@ -18,4 +18,4 @@ As a worker in Ontario, you have basic health and safety rights. It is against t
 
 ---
 
-For more information on our services or if you have have been fired or punished for speaking out about your rights, [Contact Us](http://workers-safety.ca/menu/contact/).
+For more information on our services or if you have have been fired or punished for speaking out about your rights, [contact us](http://workers-safety.ca/menu/contact/).
