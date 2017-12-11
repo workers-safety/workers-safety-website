@@ -19,7 +19,7 @@ type = "page"
 
 **Click the below links to access for our booklets in English and Spanish:**
 
-### [YOUR HEALTH AND SAFETY AT WORK: Information for Workers](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf)
+### [WORKERS' GUIDE TO OCCUPATIONAL HEALTH AND SAFETY](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf "Workers' Guide to Occupational Health and Safety")
 
 ### [TU SALUD Y SEGURIDAD EN EL TRABAJO: Información para Trabajadores](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Sp-Revised-FINAL.pdf)
 
