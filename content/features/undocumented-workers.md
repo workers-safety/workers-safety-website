@@ -17,7 +17,7 @@ type = "page"
 
 <hr>
 
-Click the below links to access for our booklets in English and Spanish:
+**Click the below links to access for our booklets in English and Spanish:**
 
 ### [YOUR HEALTH AND SAFETY AT WORK: Information for Workers](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf)
 
