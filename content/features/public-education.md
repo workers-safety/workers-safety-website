@@ -19,11 +19,9 @@ If you are interested in booking a workshop, please [contact us](/menu/contact/)
 
 ---
 
-# Protect your health and safety!
+### Protect your health and safety!
 
 As a worker in Ontario, you have basic health and safety rights. It  is against the law for your boss to fire you or punish you (or threaten  to fire or punish you) for using your health and safety rights.
-
----
 
 **Click below to learn more:**
 
