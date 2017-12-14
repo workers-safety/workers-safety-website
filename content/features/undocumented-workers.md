@@ -17,6 +17,14 @@ type = "page"
 
 <hr>
 
+**Click the below links to access for our booklets in English and Spanish:**
+
+### [WORKERS' GUIDE TO OCCUPATIONAL HEALTH AND SAFETY](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf "Workers' Guide to Occupational Health and Safety")
+
+### [TU SALUD Y SEGURIDAD EN EL TRABAJO: Información para Trabajadores](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Sp-Revised-FINAL.pdf)
+
+---
+
 Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
 
 Workers’ Health and Safety Legal Clinic  y el Centro para Gente de Habla Hispana están llevando a cabo una iniciativa conjunta de dos años que tiene como objetivo prevenir accidentes laborales entre los trabajadores hispano hablantes indocumentados y sin estatus en Ontario.
@@ -24,7 +32,6 @@ Workers’ Health and Safety Legal Clinic  y el Centro para Gente de Habla Hispa
 Nuestros objetivos principales son:
 
 * **Proporcionar información** sobre los derechos de salud y seguridad de los trabajadores a través de la comunidad.
-
 * **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
 
 A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
