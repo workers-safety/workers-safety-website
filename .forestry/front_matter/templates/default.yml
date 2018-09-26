@@ -1,5 +1,7 @@
 ---
+label: default
 hide_body: false
+is_partial: false
 fields:
 - name: title
   default: ''
@@ -30,3 +32,5 @@ fields:
   label: Banner
   hidden: false
   type: file
+pages:
+- content/communications/agm---october-24,-2018-at-600pm.md
