@@ -1,6 +1,6 @@
 +++
 banner = "img/banners/AGM2018.jpg"
-categories = ["event"]
+categories = ["events"]
 date = "2018-09-26T16:52:42-04:00"
 tags = []
 title = "AGM - October 24, 2018 at 6:00pm"
