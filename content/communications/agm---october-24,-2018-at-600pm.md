@@ -16,4 +16,4 @@ Light refreshments will be served.
 
 [**Click here**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+References/2018+Annual+Report/AGM+Meeting+Notice+and+Agenda+-+October+24%2C+2018.pdf) to access a .PDF version of the **AGM Agenda**.
 
-[**Click here**](https://workers-safety.ca/communications/annual-report-2018/) to access a .PDF version of our 2018 Annual Report and Audited Financial Statements.
+[**Click here**](http://workers-safety.ca/communications/annual-report-2018/) to access a .PDF version of our 2018 Annual Report and Audited Financial Statements.

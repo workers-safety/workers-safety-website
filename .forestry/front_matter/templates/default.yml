@@ -33,5 +33,5 @@ fields:
   hidden: false
   type: file
 pages:
-- content/communications/annual-report-2018.md
 - content/communications/agm---october-24,-2018-at-600pm.md
+- content/communications/annual-report-2018.md
