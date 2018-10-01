@@ -1,5 +1,7 @@
 ---
+label: communications
 hide_body: false
+is_partial: false
 fields:
 - name: title
   default: ''
@@ -30,3 +32,21 @@ fields:
   label: Tags
   hidden: false
   type: tag_list
+pages:
+- content/communications/workers--guide.md
+- content/communications/injured-workers-demonstration-1.md
+- content/communications/-summer-2017-newsletter---vol.-25--no.-2.md
+- content/communications/annual-report-2017.md
+- content/communications/agm-notice-and-agenda.md
+- content/communications/buena-paga-1.md
+- content/communications/buena-paga.md
+- content/communications/spring-2017-newsletter-vol-25-issue-1.md
+- content/communications/day-of-mourning-italian-fallen-workers-memorial-april-28th-at-3-00-pm.md
+- content/communications/december-demo-2016.md
+- content/communications/annual-report-2016.md
+- content/communications/newsletter-2016-08.md
+- content/communications/injured-workers-day.md
+- content/communications/the-wsib-fails-workers-who-suffer-psychological-injuries.md
+- content/communications/injured-workers-demonstration.md
+- content/communications/newsletter-2016-02.md
+- content/communications/operation-rainbow.md

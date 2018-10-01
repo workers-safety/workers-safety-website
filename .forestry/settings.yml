@@ -1,16 +1,27 @@
 ---
-upload_path: "/static/img/banners/"
-frontmatter_file_url_template: img/banners/
-body_file_url_template: img/banners/
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-  features:
-    default_front_matter_template: features
-  menu:
-    default_front_matter_template: menu
-  communications:
-    default_front_matter_template: communications
+- type: directory
+  path: content/communications
+  label: Communications
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/menu
+  label: Menu
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/features
+  label: Features
+  create: all
+  match: "**/*"
+upload_dir: static/img/banners
+public_path: img/banners
+front_matter_path: img/banners
+use_front_matter_path: false
+file_template: ":filename:"
 version: '0.17'
