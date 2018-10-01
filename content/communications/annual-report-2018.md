@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "img/banners/AGMlogo-1.jpg"
 categories = ["hazards", "injured workers", "undocumented workers"]
 date = "2018-10-01T10:28:05-04:00"
 draft = true
@@ -20,4 +20,4 @@ The Clinic provides such legal services as advice, representation, public legal 
 * [WHSLC - Annual Report 2018](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+References/2018+Annual+Report/Annual+Report+2018.pdf)
 * [WHSLC - Audited Financial Statements 2018](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+References/2018+Annual+Report/Financial+Statements-Mar312018.pdf)
 
-Click here to access our Annual Reports from previous years.
+[**Click here**](http://newsletter.workers-safety.ca.s3-website-us-east-1.amazonaws.com/#!/newsletters%2FClinic%20References%2F) to access our Annual Reports from previous years.
