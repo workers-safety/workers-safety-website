@@ -2,7 +2,6 @@
 banner = "img/banners/AGMlogo-1.jpg"
 categories = ["hazards", "injured workers", "undocumented workers"]
 date = "2018-10-01T10:28:05-04:00"
-draft = true
 tags = ["report"]
 title = "Annual Report 2018"
 
