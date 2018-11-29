@@ -33,7 +33,6 @@ fields:
   hidden: false
   type: tag_list
 pages:
-- content/features/ptsd-prevention.md
 - content/features/ptsd-prevention-1.md
 - content/menu/about-us.md
 - content/menu/contact.md
