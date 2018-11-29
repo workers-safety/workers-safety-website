@@ -19,9 +19,7 @@ We’re kicking the week off in Toronto with a rally on **Monday, December 10th 
 
 [**Click here**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/Events/Injured+Worker+Demo/2018+-+Xmas+demo+poster+Toronto.pdf "2018 Toronto Xmas Demo Poster") to access a PDF of the 2018 Toronto Rally Poster.
 
-***
-
-### _Workers’ Comp Is A Right, and Injured Workers Need Real Healthcare!_
+#### Workers’ Comp Is A Right, and Injured Workers Need Real Healthcare!
 
 This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness.
 
