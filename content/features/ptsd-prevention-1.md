@@ -8,7 +8,7 @@ title = "PTSD Prevention"
 type = "page"
 
 +++
-### _The rate of workplace fatalities and critical injuries in Ontario workplaces have worsened in recent years._
+##### _The rate of workplace fatalities and critical injuries in Ontario workplaces have worsened in recent years._
 
 The _Occupational Health And Safety Act_ (OHSA) requires that all traumatic accidents where fatalities and critical injuries which occur in the workplace must be investigated by elected members of a Joint Health and Safety Committee, or a health and safety representative. More often than not, this process will likely require an extended involvement in a protracted investigation potentially involving the Ministry of Labour, the Police, and the Coroner. Furthermore, in these cases there is a likelihood of those investigating knowing the victims, and it puts these individuals at an  increased risk of developing Post Traumatic Stress Disorder (PTSD).
 
