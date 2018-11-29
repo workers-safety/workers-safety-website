@@ -2,7 +2,6 @@
 banner = "img/banners/Untitled.png"
 categories = ["event", "injured-workers"]
 date = "2018-11-29T15:00:22-05:00"
-draft = true
 tags = ["workers-compensation", "injured-workers", "WSIB"]
 title = "Workers' Comp Is A Right! - December 10, 2018 at 11:30am"
 
