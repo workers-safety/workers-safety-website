@@ -1,56 +1,29 @@
 +++
 banner = ""
 categories = []
-date = "2017-05-08T11:08:16Z"
+date = "2018-11-29T00:00:00-05:00"
 draft = true
 tags = []
 title = "PTSD Prevention"
 type = "page"
 
 +++
-## Projecto de Ayuda a Trabajadores Indocumentados con Problemas de Salud y Seguridad en el Trabajo
+### _The rate of workplace fatalities and critical injuries in Ontario workplaces have worsened in recent years._
 
-<hr>
+The _Occupational Health And Safety Act_ (OHSA) requires that all traumatic accidents where fatalities and critical injuries which occur in the workplace must be investigated by elected members of a Joint Health and Safety Committee, or a health and safety representative. More often than not, this process will likely require an extended involvement in a protracted investigation potentially involving the Ministry of Labour, the Police, and the Coroner. Furthermore, in these cases there is a likelihood of those investigating knowing the victims, and it puts these individuals at an  increased risk of developing Post Traumatic Stress Disorder (PTSD).
 
-### **Preventing Injuries amongst Undocumented Workers**
+As such, health and safety representatives and Joint Health and Safety Committee (JHSC) members play a fundamental role in the accurate and fair investigations of these tragic events. For workers exposed to a violent or unexpected death in the workplace, this grief is often prolonged.  In Ontario, First Responders are currently covered by Prevention Plans to address the complex and destructive effects of PTSD.
 
-[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/UndocumentedWorkers-Webpage-Eng.pdf) to access the English version of this web page.
+The Workers’ Health and Safety Legal Clinic believes that all employers that have a health and safety representative or JHSC should be required to have prevention plans in place to detect, intervene and treat those exposed to traumatic workplace accidents and injuries.
 
-<hr>
+We are seeking that the Ministry of Labour require Ontario workplaces to do better and keep workers’ safe and healthy.
 
-**Click the below links to access for our booklets in English and Spanish:**
+Post Traumatic Stress Disorder can be addressed with early detection, mandatory intervention and tailored treatment. Let's get workers out of the darkness and help them gain access to the support they need. You can support our action by downloading the PTSD Prevention petition and flyer below. Completed petitions can be returned to the Workers' Health and Safety Legal Clinic.
 
-### [WORKERS' GUIDE TO OCCUPATIONAL HEALTH AND SAFETY](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Eng-Revised-FINAL.pdf "Workers' Guide to Occupational Health and Safety")
+***
 
-### [TU SALUD Y SEGURIDAD EN EL TRABAJO: Información para Trabajadores](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2017+Undocumented+Workers/Booklet-Sp-Revised-FINAL.pdf)
+[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Petition.pdf "PTSD Prevention Petition") to access the PTSD Prevention Petition.
 
----
+[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/PTSD+Prevention/PTSD+Prevention+Flyer.pdf "PTSD Prevention Flyer") to access the PTSD Prevention Flyer.
 
-Todos y todas necesitamos protección en el trabajo independientemente de nuestro estatus en Canadá. Los trabajadores indocumentados están desproporcionadamente expuestos a riesgos para la salud y la seguridad en el lugar de trabajo.
-
-Workers’ Health and Safety Legal Clinic  y el Centro para Gente de Habla Hispana están llevando a cabo una iniciativa conjunta de dos años que tiene como objetivo prevenir accidentes laborales entre los trabajadores hispano hablantes indocumentados y sin estatus en Ontario.
-
-Nuestros objetivos principales son:
-
-* **Proporcionar información** sobre los derechos de salud y seguridad de los trabajadores a través de la comunidad.
-* **Proporcionar representación** a los trabajadores en casos apropiados que involucren cuestiones de salud y seguridad.
-
-A partir del sábado 3 de junio a las 3:00 de la tarde , Julio Diaz será conductor de un programa semanal en **Voces Latinas - 1610AM**. Allí hablará de los problemas que a menudo afectan en el trabajo a los trabajadores indocumentados de habla hispana. Presentaremos el calendario de los programas en los proxímos días.
-
-#### [www.buenapaga.ca](http://www.buenapaga.ca)
-
-<hr>
-
-Si deseas más información y quieres discutir tus problemas de trabajo, puedes  comunicarte con:
-
-### Julio Díaz – Abogado
-
-### (647) 462-3164
-
-### diazj@lao.on.ca
-
-<hr>
-
-Tu llamado es confidencial y tu no tienes que dar tu nombre si no lo deseas.
-
-<hr>
+***
