@@ -33,6 +33,7 @@ fields:
   hidden: false
   type: tag_list
 pages:
+- content/features/trabajadores-indocumentados-undocumented-workers-copy.md
 - content/features/ptsd-prevention.md
 - content/menu/about-us.md
 - content/menu/contact.md
