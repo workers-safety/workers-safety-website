@@ -19,6 +19,11 @@ sections:
   label: Communications
   create: all
   match: "**/*"
+- type: directory
+  path: data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static/img/banners
 public_path: img/banners
 front_matter_path: img/banners
