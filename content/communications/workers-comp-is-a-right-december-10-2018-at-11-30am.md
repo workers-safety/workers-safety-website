@@ -17,10 +17,6 @@ We’re kicking the week off in Toronto with a rally on **Monday, December 10th 
 
 This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness. 
 
-Doug Ford’s promise of being “for the little guy” rings hollow in the face of this reality. And as we’ve seen from the government attacks on workers across the board, the “Ontario open for business” slogan really means they want to open workers to exploitation.
-
-Well, we won’t stand for that. We’ve got a province-wide week of action to say:
-
 ### _Workers’ Comp Is A Right, and injured workers need Real Healthcare!_
 
 Have a look at the list of actions planned so far and keep checking our [Facebook event page](https://www.facebook.com/events/2159719980751545/) for more actions across the province – info will be posted there as it becomes available.
