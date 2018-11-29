@@ -1,7 +1,7 @@
 +++
 banner = ""
 categories = ["x", "y"]
-date = ""
+date = "2018-11-29T00:00:00-05:00"
 draft = true
 tags = ["x", "y"]
 title = "PTSD Prevention"
