@@ -5,8 +5,8 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: content/communications
-  label: Communications
+  path: content/features
+  label: Features
   create: all
   match: "**/*"
 - type: directory
@@ -15,8 +15,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/features
-  label: Features
+  path: content/communications
+  label: Communications
   create: all
   match: "**/*"
 upload_dir: static/img/banners
