@@ -21,20 +21,15 @@ We’re kicking the week off in Toronto with a rally on **Monday, December 10th 
 
 ***
 
-This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness.
+### _Workers’ Comp Is A Right, and Injured Workers Need Real Healthcare!_
 
-### _Workers’ Comp Is A Right, and injured workers need Real Healthcare!_
+This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness.
 
 Have a look at the list of actions planned so far and keep checking our [Facebook event page](https://www.facebook.com/events/2159719980751545/) for more actions across the province – info will be posted there as it becomes available.
 
-**Barrie** - Monday, December 10th at 10:00am at the Service Ontario office located at 34 Simcoe Street. For more info, contact [barriedistrictiwg@yahoo.ca](barriedistrictiwg@yahoo.ca)
-
-**Hamilton** - Wednesday, December 12th at 11:00am at the WSIB office located at Bay & King (outside Jackson Square). For more info, contact [hamiltoninjuredworkers@hdiwg.net](hamiltoninjuredworkers@hdiwg.net)
-
-**Niagara** - Tuesday, December 11th at 12:00pm noon at the WSIB office located at 301 St. Paul Street. For more info, contact [niagara.injured.worker.group@gmail.com](niagara.injured.worker.group@gmail.com)
-
-**Thunder Bay** - Monday, December 10th at 12:00pm noon at the WSIB office located at 113 Jade Court. For more info, contact tbiwsg@gmail.com
-
-**Toronto** - Monday, December 10th at 11:30am at the Ministry of Labour located at 400 University Avenue. For more info, contact [workerscompisaright@gmail.com](workerscompisaright@gmail.com)
-
-**Windsor** - Tuesday, December 11th at 4:00pm at the WSIB office located at 2485 Ouellette Avenue. Event page: [https://www.facebook.com/events/580982822337018/](https://www.facebook.com/events/580982822337018/ "https://www.facebook.com/events/580982822337018/")
+* **Barrie** - Monday, December 10th at 10:00am at the Service Ontario office located at 34 Simcoe Street. For more info, contact [barriedistrictiwg@yahoo.ca](barriedistrictiwg@yahoo.ca)
+* **Hamilton** - Wednesday, December 12th at 11:00am at the WSIB office located at Bay & King (outside Jackson Square). For more info, contact [hamiltoninjuredworkers@hdiwg.net](hamiltoninjuredworkers@hdiwg.net)
+* **Niagara** - Tuesday, December 11th at 12:00pm noon at the WSIB office located at 301 St. Paul Street. For more info, contact [niagara.injured.worker.group@gmail.com](niagara.injured.worker.group@gmail.com)
+* **Thunder Bay** - Monday, December 10th at 12:00pm noon at the WSIB office located at 113 Jade Court. For more info, contact tbiwsg@gmail.com
+* **Toronto** - Monday, December 10th at 11:30am at the Ministry of Labour located at 400 University Avenue. For more info, contact [workerscompisaright@gmail.com](workerscompisaright@gmail.com)
+* **Windsor** - Tuesday, December 11th at 4:00pm at the WSIB office located at 2485 Ouellette Avenue. Event page: [https://www.facebook.com/events/580982822337018/](https://www.facebook.com/events/580982822337018/ "https://www.facebook.com/events/580982822337018/")
