@@ -8,8 +8,6 @@ title = "Workers' Comp Is A Right! - December 10, 2018 at 11:30am"
 +++
 # Workers’ Comp is a Right!
 
-### Province-Wide Week of Action
-
 Join us for a province-wide week of action from December 10th to the 14th, and take a stand for fairness for injured workers!
 
 ***
@@ -20,7 +18,7 @@ In Toronto, we’re kicking the week off with a rally on **Monday, December 10th
 
 ***
 
-This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness. 
+This year, the conservative government and WSIB have been the Grinch trying to steal workers’ compensation. They’ve teamed up to give employers a $1.5 billion gift, in the form of a massive reduction to their premium rates – that’s the money that’s needed to provide compensation for people who need it. Meanwhile, injured workers are struggling with poverty and homelessness.
 
 ***
 
