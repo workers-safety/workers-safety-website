@@ -17,7 +17,7 @@ Join us for a province-wide week of action from December 10th to the 14th, and t
 
 We’re kicking the week off in Toronto with a rally on **Monday, December 10th at 11:30am outside the Ministry of Labour** located at 400 University Avenue - [view map](https://www.google.ca/maps/place/Ministry+of+Labour+Employment+Standards/@43.653407,-79.390517,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34cedd0438e7:0x85e9be27abef7be!8m2!3d43.6534031!4d-79.3883283 "400 University Ave, Toronto, ON M7A 1T7") for directions.
 
-[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/Events/Injured+Worker+Demo/2018+-+Xmas+demo+poster+Toronto.pdf "2018 Toronto Xmas Demo Poster") to access a PDF of the 2018 Toronto Rally Poster.
+[**Click here**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/Events/Injured+Worker+Demo/2018+-+Xmas+demo+poster+Toronto.pdf "2018 Toronto Xmas Demo Poster") to access a PDF of the 2018 Toronto Rally Poster.
 
 ***
 
