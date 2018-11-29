@@ -35,3 +35,5 @@ Have a look at the list of actions planned so far and keep checking our [Faceboo
 * **Thunder Bay** - Monday, December 10th at 12:00pm noon at the WSIB office located at 113 Jade Court. For more info, contact tbiwsg@gmail.com
 * **Toronto** - Monday, December 10th at 11:30am at the Ministry of Labour located at 400 University Avenue. For more info, contact [workerscompisaright@gmail.com](workerscompisaright@gmail.com)
 * **Windsor** - Tuesday, December 11th at 4:00pm at the WSIB office located at 2485 Ouellette Avenue. Event page: [https://www.facebook.com/events/580982822337018/](https://www.facebook.com/events/580982822337018/ "https://www.facebook.com/events/580982822337018/")
+
+***
