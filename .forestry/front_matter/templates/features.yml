@@ -33,5 +33,4 @@ fields:
   hidden: false
   type: tag_list
 pages:
-- content/features/ptsd-prevention-1.md
 - content/features/newsletters.md
