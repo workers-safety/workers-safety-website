@@ -27,8 +27,6 @@ This year, the conservative government and WSIB have been the Grinch trying to s
 
 Have a look at the list of actions planned so far and keep checking our [Facebook event page](https://www.facebook.com/events/2159719980751545/) for more actions across the province – info will be posted there as it becomes available.
 
-***
-
 **Barrie** - Monday, December 10th at 10:00am at the Service Ontario office located at 34 Simcoe Street. For more info, contact [barriedistrictiwg@yahoo.ca](barriedistrictiwg@yahoo.ca)
 
 **Hamilton** - Wednesday, December 12th at 11:00am at the WSIB office located at Bay & King (outside Jackson Square). For more info, contact [hamiltoninjuredworkers@hdiwg.net](hamiltoninjuredworkers@hdiwg.net)
