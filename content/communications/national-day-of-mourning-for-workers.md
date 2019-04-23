@@ -8,7 +8,7 @@ title = "National Day of Mourning for Workers - April 28"
 +++
 Each year we honour those workers that have lost their lives or suffered illness or injury on the job due to a workplace tragedy. On the National Day of Mourning for Workers, held annually on April 28th, communities across Ontario and Canada host events to commemorate workers who lost their lives in the workplace.
 
-[**Click here **](https://www.whsc.on.ca/Files/Events/WHSC_DOM2019_EventListing_Apr3a.aspx "Workers Health and Safety Centre")for a complete listing of events to be held across Ontario. Please note that although most events will be held on Sunday, April 28th, there are events hosted on April 26th and 29th.
+[**Click here**](https://www.whsc.on.ca/Files/Events/WHSC_DOM2019_EventListing_Apr3a.aspx) for a complete listing of events to be held across Ontario. Please note that although most events will be held on Sunday, April 28th, there are events hosted on April 26th and 29th.
 
 ***
 
