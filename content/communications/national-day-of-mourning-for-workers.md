@@ -25,6 +25,4 @@ This year in Toronto, events will be held on April 28th as well as April 29th.
 
 ***
 
-***
-
 Banner image credit: CCOHS - [https://www.ccohs.ca/events/mourning/](https://www.ccohs.ca/events/mourning/ "https://www.ccohs.ca/events/mourning/")
