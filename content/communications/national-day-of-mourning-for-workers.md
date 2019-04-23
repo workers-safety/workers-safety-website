@@ -12,6 +12,8 @@ Each year we honour those workers that have lost their lives or suffered illness
 
 ***
 
+***
+
 This year in Toronto, events will be held on April 28th as well as April 29th.
 
 **Sunday, April 28, 2019** _- Toronto Airport Workers’ Council_
