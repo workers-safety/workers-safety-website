@@ -3,7 +3,7 @@ banner = "img/banners/DOM.jpg"
 categories = ["Injured Workers"]
 date = "2019-04-17T00:00:00-04:00"
 tags = ["Events"]
-title = "National Day of Mourning for Workers - April 28"
+title = "National Day of Mourning for Workers - April 28 & 29"
 
 +++
 Each year we honour those workers that have lost their lives or suffered illness or injury on the job due to a workplace tragedy. On the National Day of Mourning for Workers, held annually on April 28th, communities across Ontario and Canada host events to commemorate workers who lost their lives in the workplace.
