@@ -2,8 +2,11 @@ version: 2
 jobs:
     build:
         working_directory: ~/workers-safety/workers-safety-website
+        parallelism: 1
+        shell: /bin/bash --login
         docker:
-            - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
+                - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
+                  command: /sbin/init
         steps:
             - checkout
             - run:
@@ -12,6 +15,12 @@ jobs:
             - run:
                 name: Installing dependencies.
                 command: sudo pip install awscli
+            - run:
+                working_directory: ~/workers-safety/workers-safety-website
+                command: 'echo ''America/New_York'' | sudo tee -a /etc/timezone; sudo dpkg-reconfigure -f noninteractive tzdata; sudo service mysql restart; sudo service postgresql restart; '
+            - run:
+                working_directory: ~/workers-safety/workers-safety-website
+                command: 'sudo docker info >/dev/null 2>&1 || sudo service docker start; '
             - deploy:
                 name: Deploy to AWS S3
                 command: |
@@ -20,7 +29,5 @@ jobs:
                   docker run -d -p 1313:1313 --name hugostage -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://stage.workers-safety.ca/ --appendPort=false --bind=0.0.0.0
                   aws s3 rm s3://stage.workers-safety.ca/ --recursive
                   aws s3 sync public/ s3://stage.workers-safety.ca/
-                  aws s3 sync newsletter-list/src/ s3://newsletter.workers-safety.ca
-                else
-                    echo "Not stage branch, skipping"
+                  aws s3 sync newsletter-list/src/ s3://newsletter.workers-safety.ca/
                 fi
