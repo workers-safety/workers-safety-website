@@ -2,8 +2,6 @@ version: 2
 jobs:
     build:
         working_directory: ~/workers-safety/workers-safety-website
-        environment:
-            HUGO_BUILD_DIR: ~/hugo/public
         docker:
             - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
               command: /sbin/init
@@ -25,5 +23,5 @@ jobs:
                     - aws s3 sync public/ s3://workers-safety.ca/
                     - aws s3 sync newsletter-list/src/ s3://newsletter.workers-safety.ca
                 else
-                  echo "Not stage branch, skipping"
+                    - run: echo "Not stage branch, skipping"
                 fi
