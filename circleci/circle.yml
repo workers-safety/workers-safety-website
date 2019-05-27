@@ -1,0 +1,29 @@
+version: 2
+jobs:
+    build:
+        working_directory: ~/workers-safety/workers-safety-website
+        environment:
+            HUGO_BUILD_DIR: ~/hugo/public
+        docker:
+            - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
+              command: /sbin/init
+        steps:
+            - checkout
+            - run:
+                name: Deploying Site
+                command: echo Deploying ${CIRCLE_BRANCH}
+            - run:
+                name: Installing dependencies.
+                command: sudo pip install awscli
+            - deploy:
+                name: Deploy to S3
+                command: |
+                if [ "${CIRCLE_BRANCH}" == "stage"]; then
+                    - docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://workers-safety.ca/
+                    - docker run -d -p 1313:1313 --name hugoprod -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://workers-safety.ca/ --appendPort=false --bind=0.0.0.0
+                    - aws s3 rm s3://workers-safety.ca/ --recursive
+                    - aws s3 sync public/ s3://workers-safety.ca/
+                    - aws s3 sync newsletter-list/src/ s3://newsletter.workers-safety.ca
+                else
+                  echo "Not stage branch, skipping"
+                fi
