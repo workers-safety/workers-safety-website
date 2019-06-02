@@ -60,7 +60,7 @@ jobs:
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
     # This is based on your 1.0 configuration file or project settings
-    - run |
+    - run: |
         pip install awscli
         docker info
         docker build -t clamorisse/hugo:0.15 ./docker-hugo-site
