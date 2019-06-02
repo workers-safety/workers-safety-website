@@ -34,6 +34,9 @@ jobs:
     #   If you break your build into multiple jobs with workflows, you will probably want to do the parts of this that are relevant in each
     # The following `checkout` command checks out your code to your working directory. In 1.0 we did this implicitly. In 2.0 you can choose where in the course of a job your code should be checked out.
     - checkout
+    - setup_remote_docker:
+        docker_layer_caching: true
+    
     # Prepare for artifact and test results  collection equivalent to how it was done on 1.0.
     # In many cases you can simplify this from what is generated here.
     # 'See docs on artifact collection here https://circleci.com/docs/2.0/artifacts/'
@@ -57,11 +60,12 @@ jobs:
         # Any branch if there are none on the default branch - this should be unnecessary if you have your default branch configured correctly
         - v1-dep-
     # This is based on your 1.0 configuration file or project settings
-    - run: pip install awscli
-    - run: docker info
-    - run: docker build -t clamorisse/hugo:0.15 ./docker-hugo-site
-    - run: pwd
-    - run: docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://localhost/
+    - run |
+        pip install awscli
+        docker info
+        docker build -t clamorisse/hugo:0.15 ./docker-hugo-site
+        pwd
+        docker run -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo --baseUrl=http://localhost/
     # Save dependency cache
     - save_cache:
         key: v1-dep-{{ .Branch }}-{{ epoch }}
