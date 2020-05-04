@@ -1,7 +1,6 @@
 ---
 label: page
 hide_body: false
-is_partial: false
 fields:
 - name: title
   default: ''
@@ -33,27 +32,27 @@ fields:
   hidden: false
   type: tag_list
 pages:
-- content/features/ptsd-prevention-1.md
-- content/menu/about-us.md
-- content/menu/contact.md
-- content/features/undocumented-workers.md
-- content/features/services/unlawful-dismissals.md
-- content/features/law-reform.md
-- content/features/project/el-cafecito.md
-- content/features/project/buena-paga-2.md
-- content/features/project/index.md
-- content/features/services/workplace-safety.md
-- content/features/services/dismissals/canada-labor-code.md
-- content/menu/member.md
 - content/features/archives.md
-- content/features/services/dismissals/small-claims.md
-- content/features/services/dismissals/human-rights.md
-- content/features/services/dismissals/employment-standards.md
-- content/menu/who-we-serve.md
-- content/menu/aboutus/staff.md
+- content/features/law-reform.md
 - content/features/legal-services.md
-- content/features/services/dismissals/hsreprisals.md
-- content/menu/aboutus/clinic-history.md
-- content/menu/aboutus/board-of-directors.md
+- content/features/project/buena-paga-2.md
+- content/features/project/el-cafecito.md
+- content/features/project/index.md
+- content/features/ptsd-prevention-1.md
 - content/features/public-education.md
+- content/features/services/dismissals/canada-labor-code.md
+- content/features/services/dismissals/employment-standards.md
+- content/features/services/dismissals/hsreprisals.md
+- content/features/services/dismissals/human-rights.md
+- content/features/services/dismissals/small-claims.md
+- content/features/services/unlawful-dismissals.md
+- content/features/services/workplace-safety.md
+- content/features/undocumented-workers.md
+- content/menu/about-us.md
+- content/menu/aboutus/board-of-directors.md
+- content/menu/aboutus/clinic-history.md
+- content/menu/aboutus/staff.md
+- content/menu/contact.md
 - content/menu/links.md
+- content/menu/member.md
+- content/menu/who-we-serve.md
