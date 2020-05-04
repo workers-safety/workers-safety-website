@@ -31,7 +31,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-  - HUGO_ENV=staging
+  - HUGO_ENV=production
   - HUGO_VERSION=0.69.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
