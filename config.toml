@@ -1,5 +1,5 @@
 #baseurl = "http://workers-safety.ca.s3-website-us-east-1.amazonaws.com/"
-baseurl = "http://workers-safety.ca"
+baseurl = "http://workers-safety.ca/"
 title = "Legal Clinic"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
