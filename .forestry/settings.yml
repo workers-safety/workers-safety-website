@@ -44,4 +44,3 @@ build:
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: '0.17'
-© 2020 GitHub, Inc.
