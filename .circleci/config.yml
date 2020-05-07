@@ -27,7 +27,7 @@ jobs:
             name: deploy to AWS
             command: |
                 if [[ "${CIRCLE_BRANCH}" == "test-1" ]]; then
-                     aws s3 sync public/ s3://workers-safety.ca/          
+                    # aws s3 sync public/ s3://workers-safety.ca/          
                   else
                     echo "Not master branch, dry run only"
                 fi
