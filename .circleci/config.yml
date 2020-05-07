@@ -80,7 +80,8 @@ jobs:
         - ~/.go_workspace
         - ~/.gradle
         - ~/.cache/bower
-    # Test
+    # Tes
+    # this is just to test
     #   This would typically be a build job when using workflows, possibly combined with build
     # This is based on your 1.0 configuration file or project settings
     - run: docker run -d -p 1313:1313 --name hugotest -v $(pwd)/:/usr/src/blog clamorisse/hugo:0.15 hugo server --baseUrl=http://localhost/ --watch --bind=0.0.0.0; sleep 10
