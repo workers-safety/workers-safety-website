@@ -15,11 +15,12 @@
 
             <div class="row">
 
-                {{ $posts := .Paginate (where .Data.Pages "Type" "communications") }}
+                {{ $posts := .Paginate (where .Site.Pages "Type" "communications") }}
+		 
                 {{ range first 4 $posts.Pages }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
-                        <div class="top">
+                        <div class="top">{{ $posts.Pages }}
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "banner" }}
                                 <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
