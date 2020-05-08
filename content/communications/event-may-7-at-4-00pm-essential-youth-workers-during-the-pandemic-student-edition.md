@@ -4,7 +4,7 @@ categories = ["x", "y"]
 date = 2020-05-07T20:00:00Z
 draft = true
 tags = ["x", "y"]
-title = "Event - May 7 at 4:00pm - Essential Youth Workers During the Pandemic: Student Edition."
+title = "Essential Youth Workers During the Pandemic: Student Edition."
 
 +++
 Are you an essential worker during the COVID-19 Pandemic? Want to know more about how to protect yourself while working?
