@@ -18,13 +18,22 @@ jobs:
             name: "Staging Environment"
             command: HUGO_ENV=staging hugo -v -d ~/mysite/public --baseUrl=http://stage.workers-safety.ca/ 
             
+        # deploy in staging    
+        - deploy: 
+            name: deploy to staging
+            command: |
+                if [[ "${CIRCLE_BRANCH}" == "test-1"]]; then
+                    # aws s3 rm s3://stage.workers-safety.ca/ --recursive
+                    # aws s3 sync public/ s3://stage./workers-safety.ca/           
+                  else
+                    echo "Not master branch, dry run only"
+                fi
+                  
         - run:
             name: "Production Environment"
             command: HUGO_ENV=production hugo -v -d ~/mysite/public --baseUrl=http://workers-safety.ca/
-        
-       
+            
         # Deploy
-  
         - deploy:          
             name: deploy to Production
             command: |
@@ -34,16 +43,8 @@ jobs:
                   else
                     echo "Not master branch, dry run only"
                 fi
-                
-        - deploy: 
-            name: deploy to staging
-            command: |
-                if [[ "${CIRCLE_BRANCH}" == "test-1"]]; then
-                    # aws s3 rm s3://workers-safety.ca/ --recursive
-                    # aws s3 sync public/ s3://stage./workers-safety.ca/           
-                  else
-                    echo "Not master branch, dry run only"
-                fi
+           
+
                 
 workflows:
   version: 2
@@ -53,5 +54,5 @@ workflows:
           filters:
             branches:
               only: 
-                - master
                 - test-1
+                - master
