@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "img/banners/Untitled-1.jpg"
 categories = ["x", "y"]
 date = ""
 draft = true
