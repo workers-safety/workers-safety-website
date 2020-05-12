@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/Untitled-1.jpg"
+banner = "img/banners/COVIDimage.jpg"
 categories = []
 date = 2020-05-11T04:00:00Z
 tags = ["hazards", "health and safety"]
