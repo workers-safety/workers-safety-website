@@ -2,7 +2,6 @@
 banner = "img/banners/Untitled-1.jpg"
 categories = []
 date = 2020-05-11T04:00:00Z
-draft = true
 tags = ["hazards", "health and safety"]
 title = "COVID-19 Health and Safety Considerations."
 
