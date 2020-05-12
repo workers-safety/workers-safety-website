@@ -13,8 +13,8 @@ Under the _Occupational Health and Safety Act_ (OHSA), a worker has the right to
 
 The Workers' Health and Safety Legal Clinic has developed an information sheet to help workers' navigate their health and safety rights.
 
-[Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/COVID-19/WHSLC_COVID-19+Health+and+Safety+Considerations.pdf "WHSLC - COVID-19 Health and Safety Considerations") to access the .PDF document.
+[**Click here**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/COVID-19/WHSLC_COVID-19+Health+and+Safety+Considerations.pdf "WHSLC - COVID-19 Health and Safety Considerations") to access the .PDF document.
 
 ***
 
-For more information on your health and safety rights at work, download our [Work Safe Guide](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020").
+For more information on your health and safety rights at work, download our [**Work Safe Guide**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020").
