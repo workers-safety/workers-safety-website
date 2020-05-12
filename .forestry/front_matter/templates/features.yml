@@ -32,4 +32,5 @@ fields:
   hidden: false
   type: tag_list
 pages:
+- content/communications/covid-19-health-and-safety-considerations.md
 - content/features/newsletters.md
