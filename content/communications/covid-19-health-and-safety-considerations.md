@@ -9,7 +9,9 @@ title = "COVID-19 Health and Safety Considerations."
 +++
 Working during COVID-19, will depend on the type of work and its effect on public services. There are many workplaces that are considered [essential](https://www.ontario.ca/page/list-essential-workplaces "List of Essential Workplaces") including grocery stores, pharmacies and healthcare providers, that will require workers to come in despite the current government recommendations to avoid leaving home.
 
-Under the _Occupational Health and Safety Act_ (OHSA), a worker has the right to ask their boss to take reasonable health and safety precautions in their workplace if there is a high likeliness of exposure to COVID-19.
+Under the _Occupational Health and Safety Act_ (OHSA), a worker has the right to ask their boss to take reasonable health and safety precautions in their workplace if there is a high likeliness of exposure to COVID-19. 
+
+If the employer is not taking reasonable heath and safety precautions at work, a worker has the right to refuse work they believe to be unsafe. A worker should not be punished for trying to exercise their health and safety rights at work.
 
 The Workers' Health and Safety Legal Clinic has developed an information sheet to help workers' navigate their health and safety rights.
 
