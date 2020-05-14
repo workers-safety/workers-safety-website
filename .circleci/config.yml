@@ -39,7 +39,7 @@ jobs:
             command: |
                 if [[ "${CIRCLE_BRANCH}" == "master" ]]; then
                       aws s3 rm s3://workers-safety.ca/ --recursive
-                      aws s3 sync public/ s3:///workers-safety.ca/
+                      aws s3 sync public/ s3://workers-safety.ca/
                   else
                     echo "Not master branch, dry run only"
                 fi
