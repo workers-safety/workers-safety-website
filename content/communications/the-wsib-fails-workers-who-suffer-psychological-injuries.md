@@ -1,8 +1,7 @@
 +++
 banner = "img/banners/whslc4Clogo.jpg"
 categories = ["Letter"]
-date = "2016-12-12T11:31:00-05:00"
-draft = true
+date = 2020-05-04T15:31:00Z
 tags = ["WSIB", "Injured Workers"]
 title = "The WSIB Fails Workers Who Suffer Psychological Injuries"
 
