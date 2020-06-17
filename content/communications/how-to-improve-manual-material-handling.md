@@ -37,3 +37,5 @@ Learn more about this year's project findings by reviewing the [**poster**](http
 2013-2014: High-Rise Building Window Design - [Project Final Design Specifications](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2014+04.+U+of+T+ESP+FDS++high-rise+building+window+design.pdf) (ESP)
 
 2013-2014: Fuel Gas Fixture Protection - [Project Final Design Specifications](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2014+04.+U+of+T+ESP+FDS++fuel+gas+fixtures.pdf) (ESP)
+
+***
