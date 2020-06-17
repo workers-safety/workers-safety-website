@@ -2,7 +2,6 @@
 banner = "img/banners/ar2019.png"
 categories = ["hazards", "injured workers"]
 date = 2019-12-01T05:00:00Z
-draft = true
 tags = ["report"]
 title = "Annual Report 2019"
 
