@@ -13,7 +13,7 @@ type = "page"
 
 **COVID-19 NOTICE**
 
-**The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are continuing our Public Legal Education workshops via on-line platforms.  Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at whslc@lao.on.ca.**
+**The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are continuing our Public Legal Education workshops via online platforms.**  
 
 ***
 
