@@ -4,7 +4,7 @@ categories = ["x", "y"]
 date = 2020-06-15T04:00:00Z
 draft = true
 tags = ["x", "y"]
-title = "Letter to the Premier Recommending Paid Sick Leave"
+title = "Letter to the Premier Recommending Paid Sick Leave and Mandatory Medical Notes"
 
 +++
 On June 15th, the Workers' Health and Safety Legal Clinic wrote a letter to Premier Ford and Minister McNaughton to urge the Ontario government to work with the federal government to require employers institute paid sick days for provincially regulated workers in Ontario. 
