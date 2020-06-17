@@ -2,7 +2,6 @@
 banner = "img/banners/whslc4Clogo.jpg"
 categories = ["x", "y"]
 date = 2020-06-15T04:00:00Z
-draft = true
 tags = ["x", "y"]
 title = "Letter to the Premier Recommending Paid Sick Leave and Mandatory Medical Notes"
 
