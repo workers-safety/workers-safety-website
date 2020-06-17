@@ -11,7 +11,7 @@ type = "page"
 
 ***
 
-**COVID-19 NOTICE** 
+**COVID-19 NOTICE**
 
 **The Workers' Health and Safety Legal Clinic's services are available by phone and email. We are continuing our Public Legal Education workshops via on-line platforms.  Contact us by phone at 416-971-8832 or 1-877-832-6090, or by email at whslc@lao.on.ca.**
 
@@ -35,6 +35,6 @@ As a worker in Ontario, you have basic health and safety rights. It is against t
 
 **Click below to learn more:**
 
-#### Work Safe: Your 
+### [Work Safe: Your Health and Safety at Work](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Publications/2020+Work+Safe+Guide/Work+Safe+Guide+-+2020.pdf "Work Safe Guide 2020")
 
 ***
