@@ -3,7 +3,7 @@ banner = "img/banners/back-pain.png"
 categories = []
 date = 2020-06-01T04:00:00Z
 tags = []
-title = "U of T Capstone Project: Improving Manual Material Handling"
+title = "U of T Capstone Project: Improving Manual Material Handling."
 
 +++
 The Worker's Health and Safety Legal Clinic continued its partnership with first year engineering students at the University of Toronto by participating in U of T Engineering Strategies & Practice Course, and the 2019-2020 Multidisciplinary Capstone Design Course.
