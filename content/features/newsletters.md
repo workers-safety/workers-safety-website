@@ -12,11 +12,11 @@ Scroll down to access the Clinic's newsletters dating back to 2010.
 
 ***
 
-[Fall 2018 - Issue: Vol. 27, No. 1](s3://newsletter.workers-safety.ca/newsletters/Clinic Newsletters/2010-present/Vol 27, No 1, Fall 2018/WHSLCnewsletter-Fall 2018-Vol 27, No 1.pdf)
+[Fall 2018 - Issue: Vol. 27, No. 1](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+27%2C+No+1%2C+Fall+2018/WHSLCnewsletter-Fall+2018-Vol+27%2C+No+1.pdf)
 
 ***
 
-[Winter 2018 - Issue: Vol. 26, No. 1](s3://newsletter.workers-safety.ca/newsletters/Clinic Newsletters/2010-present/Vol 26, No 1, Winter 2018/WHSLCnewsletter-Winter2018-Vol 26 No 1.pdf)
+[Winter 2018 - Issue: Vol. 26, No. 1](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+26%2C+No+1%2C+Winter+2018/WHSLCnewsletter-Winter2018-Vol+26+No+1.pdf)
 
 ***
 
