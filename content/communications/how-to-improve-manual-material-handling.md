@@ -30,9 +30,9 @@ Learn more about this year's project findings by reviewing the [**poster**](http
 
 2014-2015: Improving Fume Hood and Glove Panel Safety - [Final Design Specifications](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2015+04+10.+++%5B%5D2%5B%5D+++U+of+T+++Fume+Hood+--+Glove+Panel.pdf) (ESP)
 
-2014-2015: Chemical Transfer Design Project - [Final Design Specifications](s3://newsletter.workers-safety.ca/newsletters/Clinic Projects/U of T Capstone Project/2015 04 28.   \[\]2\[\]   U of T  Chemical transfer design .pdf) (ESP)
+2014-2015: Chemical Transfer Design Project - [Final Design Specifications](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2015+04+28.+++%5B%5D2%5B%5D+++U+of+T++Chemical+transfer+design+.pdf) (ESP)
 
-2014-2015: Fermentation Reactor Design Project - [Final Design Specifications](s3://newsletter.workers-safety.ca/newsletters/Clinic Projects/U of T Capstone Project/2015 04 15.  \[\]2\[\]    U of T     fermentation reactor  .pdf) (ESP)
+2014-2015: Fermentation Reactor Design Project - [Final Design Specifications ](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2015+04+15.++%5B%5D2%5B%5D++++U+of+T+++++fermentation+reactor++.pdf)(ESP)
 
 2013-2014: High-Rise Building Window Design - [Project Final Design Specifications](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/U+of+T+Capstone+Project/2014+04.+U+of+T+ESP+FDS++high-rise+building+window+design.pdf) (ESP)
 
