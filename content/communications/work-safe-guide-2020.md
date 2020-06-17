@@ -2,7 +2,6 @@
 banner = "img/banners/worksafeimage.png"
 categories = ["x", "y"]
 date = 2020-03-31T04:00:00Z
-draft = true
 tags = ["x", "y"]
 title = "Work Safe Guide 2020."
 
