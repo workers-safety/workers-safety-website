@@ -11,7 +11,7 @@ type = "page"
 
 ***
 
-**COVID-19 NOTICE TO THE PUBLIC:** Currently the Workers' Health and Safety Legal Clinic's services are available by phone and email. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us at 416-971-8832 or Toll Free 1-877-832-6090, or by email at whslc@lao.on.ca.
+**COVID-19 NOTICE TO THE PUBLIC: Currently the Workers' Health and Safety Legal Clinic's services are available by phone and email. Our staff is available to help from Monday to Friday 9am to 5pm. Contact us at 416-971-8832 or Toll Free 1-877-832-6090, or by email at whslc@lao.on.ca.**
 
 ***
 
