@@ -32,6 +32,7 @@ fields:
   hidden: false
   type: tag_list
 pages:
+- content/communications/work-safe-guide-2020.md
 - content/features/archives.md
 - content/features/law-reform.md
 - content/features/legal-services.md
