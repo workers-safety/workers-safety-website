@@ -16,7 +16,9 @@ _The Workers’ Health and Safety Legal Clinic provides free legal services to n
 
 ***
 
-#### **COVID-19 NOTICE TO THE PUBLIC: We are not providing in-person services at this time, however our services are available by phone and email.** 
+#### **COVID-19 NOTICE** 
+
+#### **We are not providing in-person services at this time, however our services are available by phone and email.**
 
 ***
 
@@ -24,13 +26,15 @@ _The Workers’ Health and Safety Legal Clinic provides free legal services to n
 
 * 
 
-  #### Telephone: 416-971-8832 (Local) or 1-877-832-6090 (Toll free)
+#### Telephone: 416-971-8832 (Local) or 1-877-832-6090 (Toll free)
+
 * 
 
-  #### Fax: 416-971-8834
+#### Fax: 416-971-8834
+
 * 
 
-  #### Email: whslc@lao.on.ca
+#### Email: whslc@lao.on.ca
 
 #### Follow us on [Facebook](https://www.facebook.com/TWHSLC/) and [Twitter](https://twitter.com/TWHSLC).
 
