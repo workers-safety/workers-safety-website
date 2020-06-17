@@ -1,6 +1,6 @@
 +++
 banner = "img/banners/whslc4Clogo.jpg"
-categories = []
+categories = ["law reform", "letter"]
 date = 2020-06-15T04:00:00Z
 tags = []
 title = "Letter to the Premier Recommending Paid Sick Leave and Mandatory Medical Notes"
