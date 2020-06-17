@@ -1,8 +1,8 @@
 +++
 banner = "img/banners/worksafeimage.png"
-categories = ["x", "y"]
-date = 2020-03-31T04:00:00Z
-tags = ["x", "y"]
+categories = []
+date = 2020-05-11T04:00:00Z
+tags = ["health and safety", "hazards", "workers rights", "workers compensation"]
 title = "Work Safe Guide 2020."
 
 +++
