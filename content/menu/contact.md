@@ -16,9 +16,7 @@ _The Workers’ Health and Safety Legal Clinic provides free legal services to n
 
 ***
 
-#### **COVID-19 NOTICE** 
-
-#### **We are not providing in-person services at this time, however our services are available by phone and email.**
+#### **COVID-19 NOTICE --- We are not providing in-person services at this time, however our services are available by phone and email.**
 
 ***
 
