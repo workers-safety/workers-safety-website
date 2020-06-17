@@ -2,7 +2,6 @@
 banner = "img/banners/back-pain.png"
 categories = ["x", "y"]
 date = 2020-06-01T04:00:00Z
-draft = true
 tags = ["x", "y"]
 title = "U of T Capstone Project: Improving Manual Material Handling"
 
