@@ -6,7 +6,7 @@ tags = ["x", "y"]
 title = "Letter to the Premier Recommending Paid Sick Leave and Mandatory Medical Notes"
 
 +++
-On June 15th, the Workers' Health and Safety Legal Clinic wrote a letter to Premier Ford and Minister McNaughton to urge the Ontario government to work with the federal government to require employers institute paid sick days for provincially regulated workers in Ontario. 
+On June 15th, the Workers' Health and Safety Legal Clinic wrote a letter to Premier Ford and Minister McNaughton to urge the Ontario government to work with the federal government to require employers institute paid sick days for provincially regulated workers in Ontario.
 
 Whether it is the common cold or COVID-19, infectious diseases that impact workers will remain a constant. In Ontario, workers who are required to obtain medical notes and do not have access to paid sick leave are disproportionately racialized women, migrants and young workers, working lower income, non-unionized positions which cannot be performed remotely. They are the cleaners, the security staff, and the grocery store clerks who work on the frontlines, ensuring that society is able to function in spite of the pandemic.
 
