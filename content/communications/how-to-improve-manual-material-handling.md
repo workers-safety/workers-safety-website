@@ -6,7 +6,7 @@ tags = []
 title = "U of T Capstone Project: Improving Manual Material Handling."
 
 +++
-The Worker's Health and Safety Legal Clinic continued its partnership with first year engineering students at the University of Toronto by participating in U of T Engineering Strategies & Practice Course, and the 2019-2020 Multidisciplinary Capstone Design Course.
+The Workers' Health and Safety Legal Clinic continued its partnership with first year engineering students at the University of Toronto by participating in U of T Engineering Strategies & Practice Course, and the 2019-2020 Multidisciplinary Capstone Design Course.
 
 Proposed by Clinic volunteer, Edward Liu, this year's project looked to address one of the most common injuries in the workplace - lower back pain. Statistics show that almost 1 in 4 workers will experience some form of injury because of repeated lifting and transporting of heavy materials. Currently, there is no solution that eliminates or directly minimizes the risk of of work-related injury where users must have the loads carried exclusively on their person.
 
