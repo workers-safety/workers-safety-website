@@ -16,7 +16,7 @@ jobs:
         # build with Hugo      
         - run: 
             name: "Staging Environment"
-            command: HUGO_ENV=staging hugo -v -d ~/mysite/public --baseUrl=http://stage.workers-safety.ca/ 
+            command: HUGO_ENV=staging hugo -v -d ~/mysite/public --baseUrl=http://stage.workers-safety.ca
             
         # deploy in staging    
         - deploy: 
@@ -31,7 +31,7 @@ jobs:
                   
         - run:
             name: "Production Environment"
-            command: HUGO_ENV=production hugo -v -d ~/mysite/public --baseUrl=http://workers-safety.ca/
+            command: HUGO_ENV=production hugo -v -d ~/mysite/public --baseUrl=http://workers-safety.ca
             
         # Deploy
         - deploy:          
