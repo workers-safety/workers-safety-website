@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/law-reform.png"
+banner = "img/banners/law-reform-2.png"
 categories = ["case law", "law reform"]
 date = 2020-06-29T04:00:00Z
 tags = ["health and safety", "workers rights"]
