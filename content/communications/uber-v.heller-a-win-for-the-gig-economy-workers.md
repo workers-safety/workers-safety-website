@@ -2,7 +2,6 @@
 banner = "img/banners/law-reform.png"
 categories = ["case law", "law reform"]
 date = 2020-06-29T04:00:00Z
-draft = true
 tags = ["health and safety", "workers rights"]
 title = "Uber v Heller - A win for the “Gig” Economy Workers."
 
