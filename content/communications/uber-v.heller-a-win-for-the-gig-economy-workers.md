@@ -3,7 +3,7 @@ banner = "img/banners/law-reform.png"
 categories = ["case law", "law reform"]
 date = 2020-06-29T04:00:00Z
 tags = ["health and safety", "workers rights"]
-title = "Uber v Heller - A win for the “Gig” Economy Workers."
+title = "Uber v. Heller - A win for the “Gig” Economy Workers."
 
 +++
 The Supreme Court of Canada released the decision in _Uber Technologies Inc. v. Heller._ The Clinic was one of several intervenors in the matter to raise the issue of the need to protect statutory minimums for workers.
