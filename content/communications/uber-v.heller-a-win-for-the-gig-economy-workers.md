@@ -6,6 +6,8 @@ tags = ["health and safety", "workers rights"]
 title = "Uber v. Heller - A win for the “Gig” Economy Workers."
 
 +++
+In a win for “gig” economy workers, the Supreme Court of Canada found in _Uber Technologies Inc. v. Heller_ that the onerous mandatory arbitration clause in Uber’s service agreements is unconscionable.
+
 The Supreme Court of Canada released the decision _Uber Technologies Inc. v. Heller_. This decision was an appeal from the Ontario Court of Appeal. The Court of Appeal found that Uber’s mandatory arbitration clause was “unconscionable”. The Clinic intervened to argue that mandatory arbitration clauses, like Uber’s, undermine the minimum protections for workers in Ontario.
 
 Tech companies like Uber employ a large number of people in Ontario and worldwide but take the position that their workers are in fact independent contractors. This tactic allows them to avoid the obligations that all employers have toward their workers’ safety.
