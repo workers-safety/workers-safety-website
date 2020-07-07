@@ -6,16 +6,20 @@ tags = ["health and safety", "workers rights"]
 title = "Uber v. Heller - A win for the “Gig” Economy Workers."
 
 +++
-The Supreme Court of Canada released the decision in _Uber Technologies Inc. v. Heller._ The Clinic was one of several intervenors in the matter to raise the issue of the need to protect statutory minimums for workers.
+The Supreme Court of Canada released the decision _Uber Technologies Inc. v. Heller_. This decision was an appeal from the Ontario Court of Appeal. The Court of Appeal found that Uber’s mandatory arbitration clause was “unconscionable”. The Clinic intervened to argue that mandatory arbitration clauses, like Uber’s, undermine the minimum protections for workers in Ontario.
 
-Many tech companies like Uber are providing employment to people, but have little interest in the responsibility of providing their workers with the minimum standards for working conditions.
+Tech companies like Uber employ a large number of people in Ontario and worldwide but take the position that their workers are in fact independent contractors. This tactic allows them to avoid the obligations that all employers have toward their workers’ safety.
 
-Mr. Heller was a driver for Uber who started a class action against the company. Of interest to the Clinic was the seeking of recognition of being Uber’s employees and the ability to exercise the rights under the _Employment Standards Act_. Uber argued that any disputes were to be resolved through arbitration and that the class action should be stayed.
+Mr. Heller was a delivery driver for Uber. He started a class action against the company on behalf of all of Uber’s drivers. Uber argued that any disputes between them and Mr. Heller had to be resolved through arbitration and that the class action should be stayed. The Clinic sought to provide the Court with the perspective of workers like Uber’s employees who need to be able to resort to the inexpensive enforcement mechanism provided for in the _Employment Standards Act_, the _Occupational Health and Safety Act_, and the _Workplace Safety and Insurance Act_.
 
-The Clinic’s intervention raised with the Court the need for statutory minimums. The _Employment Standards Act_, the _Workplace Safety and Insurance Act_, and the _Occupational Health and Safety Act_ all provide protection to workers. Employers cannot force workers to contract out of their rights by making everyone agree that they are “independent operators”.
+The Clinic told the Court that our clients need statutory minimums and the means to enforce those minimums. The Clinic took the position that the mandatory arbitration clause subverted workers’ means of enforcing the Acts. This intervention is part of a broader effort to ensure that employers cannot force workers to contract out of their minimum rights by telling their workers that they all “agree” that they are “independent operators”.
 
-The Court rejected Uber’s appeal. The Court found that the requirements of the arbitration terms were unconscionable. Given that the arbitration requirement was not valid, the class action could continue. The Court did not address the question of the applicability of the _Employment Standards Act_.
+A majority of the Supreme Court rejected Uber’s appeal and agreed with the Court of Appeal. The Court found that the requirements of the arbitration terms were unconscionable. Given that the arbitration requirement was not valid, the class action could continue. The Court did not address the question of the applicability of the _Employment Standards Act_.
+
+***
 
 To learn more about this decision, visit the court's [Case In Brief]().
 
 To review the decision itself - _Uber Technologies Inc. v. Heller_ [\[2020 SCC 16\]]()
+
+***
