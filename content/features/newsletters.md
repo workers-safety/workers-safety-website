@@ -12,6 +12,10 @@ Scroll down to access the Clinic's newsletters dating back to 2010.
 
 ***
 
+[August 2020 - Issue: Vol. 29, No. 1](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+29%2C+No+1%2C+August+2020/WHSLCnewsletter-August2020.pdf)
+
+***
+
 [Fall 2018 - Issue: Vol. 27, No. 1](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+27%2C+No+1%2C+Fall+2018/WHSLCnewsletter-Fall+2018-Vol+27%2C+No+1.pdf)
 
 ***
