@@ -2,7 +2,6 @@
 banner = "img/banners/agmnotice.png"
 categories = []
 date = 2020-08-27T04:00:00Z
-draft = true
 tags = []
 title = "AGM Notice --- September 23rd, 2020 @ 6:00 pm"
 
