@@ -1,5 +1,5 @@
 +++
-banner = "img/banners/agmnotice.png"
+banner = "img/banners/agmnotice-v2.png"
 categories = []
 date = 2020-08-27T04:00:00Z
 tags = []
