@@ -2,7 +2,7 @@
 banner = "img/banners/agmnotice-v2.png"
 categories = ["publications "]
 date = 2020-08-27T04:00:00Z
-tags = ["events", "health and safety"]
+tags = ["health and safety"]
 title = "AGM Notice --- September 23rd, 2020 @ 6:00 pm"
 
 +++
