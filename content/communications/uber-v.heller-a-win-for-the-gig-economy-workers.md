@@ -20,7 +20,7 @@ A majority of the Supreme Court rejected Uber’s appeal and agreed with the Cou
 
 ***
 
-**For a more detailed article on the decision, please click on the** [**Clinic Newsletter - August 2020**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+29%2C+No+1%2C+August+2020/WHSLCnewsletter-August2020.pdf)**.**
+**For a more detailed article on the decision, click on the following link ---** [**Clinic Newsletter - August 2020**](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Newsletters/2010-present/Vol+29%2C+No+1%2C+August+2020/WHSLCnewsletter-August2020.pdf)**.**
 
 ***
 
