@@ -12,12 +12,14 @@ jobs:
         # install aws cli on image
         - run:
             name: "Install AWS CLI( first install pip, the python package manager)"
-            command: sudo apt-get install awscli
+            command: |
+               sudo apt update
+               sudo apt-get install awscli              
 
         # build with Hugo      
         - run: 
             name: "Staging Environment"
-            command: HUGO_ENV=staging hugo -v -d ~/mysite/public --baseUrl=http://stage.workers-safety.ca/ 
+            command: HUGO_ENV=staging hugo -v -d ~/mysite/public --baseUrl=http://stage.workers-safety.ca/
             
         # deploy in staging    
         - deploy: 
