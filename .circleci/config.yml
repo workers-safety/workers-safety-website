@@ -9,6 +9,7 @@ jobs:
       steps:
         - checkout
         
+        # install aws cli on image
         - run:
             name: "Install AWS CLI( first install pip, the python package manager)"
             command: sudo apt-get install awscli
