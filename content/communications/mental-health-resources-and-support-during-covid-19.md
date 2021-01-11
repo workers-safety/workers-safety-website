@@ -2,7 +2,6 @@
 banner = "img/banners/youssef-naddam-ij2ig8ckcpa-unsplash-v2.jpg"
 categories = ["resources"]
 date = 2021-01-04T05:00:00Z
-draft = true
 tags = ["health and safety"]
 title = "Mental Health Resources and Supports"
 
