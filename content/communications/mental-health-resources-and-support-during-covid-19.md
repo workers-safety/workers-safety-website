@@ -11,7 +11,7 @@ title = "Mental Health Resources and Support during COVID‑19"
 
 \-
 
-#### **BounceBack Program (CMHA)** - [https://bouncebackontario.ca/](https://bouncebackontario.ca/ "https://bouncebackontario.ca/")
+#### **BounceBack Program (CMHA)** - [**https://bouncebackontario.ca/**](https://bouncebackontario.ca/ "https://bouncebackontario.ca/")
 
 _BounceBack_ is a free skill-building program managed by the Canadian Mental Health Association (CMHA). It is designed to help adults and youth 15+ manage low mood, mild to moderate depression and anxiety, stress or worry. Delivered over the phone with a coach and through online videos, you will get access to tools that will support you on your path to mental wellness.
 
