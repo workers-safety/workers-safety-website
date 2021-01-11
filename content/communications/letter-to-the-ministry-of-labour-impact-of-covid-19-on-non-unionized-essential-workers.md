@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "img/banners/esswrkscovid.png"
 categories = ["COVID-19"]
 date = 2020-05-06T04:00:00Z
 draft = true
