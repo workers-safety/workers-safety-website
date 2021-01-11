@@ -2,7 +2,6 @@
 banner = "img/banners/esswrkscovid.png"
 categories = ["COVID-19"]
 date = 2020-05-06T04:00:00Z
-draft = true
 tags = ["health and safety"]
 title = "Letter to the Ministry of Labour - Impact of COVID-19 on Non-unionized Essential Workers."
 
