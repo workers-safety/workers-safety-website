@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "img/banners/youssef-naddam-ij2ig8ckcpa-unsplash-v2.jpg"
 categories = ["resources"]
 date = 2021-01-04T05:00:00Z
 draft = true
@@ -26,3 +26,7 @@ _AbilitiCBT_ is an internet-based cognitive behavioral therapy (iCBT) program th
 #### **Take Care 19** - [**takecare19.com**](http://takecare19.com/)
 
 [_takecare19.com_](http://takecare19.com/) is accessible and inclusive mental health resources for those coping through COVID‑19. In this time of uncertainty and rapid changes, some of us or our loved ones can be having a hard time with the news, loss of income and financial instability, health fears, feeling physically and emotionally isolated, and greater mental health issues. [Click here](https://s3.amazonaws.com/newsletter.workers-safety.ca/newsletters/Clinic+Projects/COVID-19/TakeCare19-Mental+Health+Resources+Factsheet.docx "Resources Factsheet") for a crowd-sourced document that lists some helpful and free/low-cost mental health resources to cope with COVID-19.
+
+***
+
+Communication Post Photo by [youssef naddam](https://unsplash.com/@youssefnaddam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/mental-health-images-help?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
