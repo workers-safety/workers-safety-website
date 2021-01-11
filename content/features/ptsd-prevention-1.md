@@ -27,7 +27,7 @@ Post Traumatic Stress Disorder can be addressed with early detection, mandatory 
 
 ***
 
-## **Mental Health Resources & Supports during COVID‑19**
+## **Mental Health Resources & Supports**
 
 \-
 
@@ -42,6 +42,8 @@ _BounceBack_ is a free skill-building program managed by the Canadian Mental Hea
 _AbilitiCBT_ is an internet-based cognitive behavioral therapy (iCBT) program that you can access from any device, any time. Cognitive behavioral therapy is one of the most effective forms of therapy by helping you understand and change the thoughts, feelings and behaviors that are causing you problems. _AbilitiCBT_’s user-friendly virtual platform makes it convenient to get help when you need it, where you need it. _AbilitiCBT_ is FREE if you live in Ontario or Manitoba, thanks to partnership with the provincial governments.
 
 \-
+
+## Resources Specific to COVID-19
 
 #### **Take Care 19** - [**takecare19.com**](http://takecare19.com/)
 
