@@ -9,19 +9,19 @@ title = "Mental Health Resources and Support during COVID‑19"
 +++
 ## **Mental Health Resources & Supports during COVID‑19**
 
-\-
+***
 
 #### **BounceBack Program (CMHA)** - [**https://bouncebackontario.ca/**](https://bouncebackontario.ca/ "https://bouncebackontario.ca/")
 
 _BounceBack_ is a free skill-building program managed by the Canadian Mental Health Association (CMHA). It is designed to help adults and youth 15+ manage low mood, mild to moderate depression and anxiety, stress or worry. Delivered over the phone with a coach and through online videos, you will get access to tools that will support you on your path to mental wellness.
 
-\-
+***
 
 #### **AbilitiCBT** - [**https://myicbt.com/home**](https://myicbt.com/home "https://myicbt.com/home")
 
 _AbilitiCBT_ is an internet-based cognitive behavioral therapy (iCBT) program that you can access from any device, any time. Cognitive behavioral therapy is one of the most effective forms of therapy by helping you understand and change the thoughts, feelings and behaviors that are causing you problems. _AbilitiCBT_’s user-friendly virtual platform makes it convenient to get help when you need it, where you need it. _AbilitiCBT_ is FREE if you live in Ontario or Manitoba, thanks to partnership with the provincial governments.
 
-\-
+***
 
 #### **Take Care 19** - [**takecare19.com**](http://takecare19.com/)
 
