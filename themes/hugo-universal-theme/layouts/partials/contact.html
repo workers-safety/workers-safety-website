@@ -13,7 +13,7 @@
                     <h3>Contact form</h3>
                 </div>
 
-                <form method="post" action="//formspree.io/{{ .Site.Params.email }}">
+                <form method="post" action="https://formspree.io/f/{{ .Site.Params.email }}">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -33,7 +33,7 @@
                                 <textarea id="message" class="form-control" name="message" required></textarea>
                             </div>
                         </div>
-
+                        <div class="g-recaptcha" data-sitekey="6Ldr-vQZAAAAANkqk5sABD9TjKyNwwhYbCcS0c5I"></div>
                         <div class="col-sm-12 text-center">
                             <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i> Send message</button>
 
