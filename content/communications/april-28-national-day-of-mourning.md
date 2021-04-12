@@ -38,7 +38,7 @@ The Worker Health and Safety Centre (WHSC) has produced the following materials:
 
 [2021 - WHSC - Day of Mourning - Flyer: Promises. Precautions. Persistence.](https://www.whsc.on.ca/Files/Events/WHSC_DOM2021_Flyer_Generic_WEB.aspx "2021 DOM - WHSC - Flyer")
 
-[22021 - WHSC - Day of Mourning - Statistics: Reflecting Reality.](https://www.whsc.on.ca/Files/Events/WHSC_DOM2021_Beyond-WSIB-Stats_Apr7.aspx "2021 DOM - WHSC Stats")
+[2021 - WHSC - Day of Mourning - Statistics: Reflecting Reality.](https://www.whsc.on.ca/Files/Events/WHSC_DOM2021_Beyond-WSIB-Stats_Apr7.aspx "2021 DOM - WHSC Stats")
 
 ***
 
