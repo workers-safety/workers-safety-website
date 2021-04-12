@@ -18,7 +18,7 @@ The aim of ergonomics is to match the job to the worker in order to reduce the s
 
 It is crucial to control the hazards that could leads to MSDs. The **Occupational Health Clinics for Ontario Workers (OHCOW)** provides ergonomic services and supports ensuring that workers are working safely and effectively.
 
-[**Click here**](https://www.ohcow.on.ca/ergonomics.html "OHCOW Ergonomics") to learn more about the OHCOW ergonomic tools and supports available to increase knowledge among workers, employers, and the general public.
+[**Click here**](https://www.ohcow.on.ca/ergonomics.html "OHCOW Ergonomics") to learn more about the OHCOW Ergonomic learning tools and supports available for workers, employers, and the general public.
 
 [**Click here**](https://www.ohcow.on.ca/ohcow-ergonomic-resources.html "OHCOW Ergonomic Resources") to access OHCOW Ergonomic Resources.
 
@@ -34,4 +34,4 @@ It is crucial to control the hazards that could leads to MSDs. The **Occupationa
 
 ***
 
-Image credit - [ehstoday.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ehstoday.com%2Fhealth%2Farticle%2F21920424%2Fthe-devastating-consequences-of-ignoring-workplace-ergonomics&psig=AOvVaw0nkEsqegQoMD08tUs2Hhbe&ust=1618341002258000&source=images&cd=vfe&ved=2ahUKEwjXkOWVtPnvAhXPZq0KHQ46AlQQr4kDegUIARD0AQ)
+_\[Image credit -_ [_ehstoday.com_](https://base.imgix.net/files/base/ebm/ehstoday/image/2019/10/ehstoday_10699_1019.ehs_ergonomics.png?auto=format&fit=crop&h=432&w=768)_\]_
