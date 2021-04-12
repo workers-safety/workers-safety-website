@@ -2,7 +2,6 @@
 banner = "img/banners/ergo2021.png"
 categories = ["resources", "ergonomics"]
 date = 2021-04-02T04:00:00Z
-draft = true
 tags = []
 title = "OHCOW Ergonomics and Musculoskeletal Disorders"
 
