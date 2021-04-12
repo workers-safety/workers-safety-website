@@ -23,7 +23,7 @@ In this section, you will find information on a variety of issues that relate to
 
 * Tel (416) 924-6744 / Toll free 1-877-230-6311
 
-[**Injured Workers’ Consultants (IWC)**](http://www.injuredworkersonline.org) – provides information, advice and representation to injured workers, and seeks better treatment for injured workers by the workers' compensation system, their employers and the government. IWC is a specialty legal clinic funded by LAO that assists with WSIB matters.
+[**Injured Workers Community Legal Clinic (IWC)**](http://www.injuredworkersonline.org) – provides information, advice and representation to injured workers, and seeks better treatment for injured workers by the workers' compensation system, their employers and the government. IWC is a specialty legal clinic funded by LAO that assists with WSIB matters.
 
 * Tel (416) 461-2411
 
@@ -47,7 +47,7 @@ In this section, you will find information on a variety of issues that relate to
 
 [**Artists’ Legal Advice Services (ALAS)**](http://www.alasontario.ca/) – provides free volunteer-based summary legal advice to artists living in Ontario, and typically assists with issues relating to contracts, defamation, copyright, trademarks and royalties or other payments.
 
-[**Law Society of Upper Canada (LSUC)**](http://www.lsuc.on.ca/) – regulates Ontario's lawyers and paralegals in the public interest, and facilitates access to justice for the people of Ontario.
+[**Law Society of Ontario (LSO)**](https://lso.ca/home) – regulates Ontario's lawyers and paralegals in the public interest, and facilitates access to justice for the people of Ontario.
 
 ***
 
