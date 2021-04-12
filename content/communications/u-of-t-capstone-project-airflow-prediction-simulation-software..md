@@ -2,7 +2,6 @@
 banner = "img/banners/u-of-t-capstone.png"
 categories = ["projects"]
 date = 2021-04-09T04:00:00Z
-draft = true
 tags = ["health and safety"]
 title = "U of T Capstone Project: Airflow Prediction Simulation Software. "
 
