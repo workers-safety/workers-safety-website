@@ -14,7 +14,7 @@ On Wednesday, April 28, 2021, the Workers' Health and Safety Legal Clinic welcom
 
 ***
 
-**Mark the day with a moment of silence at 11am.**
+**Mark the day with a moment of silence at 11:00 am.**
 
 The Canadian Centre for Occupational Health and Safety (CCOHS) has made some memorable social media images to post and use in honour of 2021 Day of Mourning. Visit [https://www.ccohs.ca/events/mourning/](https://www.ccohs.ca/events/mourning/ "https://www.ccohs.ca/events/mourning/")
 
@@ -39,3 +39,7 @@ The Worker Health and Safety Centre (WHSC) has produced the following materials:
 [2021 - WHSC - Day of Mourning - Flyer: Promises. Precautions. Persistence.](https://www.whsc.on.ca/Files/Events/WHSC_DOM2021_Flyer_Generic_WEB.aspx "2021 DOM - WHSC - Flyer")
 
 [22021 - WHSC - Day of Mourning - Statistics: Reflecting Reality.](https://www.whsc.on.ca/Files/Events/WHSC_DOM2021_Beyond-WSIB-Stats_Apr7.aspx "2021 DOM - WHSC Stats")
+
+***
+
+_\[Image credit:_ [_ccohs.ca_](https://ccohs.ca/images/twitter_cards/DoM-2020-2e.png)_\]_
