@@ -1,9 +1,9 @@
 +++
-banner = ""
-categories = ["x", "y"]
+banner = "img/banners/ergo2021.png"
+categories = ["resources", "ergonomics"]
 date = 2021-04-02T04:00:00Z
 draft = true
-tags = ["x", "y"]
+tags = []
 title = "OHCOW Ergonomics and Musculoskeletal Disorders"
 
 +++
@@ -13,23 +13,25 @@ At work, we can all suffer from occasional pain and discomfort, but in general w
 
 Musculoskeletal disorders (MSDs) are the most common type of workplace injury in Ontario workplaces. Musculoskeletal disorders at work is an umbrella term for a number of injuries and disorders of the muscles, tendons, ligaments, bone and nerves.
 
-Studies have shown that physical factors in the workplace, how work is organized and the specific tools used at work can increase a person’s chance of developing MSD. 
+Studies have shown that physical factors in the workplace, how work is organized and the specific tools used at work can increase a person’s chance of developing a musculoskeletal disorder.
 
-Some employers ignore the strong contribution of the workplace and blame workers’ low back or shoulder pain on individual factors (e.g. gardening, susceptibility or genetics). 
+Some employers ignore the strong contribution of the workplace and blame workers’ low back or shoulder pain on individual factors (e.g. gardening, susceptibility or genetics).
 
-The aim of ergonomics is to match the job to the worker to reduce the strain placed on the tissues and to prevent injury. 
+The aim of ergonomics is to match the job to the worker to reduce the strain placed on the tissues and to prevent injury.
 
-It is crucial to control the hazards that could leads to MSDs. The **Occupational Health Clinics for Ontario Workers (OHCOW)** provide ergonomic services and supports ensuring that workers are working safely and effectively. 
+It is crucial to control the hazards that could leads to MSDs. The **Occupational Health Clinics for Ontario Workers (OHCOW)** provides ergonomic services and supports ensuring that workers are working safely and effectively.
 
-To learn more about the ergonomic tools and supports available to increase knowledge among workers, employers, and the general public by visiting [**https://www.ohcow.on.ca/ergonomics.html **](https://www.ohcow.on.ca/ergonomics.html "www.ohcow.on.ca/ergonomics.html")
+[**Click here**](https://www.ohcow.on.ca/ergonomics.html "OHCOW Ergonomics") to learn more about the OHCOW ergonomic tools and supports available to increase knowledge among workers, employers, and the general public.
 
 ***
 
-**Work Shouldn't Hurt -** [https://www.msdprevention.com/About-MSD.htm](https://www.msdprevention.com/About-MSD.htm "www.msdprevention.com/About-MSD.htm")
+### Other Resources
 
-MSD Prevention Guideline for Ontario was a multi-stakeholder initiative led by the Centre of Research Expertise for the Prevention of Musculoskeletal Disorders (CRE-MSD) and funded by the Ontario Ministry of Labour.
+**Prevent MSDs: Work Shouldn't Hurt** 
 
-[MSD Quick Start Guideline - General]()
+"MSD Prevention Guideline for Ontario" was a multi-stakeholder initiative led by the Centre of Research Expertise for the Prevention of Musculoskeletal Disorders (CRE-MSD) and funded by the Ontario Ministry of Labour. [**Click here**](https://www.msdprevention.com/About-MSD.htm "Work Shouldn't Hurt") to learn more.
+
+[Click here](https://www.msdprevention.com/Quick-Start-Guide.htm "MSD Quick Start Guideline") to access MSD Quick Start Guideline - General.
 
 ***
 
