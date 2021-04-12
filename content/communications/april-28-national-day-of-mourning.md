@@ -2,7 +2,6 @@
 banner = "img/banners/2020-dom-ccohs.png"
 categories = ["x", "y"]
 date = 2021-04-14T04:00:00Z
-draft = true
 tags = ["x", "y"]
 title = "April 28 @ 11AM - National Day of Mourning."
 
