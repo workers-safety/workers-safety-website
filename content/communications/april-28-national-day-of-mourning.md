@@ -1,9 +1,9 @@
 +++
 banner = "img/banners/2020-dom-ccohs.png"
-categories = ["x", "y"]
+categories = ["resources"]
 date = 2021-04-14T04:00:00Z
-tags = ["x", "y"]
-title = "April 28 @ 11AM - National Day of Mourning."
+tags = ["health and safety", "events"]
+title = "April 28 @ 11:00 AM - National Day of Mourning."
 
 +++
 Marked annually in Canada on April 28th, the National Day of Mourning is dedicated to remembering those who have lost their lives, or suffered injury or illness on the job or due to a work-related tragedy.
