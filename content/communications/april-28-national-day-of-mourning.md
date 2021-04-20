@@ -22,13 +22,19 @@ The Canadian Centre for Occupational Health and Safety (CCOHS) has made some mem
 
 **Participate in an online event commemorating the day.**
 
-The Workplace Safety and Insurance Board (WSIB) is hosting a ceremony online to commemorate the 2021 National Day of Mourning. More information will be made available [online](http://www.wsib.ca/).
+The Worker Health and Safety Centre (WHSC) has created a listing highlighting the 2021 Day of Mourning virtual events taking place across Ontario.
+
+[2021 Day of Mourning Ontario Events Listing](https://www.whsc.on.ca/Files/Events/DOM-2021_Virtual-Events-Listing_Apr15_web.aspx)
+
+The Workplace Safety and Insurance Board (WSIB) is hosting a ceremony online to commemorate the 2021 National Day of Mourning. More information will be made available [online](https://www.wsibdayofmourning.ca/#events).
 
 ***
 
 **Visiting a Worker Memorial located in your area.**
 
-Memorials have been and continue to be erected in Ontario communities to highlight and honour those lost due to workplace tragedies. Thanks to the fundraising and organizing efforts of workers, health and safety activists and other concerned citizens, the Workplace Health and Safety Centre has a Worker Memorial webpage. Visit [https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials](https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials "https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials")
+Memorials have been and continue to be erected in Ontario communities to highlight and honour those lost due to workplace tragedies. Thanks to the fundraising and organizing efforts of workers, health and safety activists and other concerned citizens, the Workplace Health and Safety Centre has a Worker Memorial webpage. 
+
+Visit [https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials](https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials "https://www.whsc.on.ca/Events/Day-of-Mourning/Worker-Memorials")
 
 ***
 
