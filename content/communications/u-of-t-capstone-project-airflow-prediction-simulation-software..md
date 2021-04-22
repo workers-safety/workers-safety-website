@@ -6,7 +6,7 @@ tags = ["health and safety"]
 title = "U of T Capstone Project: Airflow Prediction Simulation Software. "
 
 +++
-The Workers’ Health and Safety Legal Clinic continued its partnership engineering students at the University of Toronto by participating in U of T Engineering Strategies & Practice Course, and the 2020-2021 Multidisciplinary Capstone Design Course.
+The Workers’ Health and Safety Legal Clinic continued its partnership with engineering students at the University of Toronto by participating in U of T Engineering Strategies & Practice Course, and the 2020-2021 Multidisciplinary Capstone Design Course.
 
 This year’s project looked to address one of the most pressing concerns faced by workplaces during the COVID-19 pandemic - Indoor Air Quality.
 
