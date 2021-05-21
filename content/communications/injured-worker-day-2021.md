@@ -2,7 +2,6 @@
 banner = "img/banners/iwd-june1_2021.png"
 categories = ["event"]
 date = 2021-05-21T04:00:00Z
-draft = true
 tags = ["workers compensation"]
 title = "Injured Workers' Day 2021."
 
