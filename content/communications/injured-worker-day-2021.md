@@ -28,6 +28,8 @@ Meeting ID: 896 8804 6596
 
 Register at [https://tinyurl.com/registerjune1st](https://tinyurl.com/registerjune1st "https://tinyurl.com/registerjune1st")
 
+***
+
 For questions or more information please contact Francis at [pinedaf@lao.on.ca](mailto:pinedaf@lao.on.ca)
 
 ***
