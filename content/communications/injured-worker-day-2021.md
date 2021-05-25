@@ -3,7 +3,7 @@ banner = "img/banners/iwd-june1_2021.png"
 categories = ["event"]
 date = 2021-05-21T04:00:00Z
 tags = ["workers compensation"]
-title = "Injured Workers' Day 2021."
+title = "Injured Workers' Day - June 1st, 2021."
 
 +++
 On June 1st every year, injured workers, labour activists and their allies gather outside the Legislative Assembly at Queen’s Park in Toronto and in cities across the province to mark Injured Workers’ Day. Ontarians pay respect to the hundreds of workers who have lost their lives or been seriously injured as a result of hazardous workplaces.
